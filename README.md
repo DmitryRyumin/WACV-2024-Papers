@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 32/846 -->
+<!-- 41/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/4?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/5?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -221,12 +221,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md">3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X</a>
             </td>
-            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_p_a_m_e_r.md">People; Automotive; Medical; Environmental; Robotics</a>
             </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td colspan="5" align="left"><i>Posters</i></td>
