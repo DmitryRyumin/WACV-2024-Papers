@@ -406,13 +406,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
         </tr>
         <tr>
-            <td colspan="5" align="left"><i>Tutorials</i></td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/tutorials.md">Tutorials</a>
-            </td>
-            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+            <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/tutorials.md"><i>Tutorials</i></a></td>
         </tr>
         <tr>
             <td colspan="5" align="center"><i>Workshops</i></td>

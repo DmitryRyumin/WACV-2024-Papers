@@ -14,6 +14,11 @@
 
 ## Tutorials
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-0-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| [Robustness at Inference: Towards Explainability, Uncertainty, and Intervenability](https://alregib.ece.gatech.edu/wacv-2024-tutorial/) | :heavy_minus_sign: | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://alregib.ece.gatech.edu/wacv-2024-tutorial/) | :heavy_minus_sign: |
+| [Are you Doing Data Protection and Privacy Wrong? AI Governance and Data Protection for Computer Vision and Beyond](https://www.worldprivacyforum.org/2023/12/wpf-modern-takes-on-privacy-in-computer-vision-systems/) | :heavy_minus_sign: | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.worldprivacyforum.org/2023/12/wpf-modern-takes-on-privacy-in-computer-vision-systems/) | :heavy_minus_sign: |
+| [Uncertainty Quantification Tutorial](https://ensta-u2is.github.io/uqt/) | :heavy_minus_sign: | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://ensta-u2is.github.io/uqt/) | :heavy_minus_sign: |
+| [Tutorial on Reliability of Generative Models in Vision](https://asu-apg.github.io/rgmv/) | :heavy_minus_sign: | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://asu-apg.github.io/rgmv/) | :heavy_minus_sign: |
