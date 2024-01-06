@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 93/846 -->
+<!-- 113/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/11?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/13?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -259,16 +259,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md">Image Recognition & Understanding</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/40-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/60-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/27-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/33-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
