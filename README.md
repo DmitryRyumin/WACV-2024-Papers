@@ -18,9 +18,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat)
 
-<!-- 193/846 -->
+<!-- 229/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/23?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/27?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -292,7 +292,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md">Machine Learning: Architectures, Formulations, Algorithms</a>
             </td>
-            <td colspan="4" rowspan="28" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="3" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -308,11 +308,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md">Biometrics, Face, Gesture, Body Pose</a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/22-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/12-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md">Computational Photography, Image and Video Synthesis</a>
             </td>
+            <td colspan="4" rowspan="24" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
