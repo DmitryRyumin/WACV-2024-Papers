@@ -68,7 +68,7 @@
 | HELA-VFA: A Hellinger Distance-Attention-based Feature Aggregation Network for Few-Shot Classification |  |  |  |
 | Late to the Party? On-Demand Unlabeled Personalized Federated Learning |  |  |  |
 | GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-Ray Classification |  |  |  |
-| Towards Better Structured Pruning Saliency by Reorganizing Convolution |  |  |  |
+| [Towards Better Structured Pruning Saliency by Reorganizing Convolution](https://openaccess.thecvf.com/content/WACV2024/html/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.html) | [![GitHub](https://img.shields.io/github/stars/AlexSunNik/SPSRC?style=flat)](https://github.com/AlexSunNik/SPSRC) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.pdf) | :heavy_minus_sign: |
 | Domain Generalization by Rejecting Extreme Augmentations |  |  |  |
 | Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos |  |  |  |
 | MICS: Midpoint Interpolation to Learn Compact and Separated Representations for Few-Shot Class-Incremental Learning |  |  |  |
@@ -117,7 +117,7 @@
 | Fixing Overconfidence in Dynamic Neural Networks |  |  |  |
 | Empowering Unsupervised Domain Adaptation with Large-Scale Pre-Trained Vision-Language Models |  |  |  |
 | pSTarC: Pseudo Source Guided Target Clustering for Fully Test-Time Adaptation |  |  |  |
-| Torque based Structured Pruning for Deep Neural Network |  |  |  |
+| [Torque based Structured Pruning for Deep Neural Network](https://openaccess.thecvf.com/content/WACV2024/html/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.html) | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.pdf) | :heavy_minus_sign: |
 | Meta-Learned Attribute Self-Interaction Network for Continual and Generalized Zero-Shot Learning |  |  |  |
 | Letting 3D Guide the Way: 3D Guided 2D Few-Shot Image Classification |  |  |  |
 | Robust Learning via Conditional Prevalence Adjustment |  |  |  |
