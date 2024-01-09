@@ -33,7 +33,7 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
         env:
-          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
 
       - name: Upload JSON files
         uses: actions/upload-artifact@v2
