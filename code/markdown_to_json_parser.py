@@ -5,6 +5,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import markdown2
 from prettytable import PrettyTable
+from github import Github
 
 
 def print_colored_status(status):
@@ -22,6 +23,27 @@ def print_colored_count(count, label):
         color_code = 92  # Green color for No table or Errors when count is 0
 
     return f"\033[{color_code}m{count}\033[0m"
+
+
+def update_repository_with_json(repo_owner, repo_name, json_filename, json_content):
+    github_token = os.environ.get("GH_TOKEN")
+    if not github_token:
+        print("GitHub token not available. Exiting.")
+        return
+
+    g = Github(github_token)
+    repo = g.get_user(repo_owner).get_repo(repo_name)
+
+    try:
+        file_path = f"json_data/{json_filename}"
+        contents = repo.get_contents(file_path)
+        repo.update_file(
+            contents.path, f"Update {json_filename}", json_content, contents.sha
+        )
+        print(f"File {json_filename} updated successfully.")
+    except Exception:
+        repo.create_file(file_path, f"Create {json_filename}", json_content)
+        print(f"File {json_filename} created successfully.")
 
 
 def process_markdown_file(
@@ -136,6 +158,13 @@ def process_markdown_file(
 
             with open(json_filename, "w", encoding="utf-8") as file:
                 json.dump(papers, file, ensure_ascii=False, indent=2)
+
+            update_repository_with_json(
+                "DmitryRyumin",
+                "WACV-2024-Papers",
+                f"{base_filename}.json",
+                json.dumps(papers, ensure_ascii=False, indent=2),
+            )
 
             table.add_row(
                 [

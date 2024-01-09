@@ -39,37 +39,6 @@ jobs:
           name: json_data
           path: ${{ github.workspace }}/json_data
 
-      - name: Create SSH directory
-        run: mkdir -p ~/.ssh
-
-      - name: Set up SSH key
-        run: |
-          echo -e "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          eval "$(ssh-agent -s)"
-          ssh-add ~/.ssh/id_rsa
-
-      - name: Add GitHub to known hosts
-        run: ssh-keyscan github.com >> ~/.ssh/known_hosts
-
-      - name: Commit and Push Changes
-        if: github.event_name == 'push' && steps.parse.outcome == 'success'
-        run: |
-          git config --global user.email "dl_03.03.1991@mail.ru"
-          git config --global user.name "Dmitry Ryumin"
-          git remote add origin_with_ssh git@github.com:DmitryRyumin/WACV-2024-Papers.git
-          git add .
-          git commit -m "Upload JSON files"
-          git push origin_with_ssh main
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-
-      - name: Debug Info
-        run: |
-          echo "SSH_PRIVATE_KEY: $SSH_PRIVATE_KEY"
-          cat ~/.ssh/id_rsa
-          ssh -vT git@github.com
-
       - name: Set output status
         if: steps.parse.outcome == 'success'
         run: echo "status=success" >> $GITHUB_ENV
