@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Robustness at Inference: Towards Explainability, Uncertainty, and Intervenability",
+    "title_page": "https://alregib.ece.gatech.edu/wacv-2024-tutorial/",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://alregib.ece.gatech.edu/wacv-2024-tutorial/",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Are you Doing Data Protection and Privacy Wrong? AI Governance and Data Protection for Computer Vision and Beyond",
+    "title_page": "https://www.worldprivacyforum.org/2023/12/wpf-modern-takes-on-privacy-in-computer-vision-systems/",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://www.worldprivacyforum.org/2023/12/wpf-modern-takes-on-privacy-in-computer-vision-systems/",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Uncertainty Quantification Tutorial",
+    "title_page": "https://ensta-u2is.github.io/uqt/",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://ensta-u2is.github.io/uqt/",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Tutorial on Reliability of Generative Models in Vision",
+    "title_page": "https://asu-apg.github.io/rgmv/",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://asu-apg.github.io/rgmv/",
+    "paper_arxiv": null,
+    "video": null
+  }
+]
