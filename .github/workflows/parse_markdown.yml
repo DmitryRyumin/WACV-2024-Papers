@@ -42,7 +42,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.email "neweraairesearch@gmail.com"
-          git config --global user.name "Dmitry Ryumin"
+          git config --global user.name "DmitryRyumin"
           git add .
           git commit -m "Upload JSON files"
           git push https://$WACV_TOKEN@github.com/DmitryRyumin/WACV-2024-Papers.git
