@@ -44,9 +44,10 @@ jobs:
         run: |
           git config --global user.email "dl_03.03.1991@mail.ru"
           git config --global user.name "Dmitry Ryumin"
+          git remote add origin_with_ssh git@github.com:DmitryRyumin/WACV-2024-Papers.git
           git add .
           git commit -m "Upload JSON files"
-          git push origin main
+          git push origin_with_ssh main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
