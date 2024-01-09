@@ -223,7 +223,6 @@ def main():
     # separator_row = ["-" * length for length in column_lengths]
     # table.add_row(separator_row)
 
-    # Print the PrettyTable
     print(table)
 
     summary_table = PrettyTable(["Category", "Count"])
@@ -236,7 +235,6 @@ def main():
     )
     summary_table.add_row(["Errors", print_colored_count(error_count[0], "Errors")])
 
-    # Print the summary table
     print(summary_table)
 
 
