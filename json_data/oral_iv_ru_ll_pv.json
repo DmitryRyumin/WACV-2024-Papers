@@ -1,0 +1,134 @@
+[
+  {
+    "title": "EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.14535",
+    "video": "https://www.youtube.com/watch?v=wdrQWgPsoOA"
+  },
+  {
+    "title": "Efficient Semantic Matching with Hypercolumn Correlation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Kim_Efficient_Semantic_Matching_With_Hypercolumn_Correlation_WACV_2024_paper.html",
+    "repo": "https://github.com/wookiekim/HCCNet",
+    "web_page": "https://cvlab.postech.ac.kr/research/HCCNet/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Efficient_Semantic_Matching_With_Hypercolumn_Correlation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.04336",
+    "video": null
+  },
+  {
+    "title": "ArcGeo: Localizing Limited Field-of-View Images using Cross-View Matching",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Shugaev_ArcGeo_Localizing_Limited_Field-of-View_Images_Using_Cross-View_Matching_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Shugaev_ArcGeo_Localizing_Limited_Field-of-View_Images_Using_Cross-View_Matching_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Contextual Affinity Distillation for Image Anomaly Detection",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Zhang_Contextual_Affinity_Distillation_for_Image_Anomaly_Detection_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Contextual_Affinity_Distillation_for_Image_Anomaly_Detection_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2307.03101",
+    "video": null
+  },
+  {
+    "title": "Offline-to-Online Knowledge Distillation for Video Instance Segmentation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Offline-to-Online_Knowledge_Distillation_for_Video_Instance_Segmentation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2302.07516",
+    "video": null
+  },
+  {
+    "title": "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Shin_Video-kMaX_A_Simple_Unified_Approach_for_Online_and_Near-Online_Video_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Shin_Video-kMaX_A_Simple_Unified_Approach_for_Online_and_Near-Online_Video_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.04694",
+    "video": null
+  },
+  {
+    "title": "Conditional Velocity Score Estimation for Image Restoration",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Shi_Conditional_Velocity_Score_Estimation_for_Image_Restoration_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Conditional_Velocity_Score_Estimation_for_Image_Restoration_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "ARNIQA: Learning Distortion Manifold for Image Quality Assessment",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Agnolucci_ARNIQA_Learning_Distortion_Manifold_for_Image_Quality_Assessment_WACV_2024_paper.html",
+    "repo": "https://github.com/miccunifi/ARNIQA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Agnolucci_ARNIQA_Learning_Distortion_Manifold_for_Image_Quality_Assessment_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14918",
+    "video": null
+  },
+  {
+    "title": "Hard Sample-Aware Consistency for Low-Resolution Facial Expression Recognition",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Lee_Hard_Sample-Aware_Consistency_for_Low-Resolution_Facial_Expression_Recognition_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Hard_Sample-Aware_Consistency_for_Low-Resolution_Facial_Expression_Recognition_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Open-Set Object Detection by Aligning Known Class Representations",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Sarkar_Open-Set_Object_Detection_by_Aligning_Known_Class_Representations_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Sarkar_Open-Set_Object_Detection_by_Aligning_Known_Class_Representations_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "DeVos: Flow-Guided Deformable Transformer for Video Object Segmentation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Fedynyak_DeVos_Flow-Guided_Deformable_Transformer_for_Video_Object_Segmentation_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Fedynyak_DeVos_Flow-Guided_Deformable_Transformer_for_Video_Object_Segmentation_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Disentangled Pre-Training for Image Matting",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Li_Disentangled_Pre-Training_for_Image_Matting_WACV_2024_paper.html",
+    "repo": "https://github.com/crystraldo/dpt",
+    "web_page": null,
+    "github_page": "https://crystraldo.github.io/dpt_mat/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Li_Disentangled_Pre-Training_for_Image_Matting_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.00784",
+    "video": null
+  }
+]
