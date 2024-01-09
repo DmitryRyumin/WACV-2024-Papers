@@ -39,6 +39,12 @@ jobs:
           name: json_data
           path: ${{ github.workspace }}/json_data
 
+      - name: Set up SSH
+        run: |
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
       - name: Commit and Push Changes
         if: github.event_name == 'push' && steps.parse.outcome == 'success'
         run: |
