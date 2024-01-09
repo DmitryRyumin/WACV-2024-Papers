@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.html",
+    "repo": "https://github.com/minshu-kim/Recurrent-Elastic-Warp",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.01406",
+    "video": null
+  },
+  {
+    "title": "Exploiting the Signal-Leak Bias in Diffusion Models",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Everaert_Exploiting_the_Signal-Leak_Bias_in_Diffusion_Models_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://ivrl.github.io/signal-leak-bias/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Everaert_Exploiting_the_Signal-Leak_Bias_in_Diffusion_Models_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.15842",
+    "video": null
+  },
+  {
+    "title": "Synthesizing Anyone, Anywhere, in Any Pose",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Hukkelas_Synthesizing_Anyone_Anywhere_in_Any_Pose_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Hukkelas_Synthesizing_Anyone_Anywhere_in_Any_Pose_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2304.03164",
+    "video": null
+  },
+  {
+    "title": "Specular Object Reconstruction Behind Frosted Glass by Differentiable Rendering",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Iwaguchi_Specular_Object_Reconstruction_Behind_Frosted_Glass_by_Differentiable_Rendering_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Iwaguchi_Specular_Object_Reconstruction_Behind_Frosted_Glass_by_Differentiable_Rendering_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Multi-Level Attention Aggregation for Aesthetic Face Relighting",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Pidaparthy_Multi-Level_Attention_Aggregation_for_Aesthetic_Face_Relighting_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Pidaparthy_Multi-Level_Attention_Aggregation_for_Aesthetic_Face_Relighting_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Deep Image Fingerprint: Towards Low Budget Synthetic Image Detection and Model Lineage Analysis",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Sinitsa_Deep_Image_Fingerprint_Towards_Low_Budget_Synthetic_Image_Detection_and_WACV_2024_paper.html",
+    "repo": "https://github.com/Sergo2020/DIF_pytorch_official",
+    "web_page": null,
+    "github_page": "https://sergo2020.github.io/DIF/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Sinitsa_Deep_Image_Fingerprint_Towards_Low_Budget_Synthetic_Image_Detection_and_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.10762",
+    "video": null
+  },
+  {
+    "title": "StyleGenes: Discrete and Efficient Latent Distributions for GANs",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Ntavelis_StyleGenes_Discrete_and_Efficient_Latent_Distributions_for_GANs_WACV_2024_paper.html",
+    "repo": "https://github.com/entavelis/StyleGenes",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Ntavelis_StyleGenes_Discrete_and_Efficient_Latent_Distributions_for_GANs_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.00599",
+    "video": null
+  },
+  {
+    "title": "Implicit Neural Image Stitching with Enhanced and Blended Feature Reconstruction",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.html",
+    "repo": "https://github.com/minshu-kim/Neural-Image-Stitching",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.01409",
+    "video": null
+  },
+  {
+    "title": "PDA-RWSR: Pixel-Wise Degradation Adaptive Real-World Super-Resolution",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Aakerberg_PDA-RWSR_Pixel-Wise_Degradation_Adaptive_Real-World_Super-Resolution_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Aakerberg_PDA-RWSR_Pixel-Wise_Degradation_Adaptive_Real-World_Super-Resolution_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Real Time GAZED: Online Shot Selection and Editing of Virtual Cameras from Wide-Angle Monocular Video Recordings",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Achary_Real_Time_GAZED_Online_Shot_Selection_and_Editing_of_Virtual_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Achary_Real_Time_GAZED_Online_Shot_Selection_and_Editing_of_Virtual_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.15581",
+    "video": null
+  },
+  {
+    "title": "Unsupervised Model-based Learning for Simultaneous Video Deflickering and Deblotching",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Fulari_Unsupervised_Model-Based_Learning_for_Simultaneous_Video_Deflickering_and_Deblotching_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Fulari_Unsupervised_Model-Based_Learning_for_Simultaneous_Video_Deflickering_and_Deblotching_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Differentiable JPEG: The Devil is in the Details",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Reich_Differentiable_JPEG_The_Devil_Is_in_the_Details_WACV_2024_paper.html",
+    "repo": "https://github.com/necla-ml/Diff-JPEG",
+    "web_page": null,
+    "github_page": "https://christophreich1996.github.io/differentiable_jpeg/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Reich_Differentiable_JPEG_The_Devil_Is_in_the_Details_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.06978",
+    "video": null
+  },
+  {
+    "title": "TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Diffusion_in_the_Dark_A_Diffusion_Model_for_Low-Light_Text_WACV_2024_paper.html",
+    "repo": "https://github.com/computational-imaging/diffusion-in-the-dark/",
+    "web_page": null,
+    "github_page": "https://ccnguyen.github.io/diffusion-in-the-dark/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Nguyen_Diffusion_in_the_Dark_A_Diffusion_Model_for_Low-Light_Text_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2303.04291",
+    "video": null
+  },
+  {
+    "title": "Lightweight Portrait Matting via Regional Attention and Refinement",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Zhong_Lightweight_Portrait_Matting_via_Regional_Attention_and_Refinement_WACV_2024_paper.html",
+    "repo": "https://github.com/JiauZhang/LiPM/",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Zhong_Lightweight_Portrait_Matting_via_Regional_Attention_and_Refinement_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.03770",
+    "video": null
+  }
+]

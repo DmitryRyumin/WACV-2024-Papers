@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Efficient Transferability Assessment for Selection of Pre-Trained Detectors",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Wang_Efficient_Transferability_Assessment_for_Selection_of_Pre-Trained_Detectors_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Efficient_Transferability_Assessment_for_Selection_of_Pre-Trained_Detectors_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Gomez-Villa_Plasticity-Optimized_Complementary_Networks_for_Unsupervised_Continual_Learning_WACV_2024_paper.html",
+    "repo": "https://github.com/alviur/pocon_wacv2024",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Gomez-Villa_Plasticity-Optimized_Complementary_Networks_for_Unsupervised_Continual_Learning_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.06086",
+    "video": null
+  },
+  {
+    "title": "Continual Test-Time Domain Adaptation via Dynamic Sample Selection",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Wang_Continual_Test-Time_Domain_Adaptation_via_Dynamic_Sample_Selection_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Continual_Test-Time_Domain_Adaptation_via_Dynamic_Sample_Selection_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.03335",
+    "video": null
+  },
+  {
+    "title": "Source-Guided Similarity Preservation for Online Person Re-Identification",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Rami_Source-Guided_Similarity_Preservation_for_Online_Person_Re-Identification_WACV_2024_paper.html",
+    "repo": "https://github.com/ramiMMhamza/S2P",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Rami_Source-Guided_Similarity_Preservation_for_Online_Person_Re-Identification_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Zheng_CAILA_Concept-Aware_Intra-Layer_Adapters_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.html",
+    "repo": "https://github.com/zhaohengz/CAILA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Zheng_CAILA_Concept-Aware_Intra-Layer_Adapters_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.16681",
+    "video": null
+  },
+  {
+    "title": "Mini but Mighty: Finetuning ViTs with Mini Adapters",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.html",
+    "repo": "https://github.com/IemProg/MiMi",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Marouf_Mini_but_Mighty_Finetuning_ViTs_With_Mini_Adapters_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.03873",
+    "video": null
+  },
+  {
+    "title": "Recognition of Unseen Bird Species by Learning from Field Guides",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Rodriguez_Recognition_of_Unseen_Bird_Species_by_Learning_From_Field_Guides_WACV_2024_paper.html",
+    "repo": "https://github.com/ac-rodriguez/zsl_billow",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Rodriguez_Recognition_of_Unseen_Bird_Species_by_Learning_From_Field_Guides_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2206.01466",
+    "video": null
+  },
+  {
+    "title": "Single Domain Generalization via Normalised Cross-Correlation based Convolutions",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Chuah_Single_Domain_Generalization_via_Normalised_Cross-Correlation_Based_Convolutions_WACV_2024_paper.html",
+    "repo": "https://github.com/waychin-weiqin/XCNorm",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Chuah_Single_Domain_Generalization_via_Normalised_Cross-Correlation_Based_Convolutions_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2307.05901",
+    "video": null
+  },
+  {
+    "title": "MoP-CLIP: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Nicolas_MoP-CLIP_A_Mixture_of_Prompt-Tuned_CLIP_Models_for_Domain_Incremental_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Nicolas_MoP-CLIP_A_Mixture_of_Prompt-Tuned_CLIP_Models_for_Domain_Incremental_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2307.05707",
+    "video": null
+  },
+  {
+    "title": "Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Gao_Self-Supervised_Representation_Learning_With_Cross-Context_Learning_Between_Global_and_Hypercolumn_WACV_2024_paper.html",
+    "repo": "https://github.com/waychin-weiqin/XCNorm",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Gao_Self-Supervised_Representation_Learning_With_Cross-Context_Learning_Between_Global_and_Hypercolumn_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.13392",
+    "video": null
+  },
+  {
+    "title": "Towards Better Structured Pruning Saliency by Reorganizing Convolution",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.html",
+    "repo": "https://github.com/AlexSunNik/SPSRC",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Torque based Structured Pruning for Deep Neural Network",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  }
+]

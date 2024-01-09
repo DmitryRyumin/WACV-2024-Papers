@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Beyond RGB: A Real World Dataset for Multispectral Imaging in Mobile Devices",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.html",
+    "repo": "https://github.com/shirawerman/Beyond-RGB",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Self-Supervised Denoising Transformer with Gaussian Process",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Yasarla_Self-Supervised_Denoising_Transformer_With_Gaussian_Process_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Yasarla_Self-Supervised_Denoising_Transformer_With_Gaussian_Process_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Scene Text Image Super-Resolution based on Text-Conditional Diffusion Models",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Noguchi_Scene_Text_Image_Super-Resolution_Based_on_Text-Conditional_Diffusion_Models_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Noguchi_Scene_Text_Image_Super-Resolution_Based_on_Text-Conditional_Diffusion_Models_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.09759",
+    "video": null
+  },
+  {
+    "title": "Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.html",
+    "repo": "https://github.com/royson/metakernelgan",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2212.07886",
+    "video": null
+  },
+  {
+    "title": "PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Chandrasekar_PhISH-Net_Physics_Inspired_System_for_High_Resolution_Underwater_Image_Enhancement_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Chandrasekar_PhISH-Net_Physics_Inspired_System_for_High_Resolution_Underwater_Image_Enhancement_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Leveraging Bitstream Metadata for Fast, Accurate, Generalized Compressed Video Quality Enhancement",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Ehrlich_Leveraging_Bitstream_Metadata_for_Fast_Accurate_Generalized_Compressed_Video_Quality_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Ehrlich_Leveraging_Bitstream_Metadata_for_Fast_Accurate_Generalized_Compressed_Video_Quality_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2202.00011",
+    "video": null
+  },
+  {
+    "title": "Image Denoising and the Generative Accumulation of Photons",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Krull_Image_Denoising_and_the_Generative_Accumulation_of_Photons_WACV_2024_paper.html",
+    "repo": "https://github.com/krulllab/GAP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Krull_Image_Denoising_and_the_Generative_Accumulation_of_Photons_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2307.06607",
+    "video": "https://www.youtube.com/watch?v=QLScVYUzDZQ"
+  },
+  {
+    "title": "Deep Plug-and-Play Nighttime Non-Blind Deblurring with Saturated Pixel Handling Schemes",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Best of Both Worlds: Learning Arbitrary-Scale Blind Super-Resolution via Dual Degradation Representations and Cycle-Consistency",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Weng_Best_of_Both_Worlds_Learning_Arbitrary-Scale_Blind_Super-Resolution_via_Dual_WACV_2024_paper.html",
+    "repo": "https://github.com/vivian210223/arbitrary-scale-blind-SR",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Weng_Best_of_Both_Worlds_Learning_Arbitrary-Scale_Blind_Super-Resolution_via_Dual_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "ICF-SRSR: Invertible Scale-Conditional Function for Self-Supervised Real-World Single Image Super-Resolution",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Neshatavar_ICF-SRSR_Invertible_Scale-Conditional_Function_for_Self-Supervised_Real-World_Single_Image_Super-Resolution_WACV_2024_paper.html",
+    "repo": "https://github.com/Reyhanehne/ICF-SRSR_PyTorch",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Neshatavar_ICF-SRSR_Invertible_Scale-Conditional_Function_for_Self-Supervised_Real-World_Single_Image_Super-Resolution_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2307.12751",
+    "video": "https://www.youtube.com/watch?v=Pget2ZDz9BY"
+  },
+  {
+    "title": "A Neural Height-Map Approach for the Binocular Photometric Stereo Problem",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Logothetis_A_Neural_Height-Map_Approach_for_the_Binocular_Photometric_Stereo_Problem_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Logothetis_A_Neural_Height-Map_Approach_for_the_Binocular_Photometric_Stereo_Problem_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.05958",
+    "video": "https://www.youtube.com/watch?v=SfXJ2w0r_NI"
+  },
+  {
+    "title": "Estimating fog Parameters from an Image Sequence using Non-Linear Optimisation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Ding_Estimating_Fog_Parameters_From_an_Image_Sequence_Using_Non-Linear_Optimisation_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Ding_Estimating_Fog_Parameters_From_an_Image_Sequence_Using_Non-Linear_Optimisation_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "4K-Resolution Photo Exposure Correction at 125 FPS with ∼8K Parameters",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Zhou_4K-Resolution_Photo_Exposure_Correction_at_125_FPS_With_8K_Parameters_WACV_2024_paper.html",
+    "repo": "https://github.com/Zhou-Yijie/MSLTNet",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Zhou_4K-Resolution_Photo_Exposure_Correction_at_125_FPS_With_8K_Parameters_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.08759",
+    "video": null
+  },
+  {
+    "title": "UGPNet: Universal Generative Prior for Image Restoration",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Lee_UGPNet_Universal_Generative_Prior_for_Image_Restoration_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Lee_UGPNet_Universal_Generative_Prior_for_Image_Restoration_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2401.00370",
+    "video": null
+  },
+  {
+    "title": "Fully-Automatic Reflection Removal for 360-Degree Images",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "PETIT-GAN: Physically Enhanced Thermal Image-Translating Generative Adversarial Network",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Berman_PETIT-GAN_Physically_Enhanced_Thermal_Image-Translating_Generative_Adversarial_Network_WACV_2024_paper.html",
+    "repo": "https://github.com/bermanz/PETIT",
+    "web_page": null,
+    "github_page": "https://bermanz.github.io/PETIT/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Berman_PETIT-GAN_Physically_Enhanced_Thermal_Image-Translating_Generative_Adversarial_Network_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Bridging the Gap Between Multi-Focus and Multi-Modal: A Focused Integration Framework for Multi-Modal Image Fusion",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Li_Bridging_the_Gap_Between_Multi-Focus_and_Multi-Modal_A_Focused_Integration_WACV_2024_paper.html",
+    "repo": "https://github.com/ixilai/MFIF-MMIF",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Li_Bridging_the_Gap_Between_Multi-Focus_and_Multi-Modal_A_Focused_Integration_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.01886",
+    "video": null
+  },
+  {
+    "title": "BoostRad: Enhancing Object Detection by Boosting Radar Reflections",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Haitman_BoostRad_Enhancing_Object_Detection_by_Boosting_Radar_Reflections_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Haitman_BoostRad_Enhancing_Object_Detection_by_Boosting_Radar_Reflections_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "RankDVQA: Deep VQA based on Ranking-Inspired Hybrid Training",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Feng_RankDVQA_Deep_VQA_Based_on_Ranking-Inspired_Hybrid_Training_WACV_2024_paper.html",
+    "repo": "https://github.com/ChenFeng-Bristol/RankDVQA_release",
+    "web_page": null,
+    "github_page": "https://chenfeng-bristol.github.io/RankDVQA/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Feng_RankDVQA_Deep_VQA_Based_on_Ranking-Inspired_Hybrid_Training_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2202.08595",
+    "video": null
+  },
+  {
+    "title": "Reference-based Restoration of Digitized Analog Videotapes",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Agnolucci_Reference-Based_Restoration_of_Digitized_Analog_Videotapes_WACV_2024_paper.html",
+    "repo": "https://github.com/miccunifi/TAPE",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Agnolucci_Reference-Based_Restoration_of_Digitized_Analog_Videotapes_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.14926",
+    "video": null
+  },
+  {
+    "title": "Fixed Pattern Noise Removal for Multi-View Single-Sensor Infrared Camera",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Barral_Fixed_Pattern_Noise_Removal_for_Multi-View_Single-Sensor_Infrared_Camera_WACV_2024_paper.html",
+    "repo": "https://github.com/centreborelli/multiview-fpn",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Barral_Fixed_Pattern_Noise_Removal_for_Multi-View_Single-Sensor_Infrared_Camera_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  }
+]
