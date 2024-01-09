@@ -1,5 +1,16 @@
 [
   {
+    "title": "Co-Speech Gesture Detection through Multi-Phase Sequence Labeling",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Ghaleb_Co-Speech_Gesture_Detection_Through_Multi-Phase_Sequence_Labeling_WACV_2024_paper.html",
+    "repo": "https://github.com/EsamGhaleb/Multi-Phase-Gesture-Detection",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Ghaleb_Co-Speech_Gesture_Detection_Through_Multi-Phase_Sequence_Labeling_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.10680",
+    "video": null
+  },
+  {
     "title": "HashReID: Dynamic Network with Binary Codes for Efficient Person Re-Identification",
     "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Nikhal_HashReID_Dynamic_Network_With_Binary_Codes_for_Efficient_Person_Re-Identification_WACV_2024_paper.html",
     "repo": null,
