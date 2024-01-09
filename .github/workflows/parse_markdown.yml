@@ -19,6 +19,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.10.11
+          node-version: '16'
 
       # Step: Install dependencies
       - name: Install dependencies
@@ -36,6 +37,12 @@ jobs:
         run: python code/markdown_to_json_parser.py
         working-directory: ${{ github.workspace }}
         continue-on-error: true
+
+      - name: Upload JSON files
+        uses: actions/upload-artifact@v2
+        with:
+          name: json_data # Specify the name for the artifact
+          path: ${{ github.workspace }}/json_data
 
       # Step: Set output status based on the script result
       - name: Set output status
