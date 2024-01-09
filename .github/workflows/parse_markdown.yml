@@ -40,13 +40,13 @@ jobs:
           path: ${{ github.workspace }}/json_data
 
       - name: Commit and Push Changes
+        if: github.event_name == 'push' && steps.parse.outcome == 'success'
         run: |
           git config --global user.email "dl_03.03.1991@mail.ru"
           git config --global user.name "Dmitry Ryumin"
-          git remote add origin_with_ssh git@github.com:DmitryRyumin/WACV-2024-Papers.git
           git add .
           git commit -m "Upload JSON files"
-          git push origin_with_ssh main
+          git push origin main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
