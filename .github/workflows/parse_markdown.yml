@@ -1,9 +1,7 @@
 name: Parse Markdown and Generate JSON
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   parse_markdown:
