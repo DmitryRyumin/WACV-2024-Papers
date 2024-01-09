@@ -165,7 +165,7 @@ def process_markdown_file(
 
 def main():
     # Check if running in GitHub Actions
-    in_actions = os.getenv("GITHUB_ACTIONS") == "true"
+    in_actions = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"
 
     # Define the paths based on the environment
 
