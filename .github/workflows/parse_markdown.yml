@@ -33,17 +33,11 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: Download JSON files artifact
-        uses: actions/download-artifact@v2
+      - name: Upload JSON files
+        uses: actions/upload-artifact@v2
         with:
           name: json_data
           path: ${{ github.workspace }}/json_data
-
-      - name: Unzip JSON files
-        run: unzip -q ${{ github.workspace }}/json_data/json_data.zip -d ${{ github.workspace }}
-
-      - name: Move JSON files to repository
-        run: mv ${{ github.workspace }}/json_data/* ${{ github.workspace }}
 
       - name: Commit and Push Changes
         run: |
