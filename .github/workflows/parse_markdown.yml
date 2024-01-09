@@ -41,11 +41,14 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.email "neweraairesearch@google.com"
+          git config --global user.email "neweraairesearch@gmail.com"
           git config --global user.name "Dmitry Ryumin"
           git add .
           git commit -m "Upload JSON files"
-          git push
+          git remote add origin_with_token https://$WACV_TOKEN@github.com/DmitryRyumin/WACV-2024-Papers.git
+          git push origin_with_token
+        env:
+          GH_TOKEN: ${{ secrets.WACV_TOKEN }}
 
       - name: Set output status
         if: steps.parse.outcome == 'success'
