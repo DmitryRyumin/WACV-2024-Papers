@@ -170,7 +170,7 @@ def main():
     # Define the paths based on the environment
 
     if in_actions:
-        # Get the path to the GitHub workspace
+        # Get the path to the GitHub workspace from environment variable
         github_workspace = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
 
         # Define the paths using the GitHub workspace
