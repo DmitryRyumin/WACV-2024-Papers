@@ -45,8 +45,7 @@ jobs:
           git config --global user.name "Dmitry Ryumin"
           git add .
           git commit -m "Upload JSON files"
-          git remote add origin_with_token https://$WACV_TOKEN@github.com/DmitryRyumin/WACV-2024-Papers.git
-          git push origin_with_token
+          git push https://$WACV_TOKEN@github.com/DmitryRyumin/WACV-2024-Papers.git
         env:
           GH_TOKEN: ${{ secrets.WACV_TOKEN }}
 
