@@ -179,7 +179,7 @@ def main():
     else:
         # Define local paths
         markdown_directory = Path("/Users/dl/GitHub/WACV-2024-Papers/sections")
-        output_directory = Path("/Users/dl/GitHub/WACV-2024-Papers/json_data")
+        output_directory = Path("/Users/dl/GitHub/WACV-2024-Papers/local_json_data")
 
     # Add this line at the end to print the paths for verification
     print(f"Markdown Directory: {markdown_directory}")

@@ -169,4 +169,4 @@ dmypy.json
 
 # Custom
 *.pdf
-json_data/
+local_json_data/
