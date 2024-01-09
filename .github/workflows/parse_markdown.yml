@@ -44,7 +44,9 @@ jobs:
 
       - name: Set up SSH key
         run: |
-          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          cat <<EOF > ~/.ssh/id_rsa
+          ${{ secrets.SSH_PRIVATE_KEY }}
+          EOF
           chmod 600 ~/.ssh/id_rsa
           eval "$(ssh-agent -s)"
           ssh-add ~/.ssh/id_rsa
