@@ -47,7 +47,7 @@ jobs:
           git commit -m "Upload JSON files"
           git push https://$WACV_TOKEN@github.com/DmitryRyumin/WACV-2024-Papers.git
         env:
-          GH_TOKEN: ${{ secrets.WACV_TOKEN }}
+          WACV_TOKEN: ${{ secrets.WACV_TOKEN }}
 
       - name: Set output status
         if: steps.parse.outcome == 'success'
