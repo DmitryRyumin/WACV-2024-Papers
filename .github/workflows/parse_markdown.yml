@@ -39,6 +39,9 @@ jobs:
           name: json_data
           path: ${{ github.workspace }}/json_data
 
+      - name: Create SSH directory
+        run: mkdir -p ~/.ssh
+
       - name: Set up SSH
         run: |
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
