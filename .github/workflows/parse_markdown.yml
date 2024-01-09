@@ -43,15 +43,9 @@ jobs:
         run: mkdir -p ~/.ssh
 
       - name: Set up SSH
-        env:
-          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
-          SSH_AGENT_PID: $$
-        run: |
-          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          eval "$(ssh-agent -s)"
-          ssh-add ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
+        uses: webfactory/ssh-agent@v0.5.5
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Commit and Push Changes
         if: github.event_name == 'push' && steps.parse.outcome == 'success'
