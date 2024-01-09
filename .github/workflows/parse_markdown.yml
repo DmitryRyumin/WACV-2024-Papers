@@ -33,8 +33,8 @@ jobs:
         working-directory: ${{ github.workspace }}
         continue-on-error: true
 
-      - name: Upload JSON files
-        uses: actions/upload-artifact@v2
+      - name: Download JSON files artifact
+        uses: actions/download-artifact@v2
         with:
           name: json_data
           path: ${{ github.workspace }}/json_data
