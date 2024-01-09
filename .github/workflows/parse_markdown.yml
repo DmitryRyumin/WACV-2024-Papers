@@ -32,6 +32,8 @@ jobs:
         run: python code/markdown_to_json_parser.py
         working-directory: ${{ github.workspace }}
         continue-on-error: true
+        env:
+          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Upload JSON files
         uses: actions/upload-artifact@v2

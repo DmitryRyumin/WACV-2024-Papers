@@ -26,7 +26,8 @@ def print_colored_count(count, label):
 
 
 def update_repository_with_json(repo_owner, repo_name, json_filename, json_content):
-    github_token = os.environ.get("GH_TOKEN")
+    github_token = os.getenv("INPUT_GH_TOKEN") or os.getenv("GH_TOKEN")
+
     if not github_token:
         print("GitHub token not available. Exiting.")
         return
