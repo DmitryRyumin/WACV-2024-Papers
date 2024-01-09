@@ -34,8 +34,7 @@ jobs:
       - name: Run Markdown Parser
         id: parse
         run: python code/markdown_to_json_parser.py
-        env:
-          GITHUB_WORKSPACE: ${{ github.workspace }}
+        working-directory: ${{ github.workspace }}
         continue-on-error: true
 
       # Step: Set output status based on the script result
