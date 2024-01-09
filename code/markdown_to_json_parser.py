@@ -188,6 +188,10 @@ def main():
     if not output_directory.is_dir():
         output_directory.mkdir(parents=True)
 
+    # Add these lines to print the contents of the directories
+    print(f"Contents of Markdown Directory: {list(markdown_directory.glob('*'))}")
+    print(f"Contents of Output Directory: {list(output_directory.glob('*'))}")
+
     # Create a PrettyTable
     table = PrettyTable(["#", "File", "Status"])
     table.align["File"] = "l"  # Align "File" column to the left
