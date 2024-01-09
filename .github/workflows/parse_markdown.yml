@@ -50,6 +50,12 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
+      - name: Debug Info
+        run: |
+          echo "SSH_PRIVATE_KEY: $SSH_PRIVATE_KEY"
+          cat ~/.ssh/id_rsa
+          ssh -vT git@github.com
+
       - name: Set output status
         if: steps.parse.outcome == 'success'
         run: echo "status=success" >> $GITHUB_ENV
