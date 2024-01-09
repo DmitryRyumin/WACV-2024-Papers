@@ -17,6 +17,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/WACV-2024-Papers?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat)
+[![Parse Markdown and Generate JSON](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml)
 
 <!-- 241/846 -->
 <div style="float:left;">
