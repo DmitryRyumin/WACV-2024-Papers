@@ -10,28 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Step: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.10.11
           node-version: '16'
 
-      # Step: Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install bs4 markdown2 prettytable flake8
 
-      # Step: Run Flake8 for code style checking
       - name: Run Flake8 (Linting)
         run: flake8 code/
 
-      # Step: Run the Markdown parser script
       - name: Run Markdown Parser
         id: parse
         run: python code/markdown_to_json_parser.py
@@ -41,10 +36,23 @@ jobs:
       - name: Upload JSON files
         uses: actions/upload-artifact@v2
         with:
-          name: json_data # Specify the name for the artifact
+          name: json_data
           path: ${{ github.workspace }}/json_data
 
-      # Step: Set output status based on the script result
+      - name: Unzip JSON files
+        run: unzip -q ${{ github.workspace }}/json_data/json_data.zip -d ${{ github.workspace }}
+
+      - name: Move JSON files to repository
+        run: mv ${{ github.workspace }}/json_data/* ${{ github.workspace }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "neweraairesearch@google.com"
+          git config --global user.name "Dmitry Ryumin"
+          git add .
+          git commit -m "Upload JSON files"
+          git push
+
       - name: Set output status
         if: steps.parse.outcome == 'success'
         run: echo "status=success" >> $GITHUB_ENV
