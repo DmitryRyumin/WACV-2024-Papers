@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Katageri_Synergizing_Contrastive_Learning_and_Optimal_Transport_for_3D_Point_Cloud_WACV_2024_paper.html",
+    "repo": "https://github.com/siddharthKatageri/COT",
+    "web_page": null,
+    "github_page": "https://siddharthkatageri.github.io/COT/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Katageri_Synergizing_Contrastive_Learning_and_Optimal_Transport_for_3D_Point_Cloud_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.14126",
+    "video": "https://www.youtube.com/watch?v=9rWu4cmSH9g"
+  },
+  {
+    "title": "UNSPAT: Uncertainty-Guided SpatioTemporal Transformer for 3D Human Pose and Shape Estimation on Videos",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Lee_UNSPAT_Uncertainty-Guided_SpatioTemporal_Transformer_for_3D_Human_Pose_and_Shape_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Lee_UNSPAT_Uncertainty-Guided_SpatioTemporal_Transformer_for_3D_Human_Pose_and_Shape_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Beyond Document Page Classification: Design, Datasets, and Challenges",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Van_Landeghem_Beyond_Document_Page_Classification_Design_Datasets_and_Challenges_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Van_Landeghem_Beyond_Document_Page_Classification_Design_Datasets_and_Challenges_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.12896",
+    "video": null
+  },
+  {
+    "title": "InfraParis: A Multi-Modal and Multi-Task Autonomous Driving Dataset",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Franchi_InfraParis_A_Multi-Modal_and_Multi-Task_Autonomous_Driving_Dataset_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://ensta-u2is.github.io/infraParis/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Franchi_InfraParis_A_Multi-Modal_and_Multi-Task_Autonomous_Driving_Dataset_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.15751",
+    "video": null
+  },
+  {
+    "title": "Discovering and Mitigating Biases in CLIP-based Image Editing",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://mehrab-tanjim.github.io/Debiasing-CLIP-based-Editing/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_ReCLIP_Refine_Contrastive_Language_Image_Pre-Training_With_Source_Free_Domain_WACV_2024_paper.html",
+    "repo": "https://github.com/michiganleon/ReCLIP_WACV",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_ReCLIP_Refine_Contrastive_Language_Image_Pre-Training_With_Source_Free_Domain_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.03793",
+    "video": null
+  },
+  {
+    "title": "Assessing Neural Network Robustness via Adversarial Pivotal Tuning",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Christensen_Assessing_Neural_Network_Robustness_via_Adversarial_Pivotal_Tuning_WACV_2024_paper.html",
+    "repo": "https://github.com/CaptainE/apt",
+    "web_page": null,
+    "github_page": "https://captaine.github.io/apt/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Christensen_Assessing_Neural_Network_Robustness_via_Adversarial_Pivotal_Tuning_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2211.09782",
+    "video": null
+  },
+  {
+    "title": "Visually Guided Audio Source Separation with Meta Consistency Learning",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Islam_Visually_Guided_Audio_Source_Separation_With_Meta_Consistency_Learning_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Islam_Visually_Guided_Audio_Source_Separation_With_Meta_Consistency_Learning_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Sign Language Production with Latent Motion Transformer",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2312.12917",
+    "video": null
+  }
+]
