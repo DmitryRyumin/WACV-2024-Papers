@@ -53,13 +53,12 @@ def get_github_repository():
 
 def update_branch_reference(repo, commit_sha):
     try:
-        branch = repo.get_branch(repo.default_branch)
-        branch.edit(commit_sha)
+        repo.get_git_ref(f"heads/{repo.default_branch}").edit(commit_sha)
     except Exception as e:
         print(f"Error updating branch reference: {e}")
 
 
-def commit_and_update_branch(g, repo, latest_commit, tree_elements):
+def commit_and_update_branch(g, repo, latest_commit, tree):
     try:
         committer = InputGitAuthor(
             name=g.get_user().name,
@@ -68,13 +67,21 @@ def commit_and_update_branch(g, repo, latest_commit, tree_elements):
 
         commit = repo.create_git_commit(
             message=Config.COMMIT_MESSAGE,
-            tree=tree_elements,
+            tree=tree,
             parents=[latest_commit],
             committer=committer,
             author=committer,
         )
 
+        # Update the branch reference to the new commit
+        print(f"Old Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
+        print(
+            f"Current Branch Protection: {repo.get_branch(repo.default_branch).protected}"
+        )
+
         update_branch_reference(repo, commit.sha)
+
+        print(f"New Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
         print("Files updated successfully.")
     except Exception as e:
         print(f"Error updating files: {e}")
@@ -136,9 +143,12 @@ def update_repository_with_json(file_updates):
 
     # Create a tree with the updates
     tree_elements = create_git_tree_elements(updated_files)
-    # tree = github_repo.create_git_tree(tree_elements, base_tree=latest_commit.tree)
+    tree = github_repo.create_git_tree(tree_elements, base_tree=latest_commit.tree)
 
-    commit_and_update_branch(g, github_repo, latest_commit, tree_elements)
+    print(f"Latest Commit SHA: {latest_commit.sha}")
+    print(f"New Tree SHA: {tree.sha}")
+
+    commit_and_update_branch(g, github_repo, latest_commit, tree)
 
 
 def extract_paper_data(columns):
