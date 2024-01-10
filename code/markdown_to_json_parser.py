@@ -5,7 +5,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import markdown2
 from prettytable import PrettyTable
-from github import Github, InputGitTreeElement
+from github import Github, InputGitTreeElement, InputGitAuthor
 
 
 class FileUpdate:
@@ -100,14 +100,16 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         print(f"Latest Commit SHA: {latest_commit.sha}")
         print(f"New Tree SHA: {tree.sha}")
 
+        committer = InputGitAuthor(
+            name=g.get_user().name,
+            email=g.get_user().email,
+        )
+
         commit = repo.create_git_commit(
             message=commit_message,
             tree=tree.sha,
             parents=[latest_commit.sha],
-            committer={
-                "name": g.get_user().name,
-                "email": g.get_user().email,
-            },
+            committer=committer,
         )
 
         print("Test message")
