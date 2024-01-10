@@ -31,9 +31,9 @@ def print_colored_count(count, label):
     return f"\033[{color_code}m{count}\033[0m"
 
 
-def has_file_changed(repo, file_path, new_content):
+def has_file_changed(repo, file_path, new_content, branch_name):
     try:
-        contents = repo.get_contents(file_path)
+        contents = repo.get_contents(file_path, ref=branch_name)
         existing_content = contents.decoded_content.decode("utf-8")
         print(f"File Path: {file_path}")
         print(f"Existing Content: {existing_content}")
@@ -41,6 +41,7 @@ def has_file_changed(repo, file_path, new_content):
         return existing_content != new_content
     except Exception as e:
         print(f"Exception in has_file_changed: {e}")
+        print(f"File Path: {file_path}")
         return True
 
 
