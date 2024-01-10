@@ -45,7 +45,7 @@ def get_github_repository():
     github_token = Config.GITHUB_TOKEN
     if not github_token:
         print("GitHub token not available. Exiting.")
-        return None
+        return None, None
 
     g = Github(github_token)
     return g, g.get_user(Config.REPO_OWNER).get_repo(Config.REPO_NAME)
@@ -248,7 +248,8 @@ def process_markdown_file(
                 columns = row.find_all("td")
 
                 paper_data = extract_paper_data(columns)
-                papers.append(paper_data)
+                if paper_data:
+                    papers.append(paper_data)
 
             with open(json_filename, "w", encoding="utf-8") as file:
                 json.dump(papers, file, ensure_ascii=False, indent=2)
