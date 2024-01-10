@@ -90,7 +90,7 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
 
         # Create a tree with the updates
         tree_elements = create_git_tree_elements(updated_files)
-        tree = repo.create_git_tree(tree_elements, base_tree=latest_commit.commit.tree)
+        tree = repo.create_git_tree(tree_elements, base_tree=latest_commit.tree)
 
         # Create a commit with the new tree
         commit_message = "Update files"
