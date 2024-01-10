@@ -129,13 +129,13 @@ def update_repository_with_json(file_updates):
         )
     ]
 
-    print("All files:", file_updates)
+    print("All files:", [file_update.path for file_update in file_updates])
 
     if not updated_files:
         print("No changes detected. Exiting.")
         return
 
-    print("Updated files:", updated_files)
+    print("Updated files:", [file_update.path for file_update in updated_files])
 
     # Get the latest commit
     latest_commit_sha = github_repo.get_branch(github_repo.default_branch).commit.sha
