@@ -105,6 +105,10 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
             email=g.get_user().email,
         )
 
+        print(type(tree))
+        print(type(latest_commit))
+        print(type(committer))
+
         commit = repo.create_git_commit(
             message=commit_message,
             tree=tree,
