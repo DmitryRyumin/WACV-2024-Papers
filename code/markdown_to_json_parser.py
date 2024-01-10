@@ -94,7 +94,10 @@ def has_file_changed(repo, file_path, new_content, branch_name):
 def create_git_tree_elements(file_updates):
     return [
         InputGitTreeElement(
-            path=update.path, mode="100644", type="blob", content=update.content
+            path=update.path,
+            mode="100644",
+            type="blob",
+            content=update.content.encode("utf-8"),
         )
         for update in file_updates
     ]
