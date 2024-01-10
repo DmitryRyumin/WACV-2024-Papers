@@ -78,6 +78,10 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         # Get the latest commit
         latest_commit = repo.get_branch(repo.default_branch).commit
 
+        print(latest_commit)
+        print()
+        print(updated_files)
+
         # Create a tree with the updates
         tree_elements = create_git_tree_elements(updated_files)
         tree = repo.create_git_tree(tree_elements, base_tree=latest_commit.commit.tree)
