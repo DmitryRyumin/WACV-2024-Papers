@@ -19,6 +19,9 @@ class Config:
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
+    REPO_OWNER = "DmitryRyumin"
+    REPO_NAME = "WACV-2024-Papers"
+    COMMIT_MESSAGE = "Update files"
 
 
 def print_colored_status(status):
@@ -38,14 +41,14 @@ def print_colored_count(count, label):
     return f"\033[{color_code}m{count}\033[0m"
 
 
-def get_github_repository(repo_owner, repo_name):
+def get_github_repository():
     github_token = Config.GITHUB_TOKEN
     if not github_token:
         print("GitHub token not available. Exiting.")
         return None
 
     g = Github(github_token)
-    return g.get_user(repo_owner).get_repo(repo_name)
+    return g, g.get_user(Config.REPO_OWNER).get_repo(Config.REPO_NAME)
 
 
 def update_branch_reference(repo, commit_sha):
@@ -56,17 +59,15 @@ def update_branch_reference(repo, commit_sha):
         print(f"Error updating branch reference: {e}")
 
 
-def commit_and_update_branch(repo, latest_commit, tree_elements):
+def commit_and_update_branch(g, repo, latest_commit, tree_elements):
     try:
-        commit_message = "Update files"
-
         committer = InputGitAuthor(
-            name=repo.get_user().name,
-            email=repo.get_user().email,
+            name=g.get_user().name,
+            email=g.get_user().email,
         )
 
         commit = repo.create_git_commit(
-            message=commit_message,
+            message=Config.COMMIT_MESSAGE,
             tree=tree_elements,
             parents=[latest_commit],
             committer=committer,
@@ -99,8 +100,8 @@ def create_git_tree_elements(file_updates):
     ]
 
 
-def update_repository_with_json(repo_owner, repo_name, file_updates):
-    github_repo = get_github_repository(repo_owner, repo_name)
+def update_repository_with_json(file_updates):
+    g, github_repo = get_github_repository()
 
     if not github_repo:
         return
@@ -137,7 +138,7 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
     tree_elements = create_git_tree_elements(updated_files)
     # tree = github_repo.create_git_tree(tree_elements, base_tree=latest_commit.tree)
 
-    commit_and_update_branch(github_repo, latest_commit, tree_elements)
+    commit_and_update_branch(g, github_repo, latest_commit, tree_elements)
 
 
 def extract_paper_data(columns):
@@ -326,7 +327,7 @@ def main():
             file_updates,
         )
 
-    update_repository_with_json("DmitryRyumin", "WACV-2024-Papers", file_updates)
+    update_repository_with_json(file_updates)
 
     # Print the PrettyTable
     print(table)
