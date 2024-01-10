@@ -106,7 +106,7 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
             latest_commit.sha,
             commit_description,
         )
-        
+
         print("Test message")
 
         # Update the branch reference to the new commit
