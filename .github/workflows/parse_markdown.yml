@@ -26,10 +26,19 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install bs4 markdown2 prettytable PyGithub flake8
+          pip install bs4 markdown2 prettytable PyGithub flake8 black
+          # Handle errors
+          if: ${{ failure() }}
+          run: echo "Dependency installation failed" && exit 1
+
+      - name: Install Node.js dependencies
+        run: npm install
 
       - name: Run Flake8 (Linting)
         run: flake8 code/
+
+      - name: Check code formatting
+        run: black --check code/
 
       - name: Run Markdown Parser
         id: parse
@@ -46,8 +55,4 @@ jobs:
           path: ${{ github.workspace }}/json_data
 
       - name: Set output status
-        if: steps.parse.outcome == 'success'
-        run: echo "status=success" >> $GITHUB_ENV
-      - name: Set output status (failure)
-        if: steps.parse.outcome == 'failure'
-        run: echo "status=failure" >> $GITHUB_ENV
+        run: echo "status=${{ steps.parse.outcome }}" >> $GITHUB_ENV
