@@ -100,7 +100,7 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         print(f"Latest Commit SHA: {latest_commit.sha}")
         print(f"New Tree SHA: {tree.sha}")
 
-        commit = repo.create_git_commit(commit_message, tree.sha, [latest_commit.sha])
+        commit = repo.create_git_commit(commit_message, tree, [latest_commit.sha])
 
         print("Test message")
 
