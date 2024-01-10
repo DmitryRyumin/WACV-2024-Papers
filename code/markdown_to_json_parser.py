@@ -108,8 +108,8 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         try:
             commit = repo.create_git_commit(
                 message=commit_message,
-                tree=tree.sha,
-                parents=[latest_commit.sha],
+                tree=tree,
+                parents=[latest_commit],
                 committer=committer,
                 author=committer,
             )
@@ -123,7 +123,8 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         print(
             f"Current Branch Protection: {repo.get_branch(repo.default_branch).protected}"
         )
-        repo.get_branch(repo.default_branch).edit(commit.sha)
+        # repo.get_branch(repo.default_branch).edit(commit.sha)
+        repo.get_git_ref(f"heads/{repo.default_branch}").edit(commit.sha)
         print(f"New Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
 
         print("Files updated successfully.")
