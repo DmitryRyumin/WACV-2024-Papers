@@ -35,9 +35,6 @@ def has_file_changed(repo, file_path, new_content, branch_name):
     try:
         contents = repo.get_contents(file_path, ref=branch_name)
         existing_content = contents.decoded_content.decode("utf-8")
-        print(f"File Path: {file_path}")
-        print(f"Existing Content: {existing_content}")
-        print(f"New Content: {new_content}")
         return existing_content != new_content
     except Exception as e:
         print(f"Exception in has_file_changed: {e}")
@@ -100,6 +97,9 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         for update in updated_files:
             commit_description += f"- {update.path}\n"
 
+        print(f"Latest Commit SHA: {latest_commit.sha}")
+        print(f"New Tree SHA: {tree.sha}")
+
         commit = repo.create_git_commit(
             commit_message,
             tree.sha,
@@ -108,7 +108,9 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
         )
 
         # Update the branch reference to the new commit
+        print(f"Old Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
         repo.get_branch(repo.default_branch).edit(commit.sha)
+        print(f"New Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
 
         print("Files updated successfully.")
     except Exception as e:
