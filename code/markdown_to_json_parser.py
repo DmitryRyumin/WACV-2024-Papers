@@ -105,18 +105,13 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
             email=g.get_user().email,
         )
 
-        try:
-            commit = repo.create_git_commit(
-                message=commit_message,
-                tree=tree,
-                parents=[latest_commit],
-                committer=committer,
-                author=committer,
-            )
-        except Exception as e:
-            print(f"Error creating commit: {e}")
-
-        print("Test message")
+        commit = repo.create_git_commit(
+            message=commit_message,
+            tree=tree,
+            parents=[latest_commit],
+            committer=committer,
+            author=committer,
+        )
 
         # Update the branch reference to the new commit
         print(f"Old Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
