@@ -73,9 +73,13 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
             )
         ]
 
+        print("All files:", file_updates)
+
         if not updated_files:
             print("No changes detected. Exiting.")
             return
+
+        print("Updated files:", updated_files)
 
         # Get the latest commit
         latest_commit = repo.get_branch(repo.default_branch).commit
