@@ -102,7 +102,7 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
 
         commit = repo.create_git_commit(
             commit_message,
-            tree.sha,
+            tree,
             latest_commit.sha,
             commit_description,
         )
