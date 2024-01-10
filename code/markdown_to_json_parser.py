@@ -5,7 +5,13 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import markdown2
 from prettytable import PrettyTable
-from github import Github
+from github import Github, InputGitTreeElement
+
+
+class FileUpdate:
+    def __init__(self, path, content):
+        self.path = path
+        self.content = content
 
 
 def print_colored_status(status):
@@ -25,7 +31,25 @@ def print_colored_count(count, label):
     return f"\033[{color_code}m{count}\033[0m"
 
 
-def update_repository_with_json(repo_owner, repo_name, json_filename, json_content):
+def has_file_changed(repo, file_path, new_content):
+    try:
+        contents = repo.get_contents(file_path)
+        existing_content = contents.decoded_content.decode("utf-8")
+        return existing_content != new_content
+    except Exception:
+        return True
+
+
+def create_git_tree_elements(file_updates):
+    return [
+        InputGitTreeElement(
+            path=update.path, mode="100644", type="blob", content=update.content
+        )
+        for update in file_updates
+    ]
+
+
+def update_repository_with_json(repo_owner, repo_name, file_updates):
     github_token = os.getenv("INPUT_PAPER_TOKEN") or os.getenv("PAPER_TOKEN")
 
     if not github_token:
@@ -36,15 +60,44 @@ def update_repository_with_json(repo_owner, repo_name, json_filename, json_conte
     repo = g.get_user(repo_owner).get_repo(repo_name)
 
     try:
-        file_path = f"json_data/{json_filename}"
-        contents = repo.get_contents(file_path)
-        repo.update_file(
-            contents.path, f"Update {json_filename}", json_content, contents.sha
+        # Check if each file has changed
+        updated_files = [
+            file_update
+            for file_update in file_updates
+            if has_file_changed(repo, file_update.path, file_update.content)
+        ]
+
+        if not updated_files:
+            print("No changes detected. Exiting.")
+            return
+
+        # Get the latest commit
+        latest_commit = repo.get_branch(repo.default_branch).commit
+
+        # Create a tree with the updates
+        tree_elements = create_git_tree_elements(updated_files)
+        tree = repo.create_git_tree(tree_elements, base_tree=latest_commit.commit.tree)
+
+        # Create a commit with the new tree
+        commit_message = "Update files"
+        commit_description = "Changes include the following files:\n"
+
+        for update in updated_files:
+            commit_description += f"- {update.path}\n"
+
+        commit = repo.create_git_commit(
+            commit_message,
+            tree.sha,
+            latest_commit.sha,
+            commit_description,
         )
-        print(f"File {json_filename} updated successfully.")
-    except Exception:
-        repo.create_file(file_path, f"Create {json_filename}", json_content)
-        print(f"File {json_filename} created successfully.")
+
+        # Update the branch reference to the new commit
+        repo.get_branch(repo.default_branch).edit(commit.sha)
+
+        print("Files updated successfully.")
+    except Exception as e:
+        print(f"Error updating files: {e}")
 
 
 def process_markdown_file(
@@ -160,13 +213,6 @@ def process_markdown_file(
             with open(json_filename, "w", encoding="utf-8") as file:
                 json.dump(papers, file, ensure_ascii=False, indent=2)
 
-            update_repository_with_json(
-                "DmitryRyumin",
-                "WACV-2024-Papers",
-                f"{base_filename}.json",
-                json.dumps(papers, ensure_ascii=False, indent=2),
-            )
-
             table.add_row(
                 [
                     counter,
@@ -198,7 +244,6 @@ def main():
     in_actions = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"
 
     # Define the paths based on the environment
-
     if in_actions:
         # Get the path to the GitHub workspace from environment variable
         github_workspace = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
@@ -218,10 +263,6 @@ def main():
     if not output_directory.is_dir():
         output_directory.mkdir(parents=True)
 
-    # Add these lines to print the contents of the directories
-    print(f"Contents of Markdown Directory: {list(markdown_directory.glob('*'))}")
-    print(f"Contents of Output Directory: {list(output_directory.glob('*'))}")
-
     # Create a PrettyTable
     table = PrettyTable(["#", "File", "Status"])
     table.align["File"] = "l"  # Align "File" column to the left
@@ -232,6 +273,8 @@ def main():
     error_count = [0]
 
     markdown_files = [f for f in markdown_directory.glob("*.md")]
+
+    file_updates = []
 
     for counter, markdown_file in enumerate(markdown_files, start=1):
         table, success_count, no_table_count, error_count = process_markdown_file(
@@ -244,14 +287,17 @@ def main():
             error_count,
         )
 
-    # Calculate column lengths dynamically
-    # column_lengths = [
-    #     max(len(str(item)) for item in column) for column in zip(*table._rows)
-    # ]
+        base_filename = markdown_file.stem
+        json_filename = os.path.join(output_directory, f"{base_filename}.json")
 
-    # Add a separator row with dashes
-    # separator_row = ["-" * length for length in column_lengths]
-    # table.add_row(separator_row)
+        with open(json_filename, "r", encoding="utf-8") as file:
+            json_content = file.read()
+
+        file_updates.append(
+            FileUpdate(path=f"json_data/{base_filename}.json", content=json_content)
+        )
+
+    update_repository_with_json("DmitryRyumin", "WACV-2024-Papers", file_updates)
 
     # Print the PrettyTable
     print(table)
