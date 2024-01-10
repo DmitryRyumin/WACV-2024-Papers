@@ -14,6 +14,13 @@ class FileUpdate:
         self.content = content
 
 
+class Config:
+    GITHUB_TOKEN = os.getenv("INPUT_PAPER_TOKEN") or os.getenv("PAPER_TOKEN")
+    GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
+    MARKDOWN_DIRECTORY = "sections"
+    OUTPUT_DIRECTORY = "json_data"
+
+
 def print_colored_status(status):
     color_codes = {"No table": 91, "Success": 92, "Error": 91}
     color_code = color_codes.get(status, 0)  # Default to red color if not found
@@ -29,6 +36,47 @@ def print_colored_count(count, label):
         color_code = 92  # Green color for No table or Errors when count is 0
 
     return f"\033[{color_code}m{count}\033[0m"
+
+
+def get_github_repository(repo_owner, repo_name):
+    github_token = Config.GITHUB_TOKEN
+    if not github_token:
+        print("GitHub token not available. Exiting.")
+        return None
+
+    g = Github(github_token)
+    return g.get_user(repo_owner).get_repo(repo_name)
+
+
+def update_branch_reference(repo, commit_sha):
+    try:
+        branch = repo.get_branch(repo.default_branch)
+        branch.edit(commit_sha)
+    except Exception as e:
+        print(f"Error updating branch reference: {e}")
+
+
+def commit_and_update_branch(repo, latest_commit, tree_elements):
+    try:
+        commit_message = "Update files"
+
+        committer = InputGitAuthor(
+            name=repo.get_user().name,
+            email=repo.get_user().email,
+        )
+
+        commit = repo.create_git_commit(
+            message=commit_message,
+            tree=tree_elements,
+            parents=[latest_commit],
+            committer=committer,
+            author=committer,
+        )
+
+        update_branch_reference(repo, commit.sha)
+        print("Files updated successfully.")
+    except Exception as e:
+        print(f"Error updating files: {e}")
 
 
 def has_file_changed(repo, file_path, new_content, branch_name):
@@ -52,85 +100,111 @@ def create_git_tree_elements(file_updates):
 
 
 def update_repository_with_json(repo_owner, repo_name, file_updates):
-    github_token = os.getenv("INPUT_PAPER_TOKEN") or os.getenv("PAPER_TOKEN")
+    github_repo = get_github_repository(repo_owner, repo_name)
 
-    if not github_token:
-        print("GitHub token not available. Exiting.")
+    if not github_repo:
         return
 
-    g = Github(github_token)
-    repo = g.get_user(repo_owner).get_repo(repo_name)
+    if not file_updates:
+        print("No changes detected. Exiting.")
+        return
 
-    try:
-        if not file_updates:
-            print("No changes detected. Exiting.")
-            return
+    # Check if each file has changed
+    updated_files = [
+        file_update
+        for file_update in file_updates
+        if has_file_changed(
+            github_repo,
+            file_update.path,
+            file_update.content,
+            github_repo.default_branch,
+        )
+    ]
 
-        # Check if each file has changed
-        updated_files = [
-            file_update
-            for file_update in file_updates
-            if has_file_changed(
-                repo, file_update.path, file_update.content, repo.default_branch
-            )
-        ]
+    print("All files:", file_updates)
 
-        print("All files:", file_updates)
+    if not updated_files:
+        print("No changes detected. Exiting.")
+        return
 
-        if not updated_files:
-            print("No changes detected. Exiting.")
-            return
+    print("Updated files:", updated_files)
 
-        print("Updated files:", updated_files)
+    # Get the latest commit
+    latest_commit_sha = github_repo.get_branch(github_repo.default_branch).commit.sha
+    latest_commit = github_repo.get_git_commit(sha=latest_commit_sha)
 
-        # Get the latest commit
-        # latest_commit = repo.get_branch(repo.default_branch).commit
-        latest_commit_sha = repo.get_branch(repo.default_branch).commit.sha
-        latest_commit = repo.get_git_commit(sha=latest_commit_sha)
+    # Create a tree with the updates
+    tree_elements = create_git_tree_elements(updated_files)
+    # tree = github_repo.create_git_tree(tree_elements, base_tree=latest_commit.tree)
 
-        # Create a tree with the updates
-        tree_elements = create_git_tree_elements(updated_files)
-        tree = repo.create_git_tree(tree_elements, base_tree=latest_commit.tree)
+    commit_and_update_branch(github_repo, latest_commit, tree_elements)
 
-        # Create a commit with the new tree
-        commit_message = "Update files"
-        commit_description = "Changes include the following files:\n"
 
-        for update in updated_files:
-            commit_description += f"- {update.path}\n"
+def extract_paper_data(columns):
+    title_column = columns[0]
+    title = title_column.get_text(strip=True)
+    title_link = title_column.find("a")
+    title_page = title_link["href"] if title_link else None
 
-        print(f"Latest Commit SHA: {latest_commit.sha}")
-        print(f"New Tree SHA: {tree.sha}")
+    if title and any(column.find("a") for column in columns[1:]):
+        links = columns[1].find_all("a")
 
-        committer = InputGitAuthor(
-            name=g.get_user().name,
-            email=g.get_user().email,
+        web_page_link = next(
+            (a for a in links if "page" in a.img.get("alt", "").lower()),
+            None,
         )
 
-        print(type(tree))
-        print(type(latest_commit))
-        print(type(committer))
-
-        commit = repo.create_git_commit(
-            message=commit_message,
-            tree=tree,
-            parents=[latest_commit],
-            committer=committer,
-            author=committer,
+        web_page = (
+            web_page_link["href"]
+            if web_page_link and "web" in web_page_link.img.get("alt", "").lower()
+            else None
+        )
+        github_page = (
+            web_page_link["href"]
+            if web_page_link and "github" in web_page_link.img.get("alt", "").lower()
+            else None
         )
 
-        # Update the branch reference to the new commit
-        print(f"Old Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
-        print(
-            f"Current Branch Protection: {repo.get_branch(repo.default_branch).protected}"
+        repo_link = next(
+            (a for a in links if a.img.get("alt", "").lower() == "github"),
+            None,
         )
-        # repo.get_branch(repo.default_branch).edit(commit.sha)
-        repo.get_git_ref(f"heads/{repo.default_branch}").edit(commit.sha)
-        print(f"New Branch SHA: {repo.get_branch(repo.default_branch).commit.sha}")
+        repo = (
+            repo_link["href"]
+            if repo_link and "github" in repo_link.img.get("alt", "").lower()
+            else None
+        )
 
-        print("Files updated successfully.")
-    except Exception as e:
-        print(f"Error updating files: {e}")
+        demo_link = next(
+            (a for a in links if "hugging face" in a.img.get("alt", "").lower()),
+            None,
+        )
+        demo_page = demo_link["href"] if demo_link else None
+
+        paper_thecvf_link = columns[2].find("a")
+        paper_thecvf = paper_thecvf_link["href"] if paper_thecvf_link else None
+
+        paper_arxiv_link = columns[2].find_all("a")
+        paper_arxiv = paper_arxiv_link[1]["href"] if len(paper_arxiv_link) > 1 else None
+
+        video_link = columns[3].find("a")
+        video = video_link["href"] if video_link else None
+
+        paper_data = {
+            "title": title,
+            "title_page": title_page,
+            "repo": repo,
+            "web_page": web_page,
+            "github_page": github_page,
+            "demo_page": demo_page,
+            "paper_thecvf": paper_thecvf,
+            "paper_arxiv": paper_arxiv,
+            "video": video,
+        }
+
+        return paper_data
+    else:
+        return None
 
 
 def process_markdown_file(
@@ -144,7 +218,7 @@ def process_markdown_file(
     file_updates,
 ):
     base_filename = markdown_file.stem
-    json_filename = os.path.join(output_directory, f"{base_filename}.json")
+    json_filename = output_directory.joinpath(f"{base_filename}.json")
 
     try:
         with open(markdown_file, "r", encoding="utf-8") as file:
@@ -162,87 +236,8 @@ def process_markdown_file(
             for row in table_in_file.find_all("tr")[1:]:
                 columns = row.find_all("td")
 
-                title_column = columns[0]
-                title = title_column.get_text(strip=True)
-                title_link = title_column.find("a")
-                title_page = title_link["href"] if title_link else None
-
-                if title and any(column.find("a") for column in columns[1:]):
-                    web_page_link = next(
-                        (
-                            a
-                            for a in columns[1].find_all("a")
-                            if "page" in a.img.get("alt", "").lower()
-                        ),
-                        None,
-                    )
-
-                    web_page = (
-                        web_page_link["href"]
-                        if web_page_link
-                        and "web" in web_page_link.img.get("alt", "").lower()
-                        else None
-                    )
-                    github_page = (
-                        web_page_link["href"]
-                        if web_page_link
-                        and "github" in web_page_link.img.get("alt", "").lower()
-                        else None
-                    )
-
-                    repo_link = next(
-                        (
-                            a
-                            for a in columns[1].find_all("a")
-                            if a.img.get("alt", "").lower() == "github"
-                        ),
-                        None,
-                    )
-                    repo = (
-                        repo_link["href"]
-                        if repo_link
-                        and "github" in repo_link.img.get("alt", "").lower()
-                        else None
-                    )
-
-                    demo_link = next(
-                        (
-                            a
-                            for a in columns[1].find_all("a")
-                            if "hugging face" in a.img.get("alt", "").lower()
-                        ),
-                        None,
-                    )
-                    demo_page = demo_link["href"] if demo_link else None
-
-                    paper_thecvf_link = columns[2].find("a")
-                    paper_thecvf = (
-                        paper_thecvf_link["href"] if paper_thecvf_link else None
-                    )
-
-                    paper_arxiv_link = columns[2].find_all("a")
-                    paper_arxiv = (
-                        paper_arxiv_link[1]["href"]
-                        if len(paper_arxiv_link) > 1
-                        else None
-                    )
-
-                    video_link = columns[3].find("a")
-                    video = video_link["href"] if video_link else None
-
-                    paper_data = {
-                        "title": title,
-                        "title_page": title_page,
-                        "repo": repo,
-                        "web_page": web_page,
-                        "github_page": github_page,
-                        "demo_page": demo_page,
-                        "paper_thecvf": paper_thecvf,
-                        "paper_arxiv": paper_arxiv,
-                        "video": video,
-                    }
-
-                    papers.append(paper_data)
+                paper_data = extract_paper_data(columns)
+                papers.append(paper_data)
 
             with open(json_filename, "w", encoding="utf-8") as file:
                 json.dump(papers, file, ensure_ascii=False, indent=2)
@@ -285,12 +280,9 @@ def main():
 
     # Define the paths based on the environment
     if in_actions:
-        # Get the path to the GitHub workspace from environment variable
-        github_workspace = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
-
         # Define the paths using the GitHub workspace
-        markdown_directory = Path(github_workspace) / "sections"
-        output_directory = Path(github_workspace) / "json_data"
+        markdown_directory = Path(Config.GITHUB_WORKSPACE) / Config.MARKDOWN_DIRECTORY
+        output_directory = Path(Config.GITHUB_WORKSPACE) / Config.OUTPUT_DIRECTORY
     else:
         # Define local paths
         markdown_directory = Path("/Users/dl/GitHub/WACV-2024-Papers/sections")
