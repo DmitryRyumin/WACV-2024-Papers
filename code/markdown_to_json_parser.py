@@ -107,9 +107,10 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
 
         commit = repo.create_git_commit(
             message=commit_message,
-            tree=tree.sha,
+            tree=tree,
             parents=[latest_commit.sha],
             committer=committer,
+            author=committer,
         )
 
         print("Test message")
