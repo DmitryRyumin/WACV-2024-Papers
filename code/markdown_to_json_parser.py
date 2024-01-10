@@ -35,6 +35,7 @@ def has_file_changed(repo, file_path, new_content):
     try:
         contents = repo.get_contents(file_path)
         existing_content = contents.decoded_content.decode("utf-8")
+        print(file_path, existing_content != new_content)
         return existing_content != new_content
     except Exception:
         return True
