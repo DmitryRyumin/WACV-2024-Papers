@@ -29,9 +29,6 @@ jobs:
           pip install bs4 markdown2 prettytable PyGithub flake8 black
         continue-on-error: true
 
-      - name: Install Node.js dependencies
-        run: npm install
-
       - name: Run Flake8 (Linting)
         run: flake8 code/
 
