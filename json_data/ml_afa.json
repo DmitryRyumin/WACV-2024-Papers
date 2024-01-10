@@ -110,6 +110,17 @@
     "video": null
   },
   {
+    "title": "Revisiting Pixel-Level Contrastive Pre-Training on Scene Images",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Pang_Revisiting_Pixel-Level_Contrastive_Pre-Training_on_Scene_Images_WACV_2024_paper.html",
+    "repo": "https://github.com/pangzss/PixCon",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Pang_Revisiting_Pixel-Level_Contrastive_Pre-Training_on_Scene_Images_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
     "title": "Towards Better Structured Pruning Saliency by Reorganizing Convolution",
     "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.html",
     "repo": "https://github.com/AlexSunNik/SPSRC",
