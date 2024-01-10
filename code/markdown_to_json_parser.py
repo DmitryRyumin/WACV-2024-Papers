@@ -60,6 +60,10 @@ def update_repository_with_json(repo_owner, repo_name, file_updates):
     repo = g.get_user(repo_owner).get_repo(repo_name)
 
     try:
+        if not file_updates:
+            print("No changes detected. Exiting.")
+            return
+
         # Check if each file has changed
         updated_files = [
             file_update
@@ -108,6 +112,7 @@ def process_markdown_file(
     success_count,
     no_table_count,
     error_count,
+    file_updates,
 ):
     base_filename = markdown_file.stem
     json_filename = os.path.join(output_directory, f"{base_filename}.json")
@@ -220,6 +225,12 @@ def process_markdown_file(
                     print_colored_status("Success"),
                 ],
             )
+
+            json_content = json.dumps(papers, ensure_ascii=False, indent=2)
+            file_updates.append(
+                FileUpdate(path=f"json_data/{base_filename}.json", content=json_content)
+            )
+
             success_count[0] += 1
         else:
             table.add_row(
@@ -236,7 +247,7 @@ def process_markdown_file(
         )
         error_count[0] += 1
 
-    return table, success_count, no_table_count, error_count
+    return table, file_updates, success_count, no_table_count, error_count
 
 
 def main():
@@ -277,7 +288,13 @@ def main():
     file_updates = []
 
     for counter, markdown_file in enumerate(markdown_files, start=1):
-        table, success_count, no_table_count, error_count = process_markdown_file(
+        (
+            table,
+            file_updates,
+            success_count,
+            no_table_count,
+            error_count,
+        ) = process_markdown_file(
             markdown_file,
             output_directory,
             counter,
@@ -285,16 +302,7 @@ def main():
             success_count,
             no_table_count,
             error_count,
-        )
-
-        base_filename = markdown_file.stem
-        json_filename = os.path.join(output_directory, f"{base_filename}.json")
-
-        with open(json_filename, "r", encoding="utf-8") as file:
-            json_content = file.read()
-
-        file_updates.append(
-            FileUpdate(path=f"json_data/{base_filename}.json", content=json_content)
+            file_updates,
         )
 
     update_repository_with_json("DmitryRyumin", "WACV-2024-Papers", file_updates)
