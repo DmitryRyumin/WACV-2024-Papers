@@ -11,10 +11,6 @@ on:
         description: 'Path to the file in the source repository'
         required: false
         default: 'code/markdown_to_json_parser.py'
-      destination_file_path:
-        description: 'Path to the destination file in the target repository'
-        required: false
-        default: 'code/markdown_to_json_parser.py'
   schedule:
     - cron: '30 23 * * *'
 
@@ -22,21 +18,14 @@ jobs:
   copy-code:
     runs-on: ubuntu-latest
 
+    env:
+      SOURCE_FILE_PATH: ${{ github.workspace }}/code/markdown_to_json_parser_new.py
+
     steps:
-      - name: Display content of source file from source repository
+      - name: Download source file
         run: |
-          source_path="${{ github.workspace }}/${{ github.event.inputs.source_file_path }}"
-          echo "Content of source file from source repository:"
-          cat "$source_path"
+          source_url="https://raw.githubusercontent.com/${{ github.event.inputs.source_repo }}/main/${{ github.event.inputs.source_file_path }}"
+          curl -o "${{ env.SOURCE_FILE_PATH }}" "$source_url"
 
-      - name: Checkout target repository
-        uses: actions/checkout@v4
-        with:
-          repository: DmitryRyumin/WACV-2024-Papers
-          ref: main
-
-      - name: Display content of destination file from target repository
-        run: |
-          destination_path="${{ github.workspace }}/${{ github.event.inputs.destination_file_path }}"
-          echo "Content of destination file from target repository:"
-          cat "$destination_path"
+      - name: Display content of the downloaded source file
+        run: cat "${{ env.SOURCE_FILE_PATH }}"
