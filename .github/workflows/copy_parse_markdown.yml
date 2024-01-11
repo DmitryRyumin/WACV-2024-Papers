@@ -23,20 +23,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source repository
-        uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.inputs.source_repo }}
-          ref: main
-
-      - name: Display content of source file
+      - name: Display content of source file from source repository
         run: |
           source_path="${{ github.workspace }}/${{ github.event.inputs.source_file_path }}"
-          echo "Content of source file:"
+          echo "Content of source file from source repository:"
           cat "$source_path"
 
-      - name: Display content of destination file
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: DmitryRyumin/WACV-2024-Papers
+          ref: main
+
+      - name: Display content of destination file from target repository
         run: |
           destination_path="${{ github.workspace }}/${{ github.event.inputs.destination_file_path }}"
-          echo "Content of destination file:"
+          echo "Content of destination file from target repository:"
           cat "$destination_path"
