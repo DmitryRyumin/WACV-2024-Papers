@@ -48,21 +48,27 @@ jobs:
           echo "File downloaded successfully"
 
       - name: Display content of the downloaded source file
-        if: github.event.inputs.display_file_contents == 'true'
         run: |
           if [ -f "${{ env.SOURCE_FILE_PATH }}" ]; then
-            cat "${{ env.SOURCE_FILE_PATH }}"
+            if [ "${{ github.event.inputs.display_file_contents }}" == 'true' ]; then
+              cat "${{ env.SOURCE_FILE_PATH }}"
+            else
+              echo "Displaying content is blocked."
+            fi
           else
-            echo "Destination file does not exist."
+            echo "Source file does not exist."
             exit 1
           fi
 
       - name: Display content of destination file from target repository
-        if: github.event.inputs.display_file_contents == 'true'
         run: |
           if [ -f "${{ env.SOURCE_DESTINATION_FILE_PATH }}" ]; then
-            cat "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+            if [ "${{ github.event.inputs.display_file_contents }}" == 'true' ]; then
+              cat "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+            else
+              echo "Displaying content is blocked."
+            fi
           else
-            echo "Destination file does not exist."
+            echo "Source file does not exist."
             exit 1
           fi
