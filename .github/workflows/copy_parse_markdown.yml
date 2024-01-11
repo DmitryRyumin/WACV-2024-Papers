@@ -1,0 +1,53 @@
+name: Copy Parse Markdown and Generate JSON from Source Repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: 'Source repository name'
+        required: false
+        default: 'DmitryRyumin/NewEraAI-Papers'
+      source_file_path:
+        description: 'Path to the file in the source repository'
+        required: false
+        default: 'code/markdown_to_json_parser.py'
+      destination_file_path:
+        description: 'Path to the destination file in the target repository'
+        required: false
+        default: 'code/markdown_to_json_parser.py'
+  schedule:
+    - cron: '30 23 * * *'
+
+jobs:
+  copy-code:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.inputs.source_repo }}
+          ref: main
+
+      - name: Check if File Exists and is Unchanged
+        run: |
+          if [ -f "${{ github.event.inputs.destination_file_path }}" ]; then
+            if git diff --quiet "${{ github.event.inputs.destination_file_path }}"; then
+              echo "File is unchanged, no need to copy."
+              exit 0
+            fi
+          fi
+        working-directory: .
+
+      - name: Copy File
+        run: |
+          mkdir -p $(dirname "${{ github.event.inputs.destination_file_path }}")
+          cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
+        working-directory: .
+
+      - name: Auto Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
