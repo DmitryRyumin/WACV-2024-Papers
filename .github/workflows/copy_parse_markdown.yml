@@ -15,6 +15,10 @@ on:
         description: 'Directory where code is stored'
         required: false
         default: 'code'
+      display_file_contents:
+        description: 'Whether or not to display the contents of the doanload file and the destination file'
+        required: false
+        default: 'false'
   schedule:
     - cron: '30 23 * * *'
 
@@ -44,9 +48,11 @@ jobs:
           echo "File downloaded successfully"
 
       - name: Display content of the downloaded source file
+        if: github.event.inputs.display_file_contents == 'true'
         run: |
           cat "${{ env.SOURCE_FILE_PATH }}"
 
       - name: Display content of destination file from target repository
+        if: github.event.inputs.display_file_contents == 'true'
         run: |
           cat "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
