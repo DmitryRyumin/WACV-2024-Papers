@@ -28,7 +28,7 @@ jobs:
 
     env:
       SOURCE_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.code_directory }}/markdown_to_json_parser_new.py
-      SOURCE_DESTINATION_FILE_PATH: ${{ github.workspace }}/markdown_to_json_parser_2.py
+      SOURCE_DESTINATION_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.source_file_path }}
 
     steps:
       - name: Checkout repository
@@ -71,3 +71,23 @@ jobs:
           else
             echo "Source file does not exist."
           fi
+
+      - name: Compare and handle files
+        run: |
+          if [ -f "${{ env.SOURCE_DESTINATION_FILE_PATH }}" ]; then
+            if cmp -s "${{ env.SOURCE_DESTINATION_FILE_PATH }}" "${{ env.SOURCE_FILE_PATH }}"; then
+              echo "Files are equal. Deleting SOURCE_DESTINATION_FILE_PATH."
+              rm "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+            else
+              echo "Files are not equal. Replacing SOURCE_FILE_PATH with content from SOURCE_DESTINATION_FILE_PATH."
+              cat "${{ env.SOURCE_DESTINATION_FILE_PATH }}" > "${{ env.SOURCE_FILE_PATH }}"
+              rm "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+            fi
+          else
+            echo "SOURCE_DESTINATION_FILE_PATH does not exist. Renaming SOURCE_FILE_PATH to SOURCE_DESTINATION_FILE_PATH."
+            mv "${{ env.SOURCE_FILE_PATH }}" "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+          fi
+
+      - name: Display working directory content
+        run: |
+          ls -al "${{ github.workspace }}"
