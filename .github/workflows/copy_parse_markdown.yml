@@ -92,14 +92,12 @@ jobs:
         run: |
           ls -al "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"
 
-      - name: Display content of destination file from target repository
-        run: |
-          if [ -f "${{ env.SOURCE_DESTINATION_FILE_PATH }}" ]; then
-            if [ "${{ github.event.inputs.display_file_contents }}" == 'true' ]; then
-              cat "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
-            else
-              echo "Displaying content is blocked."
-            fi
-          else
-            echo "Source file does not exist."
-          fi
+      - name: Auto commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
+        env:
+          PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
+
+      - name: Set output status
+        run: echo "status=${{ steps.parse.outcome }}" >> $GITHUB_ENV
