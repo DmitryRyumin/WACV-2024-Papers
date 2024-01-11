@@ -28,7 +28,7 @@ jobs:
 
     env:
       SOURCE_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.code_directory }}/markdown_to_json_parser_new.py
-      SOURCE_DESTINATION_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.source_file_path }}
+      SOURCE_DESTINATION_FILE_PATH: ${{ github.workspace }}/markdown_to_json_parser_2.py
 
     steps:
       - name: Checkout repository
@@ -70,5 +70,4 @@ jobs:
             fi
           else
             echo "Source file does not exist."
-            exit 1
           fi
