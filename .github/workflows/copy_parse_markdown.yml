@@ -35,11 +35,13 @@ jobs:
           source_path="${{ github.workspace }}/${{ github.event.inputs.source_file_path }}"
 
           if [ -f "$destination_path" ]; then
-            if cmp -s "$destination_path" "$source_path"; then
+            if diff "$destination_path" "$source_path"; then
               echo "File exists and is unchanged, no need to copy."
               exit 0
             else
-              echo "File exists but is different, copying ..."
+              echo "File exists but is different. Here is the diff:"
+              diff "$destination_path" "$source_path"
+              echo "Copying ..."
             fi
           else
             echo "File does not exist, copying ..."
