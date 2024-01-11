@@ -101,7 +101,7 @@
   {
     "title": "Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features",
     "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Gao_Self-Supervised_Representation_Learning_With_Cross-Context_Learning_Between_Global_and_Hypercolumn_WACV_2024_paper.html",
-    "repo": "https://github.com/waychin-weiqin/XCNorm",
+    "repo": "https://github.com/zaczgao/CGH-Hypercolumn",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
@@ -129,6 +129,116 @@
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Hart_Improving_Graph_Networks_Through_Selection-Based_Convolution_WACV_2024_paper.pdf",
     "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Exploiting CLIP for Zero-Shot HOI Detection Requires Knowledge Distillation at Multiple Levels",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Wan_Exploiting_CLIP_for_Zero-Shot_HOI_Detection_Requires_Knowledge_Distillation_at_WACV_2024_paper.html",
+    "repo": "https://github.com/bobwan1995/Zeroshot-HOI-with-CLIP",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Exploiting_CLIP_for_Zero-Shot_HOI_Detection_Requires_Knowledge_Distillation_at_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.05069",
+    "video": null
+  },
+  {
+    "title": "Learning Class and Domain Augmentations for Single-Source Open-Domain Generalization",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Bele_Learning_Class_and_Domain_Augmentations_for_Single-Source_Open-Domain_Generalization_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Bele_Learning_Class_and_Domain_Augmentations_for_Single-Source_Open-Domain_Generalization_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.02599",
+    "video": null
+  },
+  {
+    "title": "Dynamic Token-Pass Transformers for Semantic Segmentation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Liu_Dynamic_Token-Pass_Transformers_for_Semantic_Segmentation_WACV_2024_paper.html",
+    "repo": "https://github.com/FLHonker/DoViT-code",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Dynamic_Token-Pass_Transformers_for_Semantic_Segmentation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.01944",
+    "video": null
+  },
+  {
+    "title": "An Analysis of Initial Training Strategies for Exemplar-Free Class-Incremental Learning",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Petit_An_Analysis_of_Initial_Training_Strategies_for_Exemplar-Free_Class-Incremental_Learning_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Petit_An_Analysis_of_Initial_Training_Strategies_for_Exemplar-Free_Class-Incremental_Learning_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2308.11677",
+    "video": null
+  },
+  {
+    "title": "Few-Shot Shape Recognition by Learning Deep Shape-Aware Features",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Shi_Few-Shot_Shape_Recognition_by_Learning_Deep_Shape-Aware_Features_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Few-Shot_Shape_Recognition_by_Learning_Deep_Shape-Aware_Features_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2312.01315",
+    "video": null
+  },
+  {
+    "title": "Active Learning for Single-Stage Object Detection in UAV Images",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Yamani_Active_Learning_for_Single-Stage_Object_Detection_in_UAV_Images_WACV_2024_paper.html",
+    "repo": "https://github.com/asmayamani/DUA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Yamani_Active_Learning_for_Single-Stage_Object_Detection_in_UAV_Images_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Learning Intra-Class Multimodal Distributions with Orthonormal Matrices",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Goto_Learning_Intra-Class_Multimodal_Distributions_With_Orthonormal_Matrices_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Goto_Learning_Intra-Class_Multimodal_Distributions_With_Orthonormal_Matrices_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Active Transfer Learning for Efficient Video-Specific Human Pose Estimation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Taketsugu_Active_Transfer_Learning_for_Efficient_Video-Specific_Human_Pose_Estimation_WACV_2024_paper.html",
+    "repo": "https://github.com/ImIntheMiddle/VATL4Pose-WACV2024",
+    "web_page": null,
+    "github_page": "https://iminthemiddle.github.io/VATL4Pose-Page/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Taketsugu_Active_Transfer_Learning_for_Efficient_Video-Specific_Human_Pose_Estimation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.05041",
+    "video": "https://www.youtube.com/watch?v=O3RBjwkGxyA"
+  },
+  {
+    "title": "Understanding Hyperbolic Metric Learning through Hard Negative Sampling",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Yue_Understanding_Hyperbolic_Metric_Learning_Through_Hard_Negative_Sampling_WACV_2024_paper.html",
+    "repo": "https://github.com/YunYunY/HypMix",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Yue_Understanding_Hyperbolic_Metric_Learning_Through_Hard_Negative_Sampling_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Aligning Non-Causal Factors for Transformer-based Source-Free Domain Adaptation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Sanyal_Aligning_Non-Causal_Factors_for_Transformer-Based_Source-Free_Domain_Adaptation_WACV_2024_paper.html",
+    "repo": "https://github.com/val-iisc/C-SFTrans",
+    "web_page": "https://val.cds.iisc.ac.in/C-SFTrans/",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Sanyal_Aligning_Non-Causal_Factors_for_Transformer-Based_Source-Free_Domain_Adaptation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.16294",
     "video": null
   },
   {
