@@ -31,36 +31,11 @@ jobs:
 
       - name: Check if file exists and is unchanged
         run: |
-          destination_path="${{ github.event.inputs.destination_file_path }}"
           source_path="${{ github.workspace }}/${{ github.event.inputs.source_file_path }}"
-
-          if [ -f "$destination_path" ]; then
-            if diff "$destination_path" "$source_path"; then
-              echo "File exists and is unchanged, no need to copy."
-            else
-              echo "File exists but is different. Here is the diff:"
-              diff "$destination_path" "$source_path"
-              echo "Copying ..."
-            fi
-          else
-            echo "File does not exist, copying ..."
-          fi
+          destination_path="${{ github.workspace }}/${{ github.event.inputs.destination_file_path }}"
 
           echo "Content of destination file:"
           cat "$destination_path"
           echo "Content of source file:"
           cat "$source_path"
         working-directory: .
-
-      # - name: Copy file
-      #   run: |
-      #     mkdir -p $(dirname "${{ github.event.inputs.destination_file_path }}")
-      #     cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
-      #   working-directory: .
-
-      # - name: Auto commit changes
-      #   uses: stefanzweifel/git-auto-commit-action@v5
-      #   with:
-      #     commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
-      #   env:
-      #     PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
