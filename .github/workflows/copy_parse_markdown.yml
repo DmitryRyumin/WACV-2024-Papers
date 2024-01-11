@@ -88,6 +88,6 @@ jobs:
             mv "${{ env.SOURCE_FILE_PATH }}" "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
           fi
 
-      - name: Display working directory content
+      - name: Display working code directory content
         run: |
-          ls -al "${{ github.workspace }}"
+          ls -al "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"
