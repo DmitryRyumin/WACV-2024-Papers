@@ -23,19 +23,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout source repository
         uses: actions/checkout@v4
         with:
           repository: ${{ github.event.inputs.source_repo }}
           ref: main
 
-      - name: Check if file exists and is unchanged
+      - name: Display content of source file
         run: |
           source_path="${{ github.workspace }}/${{ github.event.inputs.source_file_path }}"
-          destination_path="${{ github.workspace }}/${{ github.event.inputs.destination_file_path }}"
-
-          echo "Content of destination file:"
-          cat "$destination_path"
           echo "Content of source file:"
           cat "$source_path"
-        working-directory: .
+
+      - name: Display content of destination file
+        run: |
+          destination_path="${{ github.workspace }}/${{ github.event.inputs.destination_file_path }}"
+          echo "Content of destination file:"
+          cat "$destination_path"
