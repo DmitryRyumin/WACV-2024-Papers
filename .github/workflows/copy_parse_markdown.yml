@@ -37,7 +37,6 @@ jobs:
           if [ -f "$destination_path" ]; then
             if diff "$destination_path" "$source_path"; then
               echo "File exists and is unchanged, no need to copy."
-              exit 0
             else
               echo "File exists but is different. Here is the diff:"
               diff "$destination_path" "$source_path"
