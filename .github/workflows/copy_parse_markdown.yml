@@ -39,10 +39,18 @@ jobs:
           fi
         working-directory: .
 
-      - name: Copy File
+      - name: Copy File if Changed
         run: |
           mkdir -p $(dirname "${{ github.event.inputs.destination_file_path }}")
-          cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
+          if [ -f "${{ github.event.inputs.destination_file_path }}" ]; then
+            if ! git diff --quiet "${{ github.event.inputs.destination_file_path }}"; then
+              cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
+            else
+              echo "File is unchanged, no need to copy."
+            fi
+          else
+            cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
+          fi
         working-directory: .
 
       - name: Auto Commit Changes
