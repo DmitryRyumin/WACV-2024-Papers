@@ -50,4 +50,4 @@ jobs:
         with:
           commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
