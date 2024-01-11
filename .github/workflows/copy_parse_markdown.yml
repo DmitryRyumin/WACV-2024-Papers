@@ -29,31 +29,25 @@ jobs:
           repository: ${{ github.event.inputs.source_repo }}
           ref: main
 
-      - name: Check if File Exists and is Unchanged
+      - name: Check if file exists and is unchanged
         run: |
           if [ -f "${{ github.event.inputs.destination_file_path }}" ]; then
-            if git diff --quiet "${{ github.event.inputs.destination_file_path }}"; then
+            if ! git diff-index --quiet HEAD -- "${{ github.event.inputs.destination_file_path }}"; then
+              echo "File has changes, copying ..."
+            else
               echo "File is unchanged, no need to copy."
               exit 0
             fi
           fi
         working-directory: .
 
-      - name: Copy File if Changed
+      - name: Copy file
         run: |
           mkdir -p $(dirname "${{ github.event.inputs.destination_file_path }}")
-          if [ -f "${{ github.event.inputs.destination_file_path }}" ]; then
-            if ! git diff --quiet "${{ github.event.inputs.destination_file_path }}"; then
-              cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
-            else
-              echo "File is unchanged, no need to copy."
-            fi
-          else
-            cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
-          fi
+          cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
         working-directory: .
 
-      - name: Auto Commit Changes
+      - name: Auto commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
