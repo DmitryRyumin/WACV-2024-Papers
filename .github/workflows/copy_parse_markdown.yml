@@ -31,25 +31,30 @@ jobs:
 
       - name: Check if file exists and is unchanged
         run: |
-          if [ -f "${{ github.event.inputs.destination_file_path }}" ]; then
-            if ! git diff-index --quiet HEAD -- "${{ github.event.inputs.destination_file_path }}"; then
-              echo "File has changes, copying ..."
-            else
-              echo "File is unchanged, no need to copy."
+          destination_path="${{ github.event.inputs.destination_file_path }}"
+          source_path="${{ github.workspace }}/${{ github.event.inputs.source_file_path }}"
+
+          if [ -f "$destination_path" ]; then
+            if cmp -s "$destination_path" "$source_path"; then
+              echo "File exists and is unchanged, no need to copy."
               exit 0
+            else
+              echo "File exists but is different, copying ..."
             fi
+          else
+            echo "File does not exist, copying ..."
           fi
         working-directory: .
 
-      - name: Copy file
-        run: |
-          mkdir -p $(dirname "${{ github.event.inputs.destination_file_path }}")
-          cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
-        working-directory: .
+      # - name: Copy file
+      #   run: |
+      #     mkdir -p $(dirname "${{ github.event.inputs.destination_file_path }}")
+      #     cp "${{ github.workspace }}/${{ github.event.inputs.source_file_path }}" "${{ github.event.inputs.destination_file_path }}"
+      #   working-directory: .
 
-      - name: Auto commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
-        env:
-          PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
+      # - name: Auto commit changes
+      #   uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message: 'Copy Parse Markdown and Generate JSON from Source Repo'
+      #   env:
+      #     PAPER_TOKEN: ${{ secrets.PAPER_TOKEN }}
