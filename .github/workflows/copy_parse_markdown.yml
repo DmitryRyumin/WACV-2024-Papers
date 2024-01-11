@@ -11,6 +11,10 @@ on:
         description: 'Path to the file in the source repository'
         required: false
         default: 'code/markdown_to_json_parser.py'
+      code_directory:
+        description: 'Directory where code is stored'
+        required: false
+        default: 'code'
   schedule:
     - cron: '30 23 * * *'
 
@@ -19,15 +23,12 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      CODE_DIR: '${{ github.workspace }}/code'
-      SOURCE_FILE_PATH: '${{ CODE_DIR }}/markdown_to_json_parser_new.py'
+      SOURCE_FILE_PATH: ${{ github.workspace }}/${{ github.event.inputs.code_directory }}/markdown_to_json_parser_new.py
 
     steps:
-      - name: Create code directory
-        run: mkdir -p "${{ CODE_DIR }}"
-
       - name: Download source file
         run: |
+          mkdir -p "${{ github.workspace }}/${{ github.event.inputs.code_directory }}"
           source_url="https://raw.githubusercontent.com/${{ github.event.inputs.source_repo }}/main/${{ github.event.inputs.source_file_path }}"
           curl -o "${{ env.SOURCE_FILE_PATH }}" "$source_url"
           echo "File downloaded successfully"
