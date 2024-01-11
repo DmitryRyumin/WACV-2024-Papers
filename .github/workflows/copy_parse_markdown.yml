@@ -24,8 +24,10 @@ jobs:
     steps:
       - name: Download source file
         run: |
+          mkdir -p "${{ github.workspace }}/code"
           source_url="https://raw.githubusercontent.com/${{ github.event.inputs.source_repo }}/main/${{ github.event.inputs.source_file_path }}"
           curl -o "${{ env.SOURCE_FILE_PATH }}" "$source_url"
+          echo "File downloaded successfully"
 
       - name: Display content of the downloaded source file
         run: cat "${{ env.SOURCE_FILE_PATH }}"
