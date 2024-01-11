@@ -46,6 +46,11 @@ jobs:
           else
             echo "File does not exist, copying ..."
           fi
+
+          echo "Content of destination file:"
+          cat "$destination_path"
+          echo "Content of source file:"
+          cat "$source_path"
         working-directory: .
 
       # - name: Copy file
