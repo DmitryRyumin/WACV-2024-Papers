@@ -80,7 +80,7 @@ jobs:
               rm "${{ env.SOURCE_FILE_PATH }}"
             else
               echo "Files are not equal. Replacing SOURCE_DESTINATION_FILE_PATH with content from SOURCE_FILE_PATH."
-              cat "${{ env.SOURCE_DESTINATION_FILE_PATH }}" > "${{ env.SOURCE_FILE_PATH }}"
+              cat "${{ env.SOURCE_FILE_PATH }}" > "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
               rm "${{ env.SOURCE_FILE_PATH }}"
             fi
           else
