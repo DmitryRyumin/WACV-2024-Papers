@@ -1,37 +1,59 @@
 # WACV-2024-Papers
 
-<h6>General Information</h6>
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Conference](http://img.shields.io/badge/WACV-2024-7395C5.svg)](https://wacv2024.thecvf.com)
-![Version](https://img.shields.io/badge/version-v0.0.0-rc0)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
-<h6>Repository Size and Activity</h6>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/WACV-2024-Papers)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/WACV-2024-Papers)
-
-<h6>Contribution Statistics</h6>
-
-![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/WACV-2024-Papers)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/WACV-2024-Papers)
-![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/WACV-2024-Papers)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/WACV-2024-Papers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/WACV-2024-Papers)
-
-<h6>Other Metrics</h6>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/WACV-2024-Papers)
-![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/WACV-2024-Papers?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/WACV-2024-Papers?style=flat)
-![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat)
-
-<h6>GitHub Actions</h6>
-
-[![Parse Markdown and Generate JSON](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml)
-[![Copy Parse Markdown and Generate JSON from Source Repo](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml)
+<table>
+  <tr>
+    <td><strong>General Information</strong></td>
+    <td>
+      <a href="https://github.com/sindresorhus/awesome">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+      </a>
+      <a href="https://wacv2024.thecvf.com">
+        <img src="http://img.shields.io/badge/WACV-2024-7395C5.svg" alt="Conference">
+      </a>
+      <img src="https://img.shields.io/badge/version-v0.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Repository Size and Activity</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/repo-size/DmitryRyumin/WACV-2024-Papers" alt="GitHub repo size">
+      <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/WACV-2024-Papers" alt="GitHub commit activity (branch)">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Contribution Statistics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/contributors/dmitryryumin/WACV-2024-Papers" alt="GitHub contributors">
+      <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/WACV-2024-Papers" alt="GitHub closed issues">
+      <img src="https://img.shields.io/github/issues/DmitryRyumin/WACV-2024-Papers" alt="GitHub issues">
+      <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/WACV-2024-Papers" alt="GitHub closed pull requests">
+      <img src="https://img.shields.io/github/issues-pr/dmitryryumin/WACV-2024-Papers" alt="GitHub pull requests">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other Metrics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/DmitryRyumin/WACV-2024-Papers" alt="GitHub last commit">
+      <img src="https://img.shields.io/github/watchers/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub watchers">
+      <img src="https://img.shields.io/github/forks/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub forks">
+      <img src="https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub Repo stars">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GitHub Actions</strong></td>
+    <td>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
+        <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
+      </a>
+      <br />
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg">
+        <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg" alt="Copy Parse Markdown and Generate JSON from Source Repo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 315/846 -->
 <div style="float:left;">
