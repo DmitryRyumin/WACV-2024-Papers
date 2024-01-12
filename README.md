@@ -1,23 +1,38 @@
 # WACV-2024-Papers
 
+## General Information
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Conference](http://img.shields.io/badge/WACV-2024-7395C5.svg)](https://wacv2024.thecvf.com)
 ![Version](https://img.shields.io/badge/version-v0.0.0-rc0)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+## Repository Size and Activity
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/WACV-2024-Papers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/README.md)
-![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/WACV-2024-Papers)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/WACV-2024-Papers)
+
+## Contribution Statistics
+
+![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/WACV-2024-Papers)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/WACV-2024-Papers)
 ![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/WACV-2024-Papers)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/WACV-2024-Papers)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/WACV-2024-Papers)
+
+## Other Metrics
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/WACV-2024-Papers)
 ![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/WACV-2024-Papers?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/WACV-2024-Papers?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat)
+
+## GitHub Actions
+
 [![Parse Markdown and Generate JSON](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml)
+[![Copy Parse Markdown and Generate JSON from Source Repo](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml)
+
 
 <!-- 315/846 -->
 <div style="float:left;">
