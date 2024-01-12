@@ -391,7 +391,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluations.md">Datasets and Evaluations</a>
             </td>
-            <td colspan="4" rowspan="23" align="center"><i>Will soon be added</i></td>
+            <td colspan="4" rowspan="10" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
@@ -442,11 +442,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md">Biomedical / Healthcare / Medicine</a>
             </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/1-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/commercial_retail.md">Commercial / Retail</a>
             </td>
+            <td colspan="4" rowspan="12" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
