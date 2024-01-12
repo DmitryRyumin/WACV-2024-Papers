@@ -41,22 +41,7 @@ jobs:
           ref: ${{ github.event.before || 'main' }}
 
       - name: Define show_file_content function
-        run: |
-          set -e
-          show_file_content() {
-            local file_path=$1
-
-            if [[ -f "$file_path" ]]; then
-              if [[ "${{ github.event.inputs.display_file_contents }}" == 'true' ]]; then
-                echo "Displaying content of the file:"
-                cat "$file_path"
-              else
-                echo "Displaying content is blocked."
-              fi
-            else
-              echo "File does not exist."
-            fi
-          }
+        run: echo 'source ${{ github.workspace }}/scripts/show_file_content.sh' > show_file_content_step.sh
 
       - name: Download source file
         run: |
@@ -77,10 +62,14 @@ jobs:
 
       - name: Display content of the downloaded source file
         run: |
+          set -e
+          source show_file_content_step.sh
           show_file_content "${{ env.SOURCE_FILE_PATH }}"
 
       - name: Display content of destination file from target repository
         run: |
+          set -e
+          source show_file_content_step.sh
           show_file_content "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
 
       - name: Compare and handle files
