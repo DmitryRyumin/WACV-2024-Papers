@@ -2,9 +2,10 @@
 
 show_file_content() {
   local file_path=$1
+  local display_file_contents=$2
 
   if [[ -f "$file_path" ]]; then
-    if [[ "${DISPLAY_FILE_CONTENTS}" == 'true' ]]; then
+    if [[ "$display_file_contents" == 'true' ]]; then
       echo "Displaying content of the file:"
       cat "$file_path"
     else

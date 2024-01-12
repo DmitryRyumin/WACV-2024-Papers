@@ -64,13 +64,13 @@ jobs:
         run: |
           set -e
           source show_file_content_step.sh
-          show_file_content "${{ env.SOURCE_FILE_PATH }}"
+          show_file_content "${{ env.SOURCE_FILE_PATH }}" "${{ github.event.inputs.display_file_contents }}"
 
       - name: Display content of destination file from target repository
         run: |
           set -e
           source show_file_content_step.sh
-          show_file_content "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+          show_file_content "${{ env.SOURCE_DESTINATION_FILE_PATH }}" "${{ github.event.inputs.display_file_contents }}"
 
       - name: Compare and handle files
         run: |
