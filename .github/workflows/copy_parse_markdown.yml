@@ -85,7 +85,11 @@ jobs:
             fi
           else
             echo "SOURCE_DESTINATION_FILE_PATH does not exist. Renaming SOURCE_FILE_PATH to SOURCE_DESTINATION_FILE_PATH."
-            mv "${{ env.SOURCE_FILE_PATH }}" "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+            if [ -f "${{ env.SOURCE_FILE_PATH }}" ] && [ -f "${{ env.SOURCE_DESTINATION_FILE_PATH }}" ]; then
+              mv "${{ env.SOURCE_FILE_PATH }}" "${{ env.SOURCE_DESTINATION_FILE_PATH }}"
+            else
+              echo "One or both of the files do not exist."
+            fi
           fi
 
       - name: Display working code directory content
