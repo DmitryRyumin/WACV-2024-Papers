@@ -25,3 +25,24 @@
 | [Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding](https://openaccess.thecvf.com/content/WACV2024/html/Feinglass_Towards_Addressing_the_Misalignment_of_Object_Proposal_Evaluation_for_Vision-Language_WACV_2024_paper.html) | [![GitHub](https://img.shields.io/github/stars/JoshuaFeinglass/VL-detector-eval?style=flat)](https://github.com/JoshuaFeinglass/VL-detector-eval) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Feinglass_Towards_Addressing_the_Misalignment_of_Object_Proposal_Evaluation_for_Vision-Language_WACV_2024_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.00215-b31b1b.svg)](http://arxiv.org/abs/2309.00215) | :heavy_minus_sign: |
 | [SphereCraft: A Dataset for Spherical Keypoint Detection, Matching and Camera Pose Estimation](https://openaccess.thecvf.com/content/WACV2024/html/Gava_SphereCraft_A_Dataset_for_Spherical_Keypoint_Detection_Matching_and_Camera_WACV_2024_paper.html) | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://dfki.github.io/spherecraftweb/) <br /> [![GitHub](https://img.shields.io/github/stars/DFKI/spherecrafthub?style=flat)](https://github.com/DFKI/spherecrafthub) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Gava_SphereCraft_A_Dataset_for_Spherical_Keypoint_Detection_Matching_and_Camera_WACV_2024_paper.pdf) | :heavy_minus_sign: |
 | [Benchmark Generation Framework with Customizable Distortions for Image Classifier Robustness](Sarkar_Benchmark_Generation_Framework_With_Customizable_Distortions_for_Image_Classifier_Robustness_WACV_2024_paper) | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024/papers/Sarkar_Benchmark_Generation_Framework_With_Customizable_Distortions_for_Image_Classifier_Robustness_WACV_2024_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.18626-b31b1b.svg)](http://arxiv.org/abs/2310.18626) | :heavy_minus_sign: |
+| UOW-Vessel: A Benchmark Dataset of High-Resolution Optical Satellite Images for Vessel Detection and Segmentation |  |  |  |
+| NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction |  |  |  |
+| Time to Shine: Fine-Tuning Object Detection Models with Synthetic Adverse Weather Images |  |  |  |
+| Effects of Markers in Training Datasets on the Accuracy of 6D Pose Estimation |  |  |  |
+| VEATIC: Video-based Emotion and Affect Tracking in Context Dataset |  |  |  |
+| Tackling Data Bias in MUSIC-AVQA: Crafting a Balanced Dataset for Unbiased Question-Answering |  |  |  |
+| An Empirical Investigation Into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification |  |  |  |
+| Can You Even Tell Left from Right? Presenting a New Challenge for VQA |  |  |  |
+| MuSHRoom: Multi-Sensor Hybrid Room Dataset for Joint 3D Reconstruction and Novel View Synthesis |  |  |  |
+| RobustCLEVR: A Benchmark and Framework for Evaluating Robustness in Object-Centric Learning |  |  |  |
+| So You Think You Can Track? |  |  |  |
+| Estimating Blood Alcohol Level through Facial Features for Driver Impairment Assessment |  |  |  |
+| ENIGMA-51: Towards a Fine-Grained Understanding of Human Behavior in Industrial Scenarios |  |  |  |
+| SciOL and MuLMS-Img: Introducing a Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain |  |  |  |
+| HaGRID — HAnd Gesture Recognition Image Dataset |  |  |  |
+| Identifying Label Errors in Object Detection Datasets by Loss Inspection |  |  |  |
+| Exploring the Impact of Rendering Method and Motion Quality on Model Performance when using Multi-View Synthetic Data for Action Recognition |  |  |  |
+| PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait |  |  |  |
+| IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather |  |  |  |
+| CrashCar101: Procedural Generation for Damage Assessment |  |  |  |
+| ZRG: A Dataset for Multimodal 3D Residential Rooftop Understanding |  |  |  |
