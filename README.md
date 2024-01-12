@@ -55,9 +55,9 @@
   </tr>
 </table>
 
-<!-- 335/846 -->
+<!-- 355/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/40?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/42?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -330,13 +330,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md">Machine Learning: Architectures, Formulations, Algorithms</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/74-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/94-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/44-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/58-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/35-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/48-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
