@@ -33,7 +33,6 @@
 [![Parse Markdown and Generate JSON](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml)
 [![Copy Parse Markdown and Generate JSON from Source Repo](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg)](https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml)
 
-
 <!-- 315/846 -->
 <div style="float:left;">
   <img src="https://geps.dev/progress/37?successColor=006600" alt="" />
