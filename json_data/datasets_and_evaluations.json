@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ben-Shabat_IKEA_Ego_3D_Dataset_Understanding_Furniture_Assembly_Actions_From_Ego-View_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": "8e3WeMv6vJY"
+    "youtube_id": "8e3WeMv6vJY",
+    "section": "Datasets and Evaluations"
   },
   {
     "title": "IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Schoonbeek_IndustReal_A_Dataset_for_Procedure_Step_Recognition_Handling_Execution_Errors_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.17323",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
   },
   {
     "title": "Ego2HandsPose: A Dataset for Egocentric Two-Hand 3D Global Pose Estimation",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Lin_Ego2HandsPose_A_Dataset_for_Egocentric_Two-Hand_3D_Global_Pose_Estimation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2206.04927",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
   },
   {
     "title": "ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.02734",
-    "youtube_id": "vMuwoziD3qc"
+    "youtube_id": "vMuwoziD3qc",
+    "section": "Datasets and Evaluations"
   },
   {
     "title": "Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Feinglass_Towards_Addressing_the_Misalignment_of_Object_Proposal_Evaluation_for_Vision-Language_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.00215",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
   },
   {
     "title": "SphereCraft: A Dataset for Spherical Keypoint Detection, Matching and Camera Pose Estimation",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Gava_SphereCraft_A_Dataset_for_Spherical_Keypoint_Detection_Matching_and_Camera_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
   },
   {
     "title": "Benchmark Generation Framework with Customizable Distortions for Image Classifier Robustness",
@@ -81,6 +87,72 @@
     "demo_page": null,
     "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Sarkar_Benchmark_Generation_Framework_With_Customizable_Distortions_for_Image_Classifier_Robustness_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.18626",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
+  },
+  {
+    "title": "UOW-Vessel: A Benchmark Dataset of High-Resolution Optical Satellite Images for Vessel Detection and Segmentation",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Bui_UOW-Vessel_A_Benchmark_Dataset_of_High-Resolution_Optical_Satellite_Images_for_WACV_2024_paper.html",
+    "repo": "yangdi-cv/UOW-Vessel",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Bui_UOW-Vessel_A_Benchmark_Dataset_of_High-Resolution_Optical_Satellite_Images_for_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
+  },
+  {
+    "title": "NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Hempel_NITEC_Versatile_Hand-Annotated_Eye_Contact_Dataset_for_Ego-Vision_Interaction_WACV_2024_paper.html",
+    "repo": "thohemp/nitec",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Hempel_NITEC_Versatile_Hand-Annotated_Eye_Contact_Dataset_for_Ego-Vision_Interaction_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2311.04505",
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
+  },
+  {
+    "title": "Time to Shine: Fine-Tuning Object Detection Models with Synthetic Adverse Weather Images",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Rothmeier_Time_To_Shine_Fine-Tuning_Object_Detection_Models_With_Synthetic_Adverse_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Rothmeier_Time_To_Shine_Fine-Tuning_Object_Detection_Models_With_Synthetic_Adverse_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
+  },
+  {
+    "title": "Effects of Markers in Training Datasets on the Accuracy of 6D Pose Estimation",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Rosskamp_Effects_of_Markers_in_Training_Datasets_on_the_Accuracy_of_WACV_2024_paper.html",
+    "repo": "JHRosskamp/6DPoseDataGenTools",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Rosskamp_Effects_of_Markers_in_Training_Datasets_on_the_Accuracy_of_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null,
+    "section": "Datasets and Evaluations"
+  },
+  {
+    "title": "VEATIC: Video-based Emotion and Affect Tracking in Context Dataset",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Ren_VEATIC_Video-Based_Emotion_and_Affect_Tracking_in_Context_Dataset_WACV_2024_paper.html",
+    "repo": "AlbusPeter/VEATIC",
+    "web_page": null,
+    "github_page": "https://veatic.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "/papers/Ren_VEATIC_Video-Based_Emotion_and_Affect_Tracking_in_Context_Dataset_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2309.06745",
+    "youtube_id": "xHq9K5PT888",
+    "section": "Datasets and Evaluations"
   }
 ]

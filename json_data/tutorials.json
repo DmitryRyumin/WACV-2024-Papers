@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Tutorials"
   },
   {
     "title": "Are you Doing Data Protection and Privacy Wrong? AI Governance and Data Protection for Computer Vision and Beyond",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Tutorials"
   },
   {
     "title": "Uncertainty Quantification Tutorial",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Tutorials"
   },
   {
     "title": "Tutorial on Reliability of Generative Models in Vision",
@@ -45,6 +48,7 @@
     "demo_page": null,
     "paper_thecvf": "/",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Tutorials"
   }
 ]

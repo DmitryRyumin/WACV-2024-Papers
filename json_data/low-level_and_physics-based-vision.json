@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Glatt_Beyond_RGB_A_Real_World_Dataset_for_Multispectral_Imaging_in_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Self-Supervised Denoising Transformer with Gaussian Process",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Yasarla_Self-Supervised_Denoising_Transformer_With_Gaussian_Process_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Scene Text Image Super-Resolution based on Text-Conditional Diffusion Models",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Noguchi_Scene_Text_Image_Super-Resolution_Based_on_Text-Conditional_Diffusion_Models_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.09759",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2212.07886",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Chandrasekar_PhISH-Net_Physics_Inspired_System_for_High_Resolution_Underwater_Image_Enhancement_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Leveraging Bitstream Metadata for Fast, Accurate, Generalized Compressed Video Quality Enhancement",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ehrlich_Leveraging_Bitstream_Metadata_for_Fast_Accurate_Generalized_Compressed_Video_Quality_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2202.00011",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Image Denoising and the Generative Accumulation of Photons",
@@ -81,7 +87,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Krull_Image_Denoising_and_the_Generative_Accumulation_of_Photons_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2307.06607",
-    "youtube_id": "QLScVYUzDZQ"
+    "youtube_id": "QLScVYUzDZQ",
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Deep Plug-and-Play Nighttime Non-Blind Deblurring with Saturated Pixel Handling Schemes",
@@ -93,7 +100,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Best of Both Worlds: Learning Arbitrary-Scale Blind Super-Resolution via Dual Degradation Representations and Cycle-Consistency",
@@ -105,7 +113,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Weng_Best_of_Both_Worlds_Learning_Arbitrary-Scale_Blind_Super-Resolution_via_Dual_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "ICF-SRSR: Invertible Scale-Conditional Function for Self-Supervised Real-World Single Image Super-Resolution",
@@ -117,7 +126,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Neshatavar_ICF-SRSR_Invertible_Scale-Conditional_Function_for_Self-Supervised_Real-World_Single_Image_Super-Resolution_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2307.12751",
-    "youtube_id": "Pget2ZDz9BY"
+    "youtube_id": "Pget2ZDz9BY",
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "A Neural Height-Map Approach for the Binocular Photometric Stereo Problem",
@@ -129,7 +139,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Logothetis_A_Neural_Height-Map_Approach_for_the_Binocular_Photometric_Stereo_Problem_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.05958",
-    "youtube_id": "SfXJ2w0r_NI"
+    "youtube_id": "SfXJ2w0r_NI",
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Estimating fog Parameters from an Image Sequence using Non-Linear Optimisation",
@@ -141,7 +152,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ding_Estimating_Fog_Parameters_From_an_Image_Sequence_Using_Non-Linear_Optimisation_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "4K-Resolution Photo Exposure Correction at 125 FPS with ∼8K Parameters",
@@ -153,7 +165,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhou_4K-Resolution_Photo_Exposure_Correction_at_125_FPS_With_8K_Parameters_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.08759",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "UGPNet: Universal Generative Prior for Image Restoration",
@@ -165,7 +178,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Lee_UGPNet_Universal_Generative_Prior_for_Image_Restoration_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2401.00370",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Fully-Automatic Reflection Removal for 360-Degree Images",
@@ -177,7 +191,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "PETIT-GAN: Physically Enhanced Thermal Image-Translating Generative Adversarial Network",
@@ -189,7 +204,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Berman_PETIT-GAN_Physically_Enhanced_Thermal_Image-Translating_Generative_Adversarial_Network_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Bridging the Gap Between Multi-Focus and Multi-Modal: A Focused Integration Framework for Multi-Modal Image Fusion",
@@ -201,7 +217,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Li_Bridging_the_Gap_Between_Multi-Focus_and_Multi-Modal_A_Focused_Integration_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.01886",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "BoostRad: Enhancing Object Detection by Boosting Radar Reflections",
@@ -213,7 +230,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Haitman_BoostRad_Enhancing_Object_Detection_by_Boosting_Radar_Reflections_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "RankDVQA: Deep VQA based on Ranking-Inspired Hybrid Training",
@@ -225,7 +243,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Feng_RankDVQA_Deep_VQA_Based_on_Ranking-Inspired_Hybrid_Training_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2202.08595",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Reference-based Restoration of Digitized Analog Videotapes",
@@ -237,7 +256,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Agnolucci_Reference-Based_Restoration_of_Digitized_Analog_Videotapes_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.14926",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   },
   {
     "title": "Fixed Pattern Noise Removal for Multi-View Single-Sensor Infrared Camera",
@@ -249,6 +269,7 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Barral_Fixed_Pattern_Noise_Removal_for_Multi-View_Single-Sensor_Infrared_Camera_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Low-Level & Physics-based Vision"
   }
 ]

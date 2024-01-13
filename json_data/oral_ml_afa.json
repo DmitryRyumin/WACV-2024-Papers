@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Shoshan_Asymmetric_Image_Retrieval_With_Cross_Model_Compatible_Ensembles_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.17531",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Cross-Feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Aketi_Cross-Feature_Contrastive_Loss_for_Decentralized_Deep_Learning_on_Heterogeneous_Data_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.15890",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Srinath_Learning_Generalizable_Perceptual_Representations_for_Data-Efficient_No-Reference_Image_Quality_Assessment_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2312.04838",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Location-Aware Self-Supervised Transformers for Semantic Segmentation",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Caron_Location-Aware_Self-Supervised_Transformers_for_Semantic_Segmentation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2212.02400",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Kalla_Robust_Feature_Learning_and_Global_Variance-Driven_Classifier_Alignment_for_Long-Tail_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.01227",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Wino Vidi Vici: Conquering Numerical Instability of 8-Bit Winograd Convolution for Accurate Inference Acceleration on Edge",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Mori_Wino_Vidi_Vici_Conquering_Numerical_Instability_of_8-Bit_Winograd_Convolution_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Data-Centric Debugging: Mitigating Model Failures via Targeted Image Retrieval",
@@ -81,7 +87,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Singla_Data-Centric_Debugging_Mitigating_Model_Failures_via_Targeted_Image_Retrieval_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Distortion-Disentangled Contrastive Learning",
@@ -93,7 +100,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Wang_Distortion-Disentangled_Contrastive_Learning_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.05066",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation",
@@ -105,7 +113,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Xu_GTP-ViT_Efficient_Vision_Transformers_via_Graph-Based_Token_Propagation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.03035",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "SequenceMatch: Revisiting the Design of Weak-Strong Augmentations for Semi-Supervised Learning",
@@ -117,7 +126,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Nguyen_SequenceMatch_Revisiting_the_Design_of_Weak-Strong_Augmentations_for_Semi-Supervised_Learning_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.15787",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "Stochastic Binary Network for Universal Domain Adaptation",
@@ -129,7 +139,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Jain_Stochastic_Binary_Network_for_Universal_Domain_Adaptation_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
     "title": "PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment",
@@ -141,6 +152,7 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Dadashzadeh_PECoP_Parameter_Efficient_Continual_Pretraining_for_Action_Quality_Assessment_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.07603",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Machine Learning: Architectures, Formulations, Algorithms"
   }
 ]

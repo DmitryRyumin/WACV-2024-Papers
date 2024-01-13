@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ghaleb_Co-Speech_Gesture_Detection_Through_Multi-Phase_Sequence_Labeling_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.10680",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "HashReID: Dynamic Network with Binary Codes for Efficient Person Re-Identification",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Nikhal_HashReID_Dynamic_Network_With_Binary_Codes_for_Efficient_Person_Re-Identification_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.11900",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "RGBT-Dog: A Parametric Model and Pose Prior for Canine Body Analysis Data Creation",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Deane_RGBT-Dog_A_Parametric_Model_and_Pose_Prior_for_Canine_Body_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "FPGAN-Control: A Controllable Fingerprint Generator for Training with Synthetic Data",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Shoshan_FPGAN-Control_A_Controllable_Fingerprint_Generator_for_Training_With_Synthetic_Data_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.19024",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Multimodal Channel-Mixing: Channel and Spatial Masked AutoEncoder on Facial Action Unit Detection",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhang_Multimodal_Channel-Mixing_Channel_and_Spatial_Masked_AutoEncoder_on_Facial_Action_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2209.12244",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Di_ProS_Facial_Omni-Representation_Learning_via_Prototype-Based_Self-Distillation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.01929",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "FG-Net: Facial Action Unit Detection with Generalizable Pyramidal Features",
@@ -81,7 +87,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Yin_FG-Net_Facial_Action_Unit_Detection_With_Generalizable_Pyramidal_Features_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.12380",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Watch where You Head: A View-Biased Domain Gap in Gait Recognition and Unsupervised Adaptation",
@@ -93,7 +100,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Habib_Watch_Where_You_Head_A_View-Biased_Domain_Gap_in_Gait_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2307.06751",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Intrinsic Hand Avatar: Illumination-Aware Hand Appearance and Shape Reconstruction from Monocular RGB Video",
@@ -105,7 +113,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Kalshetti_Intrinsic_Hand_Avatar_Illumination-Aware_Hand_Appearance_and_Shape_Reconstruction_From_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": "IaBEAsFcTH0"
+    "youtube_id": "IaBEAsFcTH0",
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "CVTHead: One-Shot Controllable Head Avatar with Vertex-Feature Transformer",
@@ -117,7 +126,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.06443",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation",
@@ -129,7 +139,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Jiang_Back_to_Optimization_Diffusion-Based_Zero-Shot_3D_Human_Pose_Estimation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2307.03833",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "POISE: Pose Guided Human Silhouette Extraction under Occlusions",
@@ -141,7 +152,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Dutta_POISE_Pose_Guided_Human_Silhouette_Extraction_Under_Occlusions_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.05077",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Incorporating Physics Principles for Precise Human Motion Prediction",
@@ -153,7 +165,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhang_Incorporating_Physics_Principles_for_Precise_Human_Motion_Prediction_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Fingervein Verification using Convolutional Multi-Head Attention Network",
@@ -165,7 +178,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ramachandra_Fingervein_Verification_Using_Convolutional_Multi-Head_Attention_Network_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.16808",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Multispectral Imaging for Differential Face Morphing Attack Detection: A Preliminary Study",
@@ -177,7 +191,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ramachandra_Multispectral_Imaging_for_Differential_Face_Morphing_Attack_Detection_A_Preliminary_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2304.03510",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Controlling Character Motions without Observable Driving Source",
@@ -189,7 +204,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Li_Controlling_Character_Motions_Without_Observable_Driving_Source_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.06025",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis",
@@ -201,7 +217,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": "LDdDm86Ve_4"
+    "youtube_id": "LDdDm86Ve_4",
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Bias and Diversity in Synthetic-based Face Recognition",
@@ -213,7 +230,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Huber_Bias_and_Diversity_in_Synthetic-Based_Face_Recognition_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.03970",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude",
@@ -225,7 +243,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Liu_FarSight_A_Physics-Driven_Whole-Body_Biometric_System_at_Large_Distance_and_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2306.17206",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "AU-Aware Dynamic 3D Face Reconstruction from Videos with Transformer",
@@ -237,7 +256,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Kuang_AU-Aware_Dynamic_3D_Face_Reconstruction_From_Videos_With_Transformer_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Handformer2T: A Lightweight Regression-based Model for Interacting Hands Pose Estimation from a Single RGB Image",
@@ -249,7 +269,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhang_Handformer2T_A_Lightweight_Regression-Based_Model_for_Interacting_Hands_Pose_Estimation_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Weakly-Supervised Deepfake Localization in Diffusion-Generated Images",
@@ -261,7 +282,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Tantaru_Weakly-Supervised_Deepfake_Localization_in_Diffusion-Generated_Images_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.04584",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Face Presentation Attack Detection by Excavating Causal Clues and Adapting Embedding Statistics",
@@ -273,7 +295,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Fang_Face_Presentation_Attack_Detection_by_Excavating_Causal_Clues_and_Adapting_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.14551",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation",
@@ -285,7 +308,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Yu_Denoising_and_Selecting_Pseudo-Heatmaps_for_Semi-Supervised_Human_Pose_Estimation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.00099",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "ShARc: Shape and Appearance Recognition for Person Identification In-the-Wild",
@@ -297,7 +321,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhu_ShARc_Shape_and_Appearance_Recognition_for_Person_Identification_In-the-Wild_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.15946",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Fast and Interpretable Face Identification for Out-of-Distribution Data using Vision Transformers",
@@ -309,7 +334,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Phan_Fast_and_Interpretable_Face_Identification_for_Out-of-Distribution_Data_Using_Vision_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.02803",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "SigmML: Metric Meta-Learning for Writer Independent Offline Signature Verification in the Space of SPD Matrices",
@@ -321,7 +347,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Giazitzis_SigmML_Metric_Meta-Learning_for_Writer_Independent_Offline_Signature_Verification_in_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Progressive Hypothesis Transformer for 3D Human Mesh Recovery",
@@ -333,7 +360,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Liao_Progressive_Hypothesis_Transformer_for_3D_Human_Mesh_Recovery_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "DiffBody: Diffusion-based Pose and Shape Editing of Human Images",
@@ -345,7 +373,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Okuyama_DiffBody_Diffusion-Based_Pose_and_Shape_Editing_of_Human_Images_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2401.02804",
-    "youtube_id": "IhFUiEc2ygE"
+    "youtube_id": "IhFUiEc2ygE",
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration",
@@ -357,7 +386,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Suin_Diffuse_and_Restore_A_Region-Adaptive_Diffusion_Model_for_Identity-Preserving_Blind_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "HMP: Hand Motion Priors for Pose and Shape Estimation from Video",
@@ -369,7 +399,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Duran_HMP_Hand_Motion_Priors_for_Pose_and_Shape_Estimation_From_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2312.16737",
-    "youtube_id": "MCmXutpg88o"
+    "youtube_id": "MCmXutpg88o",
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Approximating Intersections and Differences between Linear Statistical Shape Models using Markov Chain Monte Carlo",
@@ -381,7 +412,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Weiherer_Approximating_Intersections_and_Differences_Between_Linear_Statistical_Shape_Models_Using_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2211.16314",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Robust Eye Blink Detection using Dual Embedding Video Vision Transformer",
@@ -393,7 +425,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Hong_Robust_Eye_Blink_Detection_Using_Dual_Embedding_Video_Vision_Transformer_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "EmoStyle: One-Shot Facial Expression Editing using Continuous Emotion Parameters",
@@ -405,7 +438,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Azari_EmoStyle_One-Shot_Facial_Expression_Editing_Using_Continuous_Emotion_Parameters_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "Vikriti-ID: A Novel Approach for Real Looking Fingerprint Data-Set Generation",
@@ -417,7 +451,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Shukla_Vikriti-ID_A_Novel_Approach_for_Real_Looking_Fingerprint_Data-Set_Generation_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Biometrics, Face, Gesture, Body Pose"
   },
   {
     "title": "LaughTalk: Expressive 3D Talking Head Generation with Laughter",
@@ -429,6 +464,7 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Sung-Bin_LaughTalk_Expressive_3D_Talking_Head_Generation_With_Laughter_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.00994",
-    "youtube_id": "zYnUyPHPEn8"
+    "youtube_id": "zYnUyPHPEn8",
+    "section": "Biometrics, Face, Gesture, Body Pose"
   }
 ]

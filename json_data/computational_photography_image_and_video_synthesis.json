@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.01406",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Exploiting the Signal-Leak Bias in Diffusion Models",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Everaert_Exploiting_the_Signal-Leak_Bias_in_Diffusion_Models_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.15842",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Synthesizing Anyone, Anywhere, in Any Pose",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Hukkelas_Synthesizing_Anyone_Anywhere_in_Any_Pose_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2304.03164",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Specular Object Reconstruction Behind Frosted Glass by Differentiable Rendering",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Iwaguchi_Specular_Object_Reconstruction_Behind_Frosted_Glass_by_Differentiable_Rendering_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Multi-Level Attention Aggregation for Aesthetic Face Relighting",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Pidaparthy_Multi-Level_Attention_Aggregation_for_Aesthetic_Face_Relighting_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Deep Image Fingerprint: Towards Low Budget Synthetic Image Detection and Model Lineage Analysis",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Sinitsa_Deep_Image_Fingerprint_Towards_Low_Budget_Synthetic_Image_Detection_and_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.10762",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "StyleGenes: Discrete and Efficient Latent Distributions for GANs",
@@ -81,7 +87,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ntavelis_StyleGenes_Discrete_and_Efficient_Latent_Distributions_for_GANs_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2305.00599",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Implicit Neural Image Stitching with Enhanced and Blended Feature Reconstruction",
@@ -93,7 +100,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.01409",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "PDA-RWSR: Pixel-Wise Degradation Adaptive Real-World Super-Resolution",
@@ -105,7 +113,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Aakerberg_PDA-RWSR_Pixel-Wise_Degradation_Adaptive_Real-World_Super-Resolution_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Real Time GAZED: Online Shot Selection and Editing of Virtual Cameras from Wide-Angle Monocular Video Recordings",
@@ -117,7 +126,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Achary_Real_Time_GAZED_Online_Shot_Selection_and_Editing_of_Virtual_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.15581",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Unsupervised Model-based Learning for Simultaneous Video Deflickering and Deblotching",
@@ -129,7 +139,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Fulari_Unsupervised_Model-Based_Learning_for_Simultaneous_Video_Deflickering_and_Deblotching_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Differentiable JPEG: The Devil is in the Details",
@@ -141,7 +152,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Reich_Differentiable_JPEG_The_Devil_Is_in_the_Details_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.06978",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization",
@@ -153,7 +165,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Diffusion in the Dark: A Diffusion Model for Low-Light Text Recognition",
@@ -165,7 +178,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Nguyen_Diffusion_in_the_Dark_A_Diffusion_Model_for_Low-Light_Text_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.04291",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Lightweight Portrait Matting via Regional Attention and Refinement",
@@ -177,7 +191,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Zhong_Lightweight_Portrait_Matting_via_Regional_Attention_and_Refinement_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.03770",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "RADIO: Reference-Agnostic Dubbing Video Synthesis",
@@ -189,7 +204,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Lee_RADIO_Reference-Agnostic_Dubbing_Video_Synthesis_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.01950",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Unsupervised Event-based Video Reconstruction",
@@ -201,7 +217,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Fox_Unsupervised_Event-Based_Video_Reconstruction_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Neural Image Compression using Masked Sparse Visual Representation",
@@ -213,7 +230,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Jiang_Neural_Image_Compression_Using_Masked_Sparse_Visual_Representation_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.11661",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Shape-Guided Diffusion with Inside-Outside Attention",
@@ -225,7 +243,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Park_Shape-Guided_Diffusion_With_Inside-Outside_Attention_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2212.00210",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Collage Diffusion",
@@ -237,7 +256,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Sarukkai_Collage_Diffusion_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.00262",
-    "youtube_id": "BX4ZW9M_bmo"
+    "youtube_id": "BX4ZW9M_bmo",
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Learning-based Spotlight Position Optimization for Non-Line-of-Sight Human Localization and Posture Classification",
@@ -249,7 +269,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Chandran_Learning-Based_Spotlight_Position_Optimization_for_Non-Line-of-Sight_Human_Localization_and_Posture_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution",
@@ -261,7 +282,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Huang_Scale-Adaptive_Feature_Aggregation_for_Efficient_Space-Time_Video_Super-Resolution_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.17294",
-    "youtube_id": "J4N75OJPGJc"
+    "youtube_id": "J4N75OJPGJc",
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "What Decreases Editing Capability? Domain-Specific Hybrid Refinement for Improved GAN Inversion",
@@ -273,7 +295,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Cao_What_Decreases_Editing_Capability_Domain-Specific_Hybrid_Refinement_for_Improved_GAN_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2301.12141",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Latent-Guided Exemplar-based Image Re-Colorization",
@@ -285,7 +308,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Yang_Latent-Guided_Exemplar-Based_Image_Re-Colorization_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Stereo Conversion with Disparity-Aware Warping, Compositing and Inpainting",
@@ -297,7 +321,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Mehl_Stereo_Conversion_With_Disparity-Aware_Warping_Compositing_and_Inpainting_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit Representation Networks",
@@ -309,7 +334,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Tsai_Arbitrary-Resolution_and_Arbitrary-Scale_Face_Super-Resolution_With_Implicit_Representation_Networks_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Blurry Video Compression: A Trade-Off between Visual Enhancement and Data Compression",
@@ -321,7 +347,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Argaw_Blurry_Video_Compression_A_Trade-Off_Between_Visual_Enhancement_and_Data_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.04430",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "ProxEdit: Improving Tuning-Free Real Image Editing with Proximal Guidance",
@@ -333,7 +360,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Han_ProxEdit_Improving_Tuning-Free_Real_Image_Editing_With_Proximal_Guidance_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data",
@@ -345,7 +373,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Wang_VCISR_Blind_Single_Image_Super-Resolution_With_Video_Compression_Synthetic_Data_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.00996",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "Latent Feature-Guided Diffusion Models for Shadow Removal",
@@ -357,7 +386,8 @@
     "demo_page": "https://huggingface.co/spaces/MKFMIKU/Instance-Shadow-Removal",
     "paper_thecvf": "/papers/Mei_Latent_Feature-Guided_Diffusion_Models_for_Shadow_Removal_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2312.02156",
-    "youtube_id": "WvWBoOZR208"
+    "youtube_id": "WvWBoOZR208",
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "MobileNVC: Real-Time 1080p Neural Video Compression on a Mobile Device",
@@ -369,7 +399,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/van_Rozendaal_MobileNVC_Real-Time_1080p_Neural_Video_Compression_on_a_Mobile_Device_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2310.01258",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   },
   {
     "title": "LatentPaint: Image Inpainting in Latent Space with Diffusion Models",
@@ -381,6 +412,7 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Corneanu_LatentPaint_Image_Inpainting_in_Latent_Space_With_Diffusion_Models_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "Computational Photography, Image and Video Synthesis"
   }
 ]

@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Katageri_Synergizing_Contrastive_Learning_and_Optimal_Transport_for_3D_Point_Cloud_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.14126",
-    "youtube_id": "9rWu4cmSH9g"
+    "youtube_id": "9rWu4cmSH9g",
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "UNSPAT: Uncertainty-Guided SpatioTemporal Transformer for 3D Human Pose and Shape Estimation on Videos",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Lee_UNSPAT_Uncertainty-Guided_SpatioTemporal_Transformer_for_3D_Human_Pose_and_Shape_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "Beyond Document Page Classification: Design, Datasets, and Challenges",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Van_Landeghem_Beyond_Document_Page_Classification_Design_Datasets_and_Challenges_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.12896",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "InfraParis: A Multi-Modal and Multi-Task Autonomous Driving Dataset",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Franchi_InfraParis_A_Multi-Modal_and_Multi-Task_Autonomous_Driving_Dataset_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2309.15751",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "Discovering and Mitigating Biases in CLIP-based Image Editing",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Tanjim_Discovering_and_Mitigating_Biases_in_CLIP-Based_Image_Editing_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "ReCLIP: Refine Contrastive Language Image Pre-Training with Source Free Domain Adaptation",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Hu_ReCLIP_Refine_Contrastive_Language_Image_Pre-Training_With_Source_Free_Domain_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2308.03793",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "Assessing Neural Network Robustness via Adversarial Pivotal Tuning",
@@ -81,7 +87,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Christensen_Assessing_Neural_Network_Robustness_via_Adversarial_Pivotal_Tuning_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2211.09782",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "Visually Guided Audio Source Separation with Meta Consistency Learning",
@@ -93,7 +100,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Islam_Visually_Guided_Audio_Source_Separation_With_Meta_Consistency_Learning_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   },
   {
     "title": "Sign Language Production with Latent Motion Transformer",
@@ -105,6 +113,7 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2312.12917",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X"
   }
 ]

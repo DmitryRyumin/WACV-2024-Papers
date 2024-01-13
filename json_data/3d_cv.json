@@ -9,7 +9,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Li_Task-Oriented_Human-Object_Interactions_Generation_With_Implicit_Neural_Representations_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.13129",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   },
   {
     "title": "Depth from Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach",
@@ -21,7 +22,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Chen_Depth_From_Asymmetric_Frame-Event_Stereo_A_Divide-and-Conquer_Approach_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   },
   {
     "title": "TriPlaneNet: An Encoder for EG3D Inversion",
@@ -33,7 +35,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Bhattarai_TriPlaneNet_An_Encoder_for_EG3D_Inversion_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2303.13497",
-    "youtube_id": "NttXgBE12ec"
+    "youtube_id": "NttXgBE12ec",
+    "section": "3D Computer Vision"
   },
   {
     "title": "Attentive Prototypes for Source-Free Unsupervised Domain Adaptive 3D Object Detection",
@@ -45,7 +48,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2111.15656",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   },
   {
     "title": "FIRe: Fast Inverse Rendering using Directional and Signed Distance Functions",
@@ -57,7 +61,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Yenamandra_FIRe_Fast_Inverse_Rendering_Using_Directional_and_Signed_Distance_Functions_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2203.16284",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   },
   {
     "title": "A Generic and Flexible Regularization Framework for NeRFs",
@@ -69,7 +74,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Ehret_A_Generic_and_Flexible_Regularization_Framework_for_NeRFs_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   },
   {
     "title": "Multi-View 3D Object Reconstruction and Uncertainty Modelling with Neural Shape Prior",
@@ -81,7 +87,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Liao_Multi-View_3D_Object_Reconstruction_and_Uncertainty_Modelling_With_Neural_Shape_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2306.11739",
-    "youtube_id": "N0lMUMJtA1M"
+    "youtube_id": "N0lMUMJtA1M",
+    "section": "3D Computer Vision"
   },
   {
     "title": "Neural Textured Deformable Meshes for Robust Analysis-by-Synthesis",
@@ -93,7 +100,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Wang_Neural_Textured_Deformable_Meshes_for_Robust_Analysis-by-Synthesis_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2306.00118",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   },
   {
     "title": "Ray Deformation Networks for Novel View Synthesis of Refractive Objects",
@@ -105,7 +113,8 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Deng_Ray_Deformation_Networks_for_Novel_View_Synthesis_of_Refractive_Objects_WACV_2024_paper.pdf",
     "paper_arxiv_id": null,
-    "youtube_id": "EnBIWbdRQCE"
+    "youtube_id": "EnBIWbdRQCE",
+    "section": "3D Computer Vision"
   },
   {
     "title": "Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud",
@@ -117,6 +126,7 @@
     "demo_page": null,
     "paper_thecvf": "/papers/Henrich_Registered_and_Segmented_Deformable_Object_Reconstruction_From_a_Single_View_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2311.07357",
-    "youtube_id": null
+    "youtube_id": null,
+    "section": "3D Computer Vision"
   }
 ]
