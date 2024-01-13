@@ -1,90 +1,98 @@
 [
   {
     "title": "TIAM - A Metric for Evaluating Alignment in Text-to-Image Generation",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Grimal_TIAM_-_A_Metric_for_Evaluating_Alignment_in_Text-to-Image_Generation_WACV_2024_paper.html",
-    "repo": "https://github.com/grimalPaul/TIAM",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Grimal_TIAM_-_A_Metric_for_Evaluating_Alignment_in_Text-to-Image_Generation_WACV_2024_paper.html",
+    "repo": "grimalPaul/TIAM",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Grimal_TIAM_-_A_Metric_for_Evaluating_Alignment_in_Text-to-Image_Generation_WACV_2024_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2307.05134",
-    "video": null
+    "paper_thecvf": "/papers/Grimal_TIAM_-_A_Metric_for_Evaluating_Alignment_in_Text-to-Image_Generation_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2307.05134",
+    "youtube_id": null
   },
   {
     "title": "Controlling Rate, Distortion, and Realism: Towards a Single Comprehensive Neural Image Compression Model",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Iwai_Controlling_Rate_Distortion_and_Realism_Towards_a_Single_Comprehensive_Neural_WACV_2024_paper.html",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Iwai_Controlling_Rate_Distortion_and_Realism_Towards_a_Single_Comprehensive_Neural_WACV_2024_paper.html",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Iwai_Controlling_Rate_Distortion_and_Realism_Towards_a_Single_Comprehensive_Neural_WACV_2024_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": "/papers/Iwai_Controlling_Rate_Distortion_and_Realism_Towards_a_Single_Comprehensive_Neural_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null
   },
   {
     "title": "Rotation-Constrained Cross-View Feature Fusion for Multi-View Appearance-based Gaze Estimation",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Hisadome_Rotation-Constrained_Cross-View_Feature_Fusion_for_Multi-View_Appearance-Based_Gaze_Estimation_WACV_2024_paper.html",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Hisadome_Rotation-Constrained_Cross-View_Feature_Fusion_for_Multi-View_Appearance-Based_Gaze_Estimation_WACV_2024_paper.html",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Hisadome_Rotation-Constrained_Cross-View_Feature_Fusion_for_Multi-View_Appearance-Based_Gaze_Estimation_WACV_2024_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2305.12704",
-    "video": null
+    "paper_thecvf": "/papers/Hisadome_Rotation-Constrained_Cross-View_Feature_Fusion_for_Multi-View_Appearance-Based_Gaze_Estimation_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2305.12704",
+    "youtube_id": null
   },
   {
     "title": "Re-Evaluating LiDAR Scene Flow",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Chodosh_Re-Evaluating_LiDAR_Scene_Flow_WACV_2024_paper.html",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Chodosh_Re-Evaluating_LiDAR_Scene_Flow_WACV_2024_paper.html",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Chodosh_Re-Evaluating_LiDAR_Scene_Flow_WACV_2024_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2304.02150",
-    "video": null
+    "paper_thecvf": "/papers/Chodosh_Re-Evaluating_LiDAR_Scene_Flow_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2304.02150",
+    "youtube_id": null
   },
   {
     "title": "FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with a Simple Super-Resolution Pipeline",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Lin_FastSR-NeRF_Improving_NeRF_Efficiency_on_Consumer_Devices_With_a_Simple_WACV_2024_paper.html",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Lin_FastSR-NeRF_Improving_NeRF_Efficiency_on_Consumer_Devices_With_a_Simple_WACV_2024_paper.html",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Lin_FastSR-NeRF_Improving_NeRF_Efficiency_on_Consumer_Devices_With_a_Simple_WACV_2024_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2312.11537",
-    "video": null
+    "paper_thecvf": "/papers/Lin_FastSR-NeRF_Improving_NeRF_Efficiency_on_Consumer_Devices_With_a_Simple_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2312.11537",
+    "youtube_id": null
   },
   {
     "title": "Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html",
-    "repo": "https://github.com/xichenpan/ARLDM",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.html",
+    "repo": "xichenpan/ARLDM",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2211.10950",
-    "video": null
+    "paper_thecvf": "/papers/Pan_Synthesizing_Coherent_Story_With_Auto-Regressive_Latent_Diffusion_Models_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2211.10950",
+    "youtube_id": null
   },
   {
     "title": "Improving the Fairness of the Min-Max Game in GANs Training",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Zhang_Improving_the_Fairness_of_the_Min-Max_Game_in_GANs_Training_WACV_2024_paper.html",
-    "repo": "https://github.com/zzhang05/IGGAN",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Zhang_Improving_the_Fairness_of_the_Min-Max_Game_in_GANs_Training_WACV_2024_paper.html",
+    "repo": "zzhang05/IGGAN",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Improving_the_Fairness_of_the_Min-Max_Game_in_GANs_Training_WACV_2024_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": "/papers/Zhang_Improving_the_Fairness_of_the_Min-Max_Game_in_GANs_Training_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null
   },
   {
     "title": "Textual Alchemy: CoFormer for Scene Text Understanding",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Deshmukh_Textual_Alchemy_CoFormer_for_Scene_Text_Understanding_WACV_2024_paper.html",
-    "repo": "https://github.com/CandleLabAI/CoFormer-WACV-2024",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Deshmukh_Textual_Alchemy_CoFormer_for_Scene_Text_Understanding_WACV_2024_paper.html",
+    "repo": "CandleLabAI/CoFormer-WACV-2024",
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Deshmukh_Textual_Alchemy_CoFormer_for_Scene_Text_Understanding_WACV_2024_paper.pdf",
-    "paper_arxiv": null,
-    "video": null
+    "paper_thecvf": "/papers/Deshmukh_Textual_Alchemy_CoFormer_for_Scene_Text_Understanding_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null
   }
 ]

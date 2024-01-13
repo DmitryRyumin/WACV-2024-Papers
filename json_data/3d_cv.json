@@ -1,13 +1,122 @@
 [
   {
     "title": "Task-Oriented Human-Object Interactions Generation with Implicit Neural Representations",
-    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Li_Task-Oriented_Human-Object_Interactions_Generation_With_Implicit_Neural_Representations_WACV_2024_paper.html",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Li_Task-Oriented_Human-Object_Interactions_Generation_With_Implicit_Neural_Representations_WACV_2024_paper.html",
     "repo": null,
     "web_page": null,
     "github_page": null,
     "demo_page": null,
-    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Li_Task-Oriented_Human-Object_Interactions_Generation_With_Implicit_Neural_Representations_WACV_2024_paper.pdf",
-    "paper_arxiv": "http://arxiv.org/abs/2303.13129",
-    "video": null
+    "paper_thecvf": "/papers/Li_Task-Oriented_Human-Object_Interactions_Generation_With_Implicit_Neural_Representations_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2303.13129",
+    "youtube_id": null
+  },
+  {
+    "title": "Depth from Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Chen_Depth_From_Asymmetric_Frame-Event_Stereo_A_Divide-and-Conquer_Approach_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Chen_Depth_From_Asymmetric_Frame-Event_Stereo_A_Divide-and-Conquer_Approach_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null
+  },
+  {
+    "title": "TriPlaneNet: An Encoder for EG3D Inversion",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Bhattarai_TriPlaneNet_An_Encoder_for_EG3D_Inversion_WACV_2024_paper.html",
+    "repo": "anantarb/triplanenet",
+    "web_page": null,
+    "github_page": "https://anantarb.github.io/triplanenet",
+    "demo_page": null,
+    "paper_thecvf": "/papers/Bhattarai_TriPlaneNet_An_Encoder_for_EG3D_Inversion_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2303.13497",
+    "youtube_id": "NttXgBE12ec"
+  },
+  {
+    "title": "Attentive Prototypes for Source-Free Unsupervised Domain Adaptive 3D Object Detection",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.html",
+    "repo": "deeptibhegde/AttentivePrototypeSFUDA",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2111.15656",
+    "youtube_id": null
+  },
+  {
+    "title": "FIRe: Fast Inverse Rendering using Directional and Signed Distance Functions",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Yenamandra_FIRe_Fast_Inverse_Rendering_Using_Directional_and_Signed_Distance_Functions_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": "https://cvg.cit.tum.de/research/geometry/fire",
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Yenamandra_FIRe_Fast_Inverse_Rendering_Using_Directional_and_Signed_Distance_Functions_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2203.16284",
+    "youtube_id": null
+  },
+  {
+    "title": "A Generic and Flexible Regularization Framework for NeRFs",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Ehret_A_Generic_and_Flexible_Regularization_Framework_for_NeRFs_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Ehret_A_Generic_and_Flexible_Regularization_Framework_for_NeRFs_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": null
+  },
+  {
+    "title": "Multi-View 3D Object Reconstruction and Uncertainty Modelling with Neural Shape Prior",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Liao_Multi-View_3D_Object_Reconstruction_and_Uncertainty_Modelling_With_Neural_Shape_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Liao_Multi-View_3D_Object_Reconstruction_and_Uncertainty_Modelling_With_Neural_Shape_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2306.11739",
+    "youtube_id": "N0lMUMJtA1M"
+  },
+  {
+    "title": "Neural Textured Deformable Meshes for Robust Analysis-by-Synthesis",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Wang_Neural_Textured_Deformable_Meshes_for_Robust_Analysis-by-Synthesis_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Wang_Neural_Textured_Deformable_Meshes_for_Robust_Analysis-by-Synthesis_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2306.00118",
+    "youtube_id": null
+  },
+  {
+    "title": "Ray Deformation Networks for Novel View Synthesis of Refractive Objects",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Deng_Ray_Deformation_Networks_for_Novel_View_Synthesis_of_Refractive_Objects_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Deng_Ray_Deformation_Networks_for_Novel_View_Synthesis_of_Refractive_Objects_WACV_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "youtube_id": "EnBIWbdRQCE"
+  },
+  {
+    "title": "Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024",
+    "title_page": "/html/Henrich_Registered_and_Segmented_Deformable_Object_Reconstruction_From_a_Single_View_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Henrich_Registered_and_Segmented_Deformable_Object_Reconstruction_From_a_Single_View_WACV_2024_paper.pdf",
+    "paper_arxiv_id": "2311.07357",
+    "youtube_id": null
   }
 ]
