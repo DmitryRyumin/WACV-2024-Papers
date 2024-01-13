@@ -1,0 +1,13 @@
+[
+  {
+    "title": "GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-Ray Classification",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Wang_GazeGNN_A_Gaze-Guided_Graph_Neural_Network_for_Chest_X-Ray_Classification_WACV_2024_paper.html",
+    "repo": "https://github.com/ukaukaaaa/GazeGNN",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Wang_GazeGNN_A_Gaze-Guided_Graph_Neural_Network_for_Chest_X-Ray_Classification_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2305.18221",
+    "video": null
+  }
+]

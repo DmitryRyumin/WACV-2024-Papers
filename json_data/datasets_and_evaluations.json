@@ -1,0 +1,79 @@
+[
+  {
+    "title": "IKEA Ego 3D Dataset: Understanding Furniture Assembly Actions from Ego-View 3D Point Clouds",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Ben-Shabat_IKEA_Ego_3D_Dataset_Understanding_Furniture_Assembly_Actions_From_Ego-View_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": "https://sitzikbs.github.io/IKEAEgo3D.github.io/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Ben-Shabat_IKEA_Ego_3D_Dataset_Understanding_Furniture_Assembly_Actions_From_Ego-View_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": "https://www.youtube.com/watch?v=8e3WeMv6vJY"
+  },
+  {
+    "title": "IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Schoonbeek_IndustReal_A_Dataset_for_Procedure_Step_Recognition_Handling_Execution_Errors_WACV_2024_paper.html",
+    "repo": "https://github.com/TimSchoonbeek/IndustReal",
+    "web_page": null,
+    "github_page": "https://timschoonbeek.github.io/industreal.html",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Schoonbeek_IndustReal_A_Dataset_for_Procedure_Step_Recognition_Handling_Execution_Errors_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.17323",
+    "video": null
+  },
+  {
+    "title": "Ego2HandsPose: A Dataset for Egocentric Two-Hand 3D Global Pose Estimation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Lin_Ego2HandsPose_A_Dataset_for_Egocentric_Two-Hand_3D_Global_Pose_Estimation_WACV_2024_paper.html",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Lin_Ego2HandsPose_A_Dataset_for_Egocentric_Two-Hand_3D_Global_Pose_Estimation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2206.04927",
+    "video": null
+  },
+  {
+    "title": "ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.html",
+    "repo": "https://github.com/nicogorlo/isar",
+    "web_page": null,
+    "github_page": "https://nicogorlo.github.io/isar_wacv24/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Gorlo_ISAR_A_Benchmark_for_Single-_and_Few-Shot_Object_Instance_Segmentation_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2311.02734",
+    "video": "https://www.youtube.com/watch?v=vMuwoziD3qc"
+  },
+  {
+    "title": "Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Feinglass_Towards_Addressing_the_Misalignment_of_Object_Proposal_Evaluation_for_Vision-Language_WACV_2024_paper.html",
+    "repo": "https://github.com/JoshuaFeinglass/VL-detector-eval",
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Feinglass_Towards_Addressing_the_Misalignment_of_Object_Proposal_Evaluation_for_Vision-Language_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2309.00215",
+    "video": null
+  },
+  {
+    "title": "SphereCraft: A Dataset for Spherical Keypoint Detection, Matching and Camera Pose Estimation",
+    "title_page": "https://openaccess.thecvf.com/content/WACV2024/html/Gava_SphereCraft_A_Dataset_for_Spherical_Keypoint_Detection_Matching_and_Camera_WACV_2024_paper.html",
+    "repo": "https://github.com/DFKI/spherecrafthub",
+    "web_page": null,
+    "github_page": "https://dfki.github.io/spherecraftweb/",
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Gava_SphereCraft_A_Dataset_for_Spherical_Keypoint_Detection_Matching_and_Camera_WACV_2024_paper.pdf",
+    "paper_arxiv": null,
+    "video": null
+  },
+  {
+    "title": "Benchmark Generation Framework with Customizable Distortions for Image Classifier Robustness",
+    "title_page": "Sarkar_Benchmark_Generation_Framework_With_Customizable_Distortions_for_Image_Classifier_Robustness_WACV_2024_paper",
+    "repo": null,
+    "web_page": null,
+    "github_page": null,
+    "demo_page": null,
+    "paper_thecvf": "https://openaccess.thecvf.com/content/WACV2024/papers/Sarkar_Benchmark_Generation_Framework_With_Customizable_Distortions_for_Image_Classifier_Robustness_WACV_2024_paper.pdf",
+    "paper_arxiv": "http://arxiv.org/abs/2310.18626",
+    "video": null
+  }
+]
