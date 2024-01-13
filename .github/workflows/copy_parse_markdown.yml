@@ -24,7 +24,7 @@ on:
           - true
           - false
   schedule:
-    - cron: '55 9 * * *'
+    - cron: '30 23 * * *'
 
 jobs:
   copy-code:
