@@ -53,6 +53,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>
+      <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+        <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!-- 388/846 -->
@@ -84,6 +92,13 @@ Explore the [*WACV 2024 online conference list*](https://openaccess.thecvf.com/W
 <a href="https://github.com/DmitryRyumin/NewEraAI-Papers" style="float:left;">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arrow_click_cursor_pointer.png" width="25" alt="" />
   Other collections of the best AI conferences
+</a>
+
+<br />
+<br />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
 </a>
 
 <br />
@@ -190,6 +205,10 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ---
 
 ## Papers <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
 
 <table>
     <thead>
