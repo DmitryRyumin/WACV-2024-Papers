@@ -448,7 +448,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md">Generative Models for Image, Video, 3D, etc.</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md">Generative Models for Image, Video, 3D, etc</a>
             </td>
         </tr>
         <tr>
