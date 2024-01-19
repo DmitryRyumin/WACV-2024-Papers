@@ -1225,7 +1225,7 @@
     "section": "Image Recognition & Understanding"
   },
   {
-    "title": "C2AIR: Consolidated Compact Aerial Image Haze Removal",
+    "title": "C<sup>2</sup>AIR: Consolidated Compact Aerial Image Haze Removal",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024",
     "title_page": "/html/Kulkarni_C2AIR_Consolidated_Compact_Aerial_Image_Haze_Removal_WACV_2024_paper.html",
     "repo": "AshutoshKulkarni4998/C2AIR",

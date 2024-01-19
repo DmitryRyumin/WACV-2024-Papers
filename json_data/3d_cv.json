@@ -1775,7 +1775,7 @@
     "section": "3D Computer Vision"
   },
   {
-    "title": "U3DS3: Unsupervised 3D Semantic Scene Segmentation",
+    "title": "U3DS<sup>3</sup>: Unsupervised 3D Semantic Scene Segmentation",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024",
     "title_page": "/html/Liu_U3DS3_Unsupervised_3D_Semantic_Scene_Segmentation_WACV_2024_paper.html",
     "repo": null,

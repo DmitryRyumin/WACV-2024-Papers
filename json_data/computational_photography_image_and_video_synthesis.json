@@ -300,7 +300,7 @@
     "section": "Computational Photography, Image and Video Synthesis"
   },
   {
-    "title": "TSA2: Temporal Segment Adaptation and Aggregation for Video Harmonization",
+    "title": "TSA<sup>2</sup>: Temporal Segment Adaptation and Aggregation for Video Harmonization",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024",
     "title_page": "/html/Xiao_TSA2_Temporal_Segment_Adaptation_and_Aggregation_for_Video_Harmonization_WACV_2024_paper.html",
     "repo": null,

@@ -2075,7 +2075,7 @@
     "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
-    "title": "M33D: Learning 3D Priors using Multi-Modal Masked Autoencoders for 2D Image and Video Understanding",
+    "title": "M<sup>3</sup>3D: Learning 3D Priors using Multi-Modal Masked Autoencoders for 2D Image and Video Understanding",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024",
     "title_page": "/html/Jamal_M33D_Learning_3D_Priors_Using_Multi-Modal_Masked_Autoencoders_for_2D_WACV_2024_paper.html",
     "repo": null,
@@ -2150,7 +2150,7 @@
     "section": "Machine Learning: Architectures, Formulations, Algorithms"
   },
   {
-    "title": "D3GU: Multi-Target Active Domain Adaptation via Enhancing Domain Alignment",
+    "title": "D<sup>3</sup>GU: Multi-Target Active Domain Adaptation via Enhancing Domain Alignment",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024",
     "title_page": "/html/Zhang_D3GU_Multi-Target_Active_Domain_Adaptation_via_Enhancing_Domain_Alignment_WACV_2024_paper.html",
     "repo": "lzhangbj/D3GU",
