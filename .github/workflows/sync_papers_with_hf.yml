@@ -11,7 +11,7 @@ jobs:
       HF_USERNAME: 'DmitryRyumin'
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
-      REMOTE_URL: 'https://huggingface.co/spaces/${HF_USERNAME}/${HF_REPO}'
+      REMOTE_URL: 'https://${HF_USERNAME}:${{ secrets.HUGGINGFACE_TOKEN }}@huggingface.co/spaces/${HF_USERNAME}/${HF_REPO}'
       TOKEN: '${{ secrets.HUGGINGFACE_TOKEN }}'
 
     steps:
