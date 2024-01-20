@@ -44,12 +44,12 @@
   <tr>
     <td><strong>GitHub Actions</strong></td>
     <td>
-      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg">
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml">
         <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/copy_parse_markdown.yml/badge.svg" alt="Copy Parse Markdown and Generate JSON from Source Repo">
       </a>
       <br />
-      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
-        <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/">
+        <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg" alt="Parse Markdown and Generate JSON">
       </a>
       <br />
       <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/sync_papers_with_hf.yml">
