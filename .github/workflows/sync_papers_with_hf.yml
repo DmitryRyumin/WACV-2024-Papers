@@ -11,7 +11,7 @@ jobs:
       HF_USERNAME: 'DmitryRyumin'
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
-      REMOTE_URL: 'https://huggingface.co/${HF_USERNAME}/${HF_REPO}'
+      REMOTE_URL: 'git@hf.co:spaces/${HF_USERNAME}/${HF_REPO}'
       TOKEN: '${{ secrets.HUGGINGFACE_TOKEN }}'
 
     steps:
@@ -20,9 +20,13 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Install Git LFS
+        run: |
+          git lfs install
+
       - name: Clone Hugging Face Repository
         run: |
-          git clone --quiet --branch=main --single-branch --depth=1 --recurse-submodules --shallow-submodules "$REMOTE_URL" huggingface-repo || { echo "Cloning failed, trying without submodules."; git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" huggingface-repo; }
+          GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" huggingface-repo
 
       - name: Display working code directory Hugging Face
         run: |
