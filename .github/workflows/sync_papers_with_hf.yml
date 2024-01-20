@@ -62,6 +62,8 @@ jobs:
                 echo "File $file content differs from $target_file:"
                 colordiff -u "$file" "$target_file" | sed "s/^/$file: /;s/^$target_file: /$target_file: /"
               fi
+            else
+              echo "File $file does not exist in $TARGET_DIR"
             fi
           done
 
