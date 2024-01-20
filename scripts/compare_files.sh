@@ -32,7 +32,7 @@ if [ -d "$TARGET_DIR" ]; then
     fi
   done
 else
-  echo "Target directory '$TARGET_DIR' does not exist. Creating it..."
+  echo "Target directory '$TARGET_DIR' does not exist. Creating it ..."
   mkdir -p "$TARGET_DIR"
 fi
 

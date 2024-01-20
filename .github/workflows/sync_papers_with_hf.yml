@@ -16,6 +16,8 @@ jobs:
       LOCAL_DIR: 'NewEraAI-Papers'
       HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
       JSON_DATA_PATH: 'json_data/2024/WACV'
+      UPDATE_REPO_SH: 'update_repo.sh'
+      COMPARE_FILES_SH: 'compare_files.sh'
 
     steps:
       - name: Checkout repository
@@ -26,14 +28,18 @@ jobs:
 
       - name: Install Git LFS
         run: |
-          if [ ! -x "$(command -v git-lfs)" ]; then
+          if ! command -v git-lfs &> /dev/null; then
             echo "Git LFS is not installed. Installing ..."
             sudo apt-get install git-lfs
           fi
           git lfs install
 
       - name: Install colordiff
-        run: sudo apt-get install colordiff
+        run: |
+          if ! command -v colordiff &> /dev/null; then
+            echo "colordiff is not installed. Installing ..."
+            sudo apt-get install colordiff
+          fi
 
       - name: Set REMOTE_URL
         run: |
@@ -48,14 +54,20 @@ jobs:
         run: |
           ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
-      - name: Define update_repo function
-        run: echo 'source ${{ github.workspace }}/scripts/update_repo.sh' > update_repo.sh
+      - name: Make scripts executable
+        run: |
+          chmod +x ${{ github.workspace }}/scripts/${{ env.UPDATE_REPO_SH }}
+          chmod +x ${{ github.workspace }}/scripts/${{ env.COMPARE_FILES_SH }}
 
-      - name: Define compare_files function
-        run: echo 'source ${{ github.workspace }}/scripts/compare_files.sh' > compare_files.sh
+      - name: Define scripts
+        run: |
+          echo 'source ${{ github.workspace }}/scripts/${{ env.UPDATE_REPO_SH }}' > ${{ env.UPDATE_REPO_SH }}
+          echo 'source ${{ github.workspace }}/scripts/${{ env.COMPARE_FILES_SH }}' > ${{ env.COMPARE_FILES_SH }}
+          chmod +x ${{ github.workspace }}/${{ env.UPDATE_REPO_SH }}
+          chmod +x ${{ github.workspace }}/${{ env.COMPARE_FILES_SH }}
 
       - name: Compare and update files
-        run: bash compare_files.sh "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+        run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
       - name: Update repository and commit
-        run: bash update_repo.sh "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}" "dl_03.03.1991@mail.ru" "DmitryRyumin" "${{ env.JSON_DATA_PATH }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+        run: run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}" "${{ github.actor }}@users.noreply.github.com" "${{ github.actor }}" "${{ env.JSON_DATA_PATH }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
