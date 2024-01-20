@@ -51,6 +51,10 @@
       <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main">
         <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/parse_markdown.yml/badge.svg?branch=main" alt="Parse Markdown and Generate JSON">
       </a>
+      <br />
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/sync_papers_with_hf.yml">
+        <img src="https://github.com/DmitryRyumin/WACV-2024-Papers/actions/workflows/sync_papers_with_hf.yml/badge.svg" alt="Sync Hugging Face App">
+      </a>
     </td>
   </tr>
   <tr>
