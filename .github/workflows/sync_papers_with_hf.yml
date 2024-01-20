@@ -49,7 +49,7 @@ jobs:
           ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
       - name: Define update_repo function
-        run: echo 'source ${{ github.workspace }}/scripts/update_repo.sh' > update_repo_step.sh
+        run: echo 'source ${{ github.workspace }}/scripts/update_repo.sh' > update_repo.sh
 
       - name: Define compare_files function
         run: echo 'source ${{ github.workspace }}/scripts/compare_files.sh' > compare_files.sh
