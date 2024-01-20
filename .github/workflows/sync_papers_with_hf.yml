@@ -11,7 +11,7 @@ jobs:
       HF_USERNAME: 'DmitryRyumin'
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
-      TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+      HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -25,14 +25,12 @@ jobs:
 
       - name: Set REMOTE_URL
         run: |
-          echo "REMOTE_URL=https://${{ env.HF_USERNAME }}:${{ secrets.HUGGINGFACE_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }}'" >> $GITHUB_ENV
+          echo "REMOTE_URL=https://${{ env.HF_USERNAME }}:${{ env.HF_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }}'" >> $GITHUB_ENV
 
       - name: Clone Hugging Face Repository
         run: |
           GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" huggingface-repo
-        env:
-          HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
 
       - name: Display working code directory Hugging Face
         run: |
-          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}"
+          ls -al "${{ github.workspace }}/huggingface-repo"
