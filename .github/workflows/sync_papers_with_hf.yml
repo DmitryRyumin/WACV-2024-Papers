@@ -1,6 +1,8 @@
 name: Sync Hugging Face App
 
 on:
+  schedule:
+    - cron: '0 4 * * *' # 04:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -18,6 +20,7 @@ jobs:
       JSON_DATA_PATH: 'json_data/2024/WACV'
       UPDATE_REPO_SH: 'update_repo.sh'
       COMPARE_FILES_SH: 'compare_files.sh'
+      EMAIL: 'dl_03.03.1991@mail.ru'
 
     steps:
       - name: Checkout repository
@@ -70,4 +73,4 @@ jobs:
         run: bash ${{ env.COMPARE_FILES_SH }} "${{ github.workspace }}/json_data" "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
       - name: Update repository and commit
-        run: run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}" "${{ github.actor }}@users.noreply.github.com" "${{ github.actor }}" "${{ env.JSON_DATA_PATH }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
+        run: bash ${{ env.UPDATE_REPO_SH }} "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}" "${{ env.EMAIL }}" "${{ env.HF_USERNAME }}" "${{ env.JSON_DATA_PATH }}" "${{ env.HF_USERNAME }}" "${{ env.HF_TOKEN }}" "${{ env.HF_REPO }}"
