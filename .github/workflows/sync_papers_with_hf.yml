@@ -7,11 +7,15 @@ jobs:
   sync-hf:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     env:
       HF_USERNAME: 'DmitryRyumin'
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
       HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
+      JSON_DATA_PATH: 'json_data/2024/WACV'
 
     steps:
       - name: Checkout repository
@@ -21,6 +25,10 @@ jobs:
 
       - name: Install Git LFS
         run: |
+          if [ ! -x "$(command -v git-lfs)" ]; then
+            echo "Git LFS is not installed. Installing ..."
+            sudo apt-get install git-lfs
+          fi
           git lfs install
 
       - name: Set REMOTE_URL
@@ -29,8 +37,17 @@ jobs:
 
       - name: Clone Hugging Face Repository
         run: |
-          GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" huggingface-repo
+          GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" "${{ env.LOCAL_DIR }}"
+        continue-on-error: true
 
-      - name: Display working code directory Hugging Face
+      - name: Display cloned directory contents
         run: |
-          ls -al "${{ github.workspace }}/huggingface-repo"
+          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+
+      - name: Set output status
+        run: |
+          if [ $? -eq 0 ]; then
+            echo "status=success" >> $GITHUB_ENV
+          else
+            echo "status=failure" >> $GITHUB_ENV
+          fi
