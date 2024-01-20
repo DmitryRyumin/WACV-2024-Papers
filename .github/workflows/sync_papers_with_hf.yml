@@ -30,6 +30,8 @@ jobs:
       - name: Clone Hugging Face Repository
         run: |
           GIT_LFS_SKIP_SMUDGE=1 git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" huggingface-repo
+        env:
+          HUGGINGFACE_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
 
       - name: Display working code directory Hugging Face
         run: |
