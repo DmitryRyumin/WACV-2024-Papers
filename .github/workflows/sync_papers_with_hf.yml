@@ -80,20 +80,24 @@ jobs:
           # Create an array to store files that need to be updated
           files_to_update=()
 
-          for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
-            target_file="$TARGET_DIR/$(basename "$file")"
-            if [ -e "$target_file" ]; then
-              # Check if files differ
-              if ! cmp -s "$target_file" "$file"; then
+          if [ -d "$TARGET_DIR" ]; then
+            for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
+              target_file="$TARGET_DIR/$(basename "$file")"
+              if [ -e "$target_file" ]; then
+                # Check if files differ
+                if ! cmp -s "$target_file" "$file"; then
+                  cp "$file" "$target_file"
+                  files_to_update+=("${{ env.JSON_DATA_PATH }}/$(basename "$file")")
+                fi
+              else
+                # If target file doesn't exist, copy it and add to the update list
                 cp "$file" "$target_file"
                 files_to_update+=("${{ env.JSON_DATA_PATH }}/$(basename "$file")")
               fi
-            else
-              # If target file doesn't exist, copy it and add to the update list
-              cp "$file" "$target_file"
-              files_to_update+=("${{ env.JSON_DATA_PATH }}/$(basename "$file")")
-            fi
-          done
+            done
+          else
+            echo "Target directory '$TARGET_DIR' does not exist."
+          fi
 
           if [ ${#files_to_update[@]} -eq 0 ]; then
             echo "No files to update."
