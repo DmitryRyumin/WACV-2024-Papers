@@ -1,0 +1,29 @@
+name: Sync Hugging Face App
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-hf:
+    runs-on: ubuntu-latest
+
+    env:
+      HF_USERNAME: 'DmitryRyumin'
+      HF_REPO: 'NewEraAI-Papers'
+      LOCAL_DIR: 'NewEraAI-Papers'
+      REMOTE_URL: 'https://huggingface.co/${HF_USERNAME}/${HF_REPO}'
+      TOKEN: '${{ secrets.HUGGINGFACE_TOKEN }}'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Clone Hugging Face Repository
+        run: |
+          git clone --quiet --branch=main --single-branch --depth=1 --recurse-submodules --shallow-submodules "$REMOTE_URL" huggingface-repo || { echo "Cloning failed, trying without submodules."; git clone --quiet --branch=main --single-branch --depth=1 "$REMOTE_URL" huggingface-repo; }
+
+      - name: Display working code directory Hugging Face
+        run: |
+          ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}"
