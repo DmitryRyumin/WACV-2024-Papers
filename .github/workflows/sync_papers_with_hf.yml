@@ -25,7 +25,7 @@ jobs:
 
       - name: Set REMOTE_URL
         run: |
-          echo "REMOTE_URL=https://${{ HF_USERNAME }}:${{ secrets.HUGGINGFACE_TOKEN }}@huggingface.co/spaces/${{ HF_USERNAME }}/${{ HF_REPO }}'" >> $GITHUB_ENV
+          echo "REMOTE_URL=https://${{ env.HF_USERNAME }}:${{ secrets.HUGGINGFACE_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }}'" >> $GITHUB_ENV
 
       - name: Clone Hugging Face Repository
         run: |
