@@ -53,21 +53,19 @@ jobs:
           SOURCE_DIR="${{ github.workspace }}/json_data"
           TARGET_DIR="${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
-          # Install grc
-          sudo apt-get install grc
-
           # Create a header for the table
           echo -e "File\t\tComparison Result"
 
           for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
             target_file="$TARGET_DIR/$(basename "$file")"
             if [ -e "$target_file" ]; then
-              # Check if files differ
-              if ! cmp -s "$file" "$target_file"; then
+              # Check if files are identical
+              if cmp -s "$file" "$target_file"; then
+                # Print the filename and a message indicating files are identical
+                echo -e "$(basename "$file")\t\tFiles are identical"
+              else
                 # Print the filename and a message indicating files differ
                 echo -e "$(basename "$file")\t\tFiles differ"
-                # Display unified diff with colors using grc
-                grc diff -u "$file" "$target_file" | sed -n '/^[^+-]/p'
               fi
             else
               # Print the filename and a message indicating absence in TARGET_DIR
