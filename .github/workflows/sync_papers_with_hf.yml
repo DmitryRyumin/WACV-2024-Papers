@@ -11,7 +11,7 @@ jobs:
       HF_USERNAME: 'DmitryRyumin'
       HF_REPO: 'NewEraAI-Papers'
       LOCAL_DIR: 'NewEraAI-Papers'
-      TOKEN: '${{ secrets.HUGGINGFACE_TOKEN }}'
+      TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
 
     steps:
       - name: Checkout repository
