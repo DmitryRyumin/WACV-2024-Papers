@@ -96,20 +96,23 @@ jobs:
               fi
             done
           else
-            echo "Target directory '$TARGET_DIR' does not exist."
+            echo "Target directory '$TARGET_DIR' does not exist. Creating it ..."
+            mkdir -p "$TARGET_DIR"
           fi
 
           if [ ${#files_to_update[@]} -eq 0 ]; then
             echo "No files to update."
           else
-            # Construct commit message
-            commit_message="Update JSON files in ${{ env.JSON_DATA_PATH }}"
+            # Change working directory to the target directory
+            cd "$TARGET_DIR" || exit 1
 
-            # Commit only if there are files to update
-            git config --global user.email "dl@03.03.1991@mail.ru"
+            # Set user email and username
+            git config --global user.email "dl_03.03.1991@mail.ru"
             git config --global user.name "DmitryRyumin"
-            git add "${files_to_update[@]}"
-            git commit -m "$commit_message"
+
+            # Commit all changes in the target directory
+            git add .
+            git commit -m "Update JSON files in ${{ env.JSON_DATA_PATH }}"
             git push https://${{ env.HF_USERNAME }}:${{ env.HF_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }} main
           fi
 
