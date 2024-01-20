@@ -72,6 +72,43 @@ jobs:
             fi
           done | column -t -s $'\t'
 
+      - name: Replace non-identical files and commit to Hugging Face
+        run: |
+          SOURCE_DIR="${{ github.workspace }}/json_data"
+          TARGET_DIR="${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+
+          # Create an array to store files that need to be updated
+          files_to_update=()
+
+          for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
+            target_file="$TARGET_DIR/$(basename "$file")"
+            if [ -e "$target_file" ]; then
+              # Check if files differ
+              if ! cmp -s "$target_file" "$file"; then
+                cp "$file" "$target_file"
+                files_to_update+=("${{ env.JSON_DATA_PATH }}/$(basename "$file")")
+              fi
+            else
+              # If target file doesn't exist, copy it and add to the update list
+              cp "$file" "$target_file"
+              files_to_update+=("${{ env.JSON_DATA_PATH }}/$(basename "$file")")
+            fi
+          done
+
+          if [ ${#files_to_update[@]} -eq 0 ]; then
+            echo "No files to update."
+          else
+            # Construct commit message
+            commit_message="Update JSON files in ${{ env.JSON_DATA_PATH }}"
+
+            # Commit only if there are files to update
+            git config --global user.email "dl@03.03.1991@mail.ru"
+            git config --global user.name "DmitryRyumin"
+            git add "${files_to_update[@]}"
+            git commit -m "$commit_message"
+            git push https://${{ env.HF_USERNAME }}:${{ env.HF_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }} main
+          fi
+
       - name: Set output status
         run: |
           if [ $? -eq 0 ]; then
