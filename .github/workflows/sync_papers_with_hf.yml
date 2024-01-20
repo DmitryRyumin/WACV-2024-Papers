@@ -20,8 +20,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        continue-on-error: true # Continue with the workflow even if the checkout fails
         with:
-          fetch-depth: 0
+          ref: ${{ github.event.before || 'main' }}
 
       - name: Install Git LFS
         run: |
@@ -43,6 +44,20 @@ jobs:
       - name: Display cloned directory contents
         run: |
           ls -al "${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+
+      - name: Compare file contents
+        run: |
+          SOURCE_DIR="${{ github.workspace }}/json_data"
+          TARGET_DIR="${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
+
+          for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
+            target_file="$TARGET_DIR/$(basename "$file")"
+            if [ -e "$target_file" ]; then
+              if ! diff "$file" "$target_file" &> /dev/null; then
+                echo "File $file content differs from $target_file"
+              fi
+            fi
+          done
 
       - name: Set output status
         run: |
