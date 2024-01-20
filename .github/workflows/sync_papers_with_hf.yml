@@ -53,6 +53,9 @@ jobs:
           SOURCE_DIR="${{ github.workspace }}/json_data"
           TARGET_DIR="${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
+          # Install grc
+          sudo apt-get install grc
+
           # Create a header for the table
           echo -e "File\t\tComparison Result"
 
@@ -63,8 +66,8 @@ jobs:
               if ! cmp -s "$file" "$target_file"; then
                 # Print the filename and a message indicating files differ
                 echo -e "$(basename "$file")\t\tFiles differ"
-                # Display unified diff with colors
-                colordiff --color=always -u "$file" "$target_file" | sed -n '/^[^+-]/p'
+                # Display unified diff with colors using grc
+                grc diff -u "$file" "$target_file" | sed -n '/^[^+-]/p'
               fi
             else
               # Print the filename and a message indicating absence in TARGET_DIR
