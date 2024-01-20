@@ -32,6 +32,9 @@ jobs:
           fi
           git lfs install
 
+      - name: Install colordiff
+        run: sudo apt-get install colordiff
+
       - name: Set REMOTE_URL
         run: |
           echo "REMOTE_URL=https://${{ env.HF_USERNAME }}:${{ env.HF_TOKEN }}@huggingface.co/spaces/${{ env.HF_USERNAME }}/${{ env.HF_REPO }}" >> $GITHUB_ENV
@@ -53,8 +56,11 @@ jobs:
           for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
             target_file="$TARGET_DIR/$(basename "$file")"
             if [ -e "$target_file" ]; then
-              if ! diff "$file" "$target_file" &> /dev/null; then
-                echo "File $file content differs from $target_file"
+              if ! colordiff -u "$file" "$target_file" | grep -q -E "^\+[^\+]|^-[^-]"; then
+                echo "File $file content is identical to $target_file"
+              else
+                echo "File $file content differs from $target_file:"
+                colordiff -u "$file" "$target_file" | sed "s/^/$file: /;s/^$target_file: /$target_file: /"
               fi
             fi
           done
