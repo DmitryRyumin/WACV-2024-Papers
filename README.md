@@ -11,33 +11,53 @@
         <img src="http://img.shields.io/badge/WACV-2024-7395C5.svg" alt="Conference">
       </a>
       <img src="https://img.shields.io/badge/version-v0.0.0-rc0" alt="Version">
-      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+      </a>
     </td>
   </tr>
   <tr>
     <td><strong>Repository Size and Activity</strong></td>
     <td>
       <img src="https://img.shields.io/github/repo-size/DmitryRyumin/WACV-2024-Papers" alt="GitHub repo size">
-      <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/WACV-2024-Papers" alt="GitHub commit activity (branch)">
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/commits/main/">
+        <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/WACV-2024-Papers" alt="GitHub commit activity (branch)">
+      </a>
     </td>
   </tr>
   <tr>
     <td><strong>Contribution Statistics</strong></td>
     <td>
-      <img src="https://img.shields.io/github/contributors/dmitryryumin/WACV-2024-Papers" alt="GitHub contributors">
-      <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/WACV-2024-Papers" alt="GitHub closed issues">
-      <img src="https://img.shields.io/github/issues/DmitryRyumin/WACV-2024-Papers" alt="GitHub issues">
-      <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/WACV-2024-Papers" alt="GitHub closed pull requests">
-      <img src="https://img.shields.io/github/issues-pr/dmitryryumin/WACV-2024-Papers" alt="GitHub pull requests">
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/dmitryryumin/WACV-2024-Papers" alt="GitHub contributors">
+      </a>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/issues?q=is%3Aissue+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/WACV-2024-Papers" alt="GitHub closed issues">
+      </a>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/issues">
+        <img src="https://img.shields.io/github/issues/DmitryRyumin/WACV-2024-Papers" alt="GitHub issues">
+      </a>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/pulls?q=is%3Apr+is%3Aclosed">
+        <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/WACV-2024-Papers" alt="GitHub closed pull requests">
+      </a>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/pulls">
+        <img src="https://img.shields.io/github/issues-pr/dmitryryumin/WACV-2024-Papers" alt="GitHub pull requests">
+      </a>
     </td>
   </tr>
   <tr>
     <td><strong>Other Metrics</strong></td>
     <td>
       <img src="https://img.shields.io/github/last-commit/DmitryRyumin/WACV-2024-Papers" alt="GitHub last commit">
-      <img src="https://img.shields.io/github/watchers/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub watchers">
-      <img src="https://img.shields.io/github/forks/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub forks">
-      <img src="https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub Repo stars">
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/watchers">
+        <img src="https://img.shields.io/github/watchers/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub watchers">
+      </a>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/forks">
+        <img src="https://img.shields.io/github/forks/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub forks">
+      </a>
+      <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/stargazers">
+        <img src="https://img.shields.io/github/stars/dmitryryumin/WACV-2024-Papers?style=flat" alt="GitHub Repo stars">
+      </a>
       <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FWACV-2024-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
     </td>
   </tr>
