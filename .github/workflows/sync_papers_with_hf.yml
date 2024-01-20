@@ -53,19 +53,21 @@ jobs:
           SOURCE_DIR="${{ github.workspace }}/json_data"
           TARGET_DIR="${{ github.workspace }}/${{ env.LOCAL_DIR }}/${{ env.JSON_DATA_PATH }}"
 
+          # Create a header for the table
+          echo -e "File\t\t\tComparison Result"
+
           for file in $(find "$SOURCE_DIR" -type f -name '*.json'); do
             target_file="$TARGET_DIR/$(basename "$file")"
             if [ -e "$target_file" ]; then
-              if ! colordiff -u "$file" "$target_file" | grep -q -E "^\+[^\+]|^-[^-]"; then
-                echo "File $file content is identical to $target_file"
-              else
-                echo "File $file content differs from $target_file:"
-                colordiff -u "$file" "$target_file" | sed "s/^/$file: /;s/^$target_file: /$target_file: /"
+              if colordiff -u "$file" "$target_file" | grep -q -E "^\+[^\+]|^-[^-]"; then
+                # Print the filename and a message indicating differences
+                echo -e "$(basename "$file")\t\t\tContent differs"
               fi
             else
-              echo "File $file does not exist in $TARGET_DIR"
+              # Print the filename and a message indicating absence in TARGET_DIR
+              echo -e "$(basename "$file")\t\t\tNot present in TARGET_DIR"
             fi
-          done
+          done | column -t -s $'\t'
 
       - name: Set output status
         run: |
