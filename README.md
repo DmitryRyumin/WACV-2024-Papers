@@ -460,19 +460,19 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluations.md">Datasets and Evaluations</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md">Datasets and Evaluation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluations.md"><img src="https://img.shields.io/badge/28-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/28-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluations.md"><img src="https://img.shields.io/badge/20-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/20-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluations.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluations.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>

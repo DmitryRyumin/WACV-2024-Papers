@@ -23,7 +23,7 @@
     </a>
 </div>
 
-## Datasets and Evaluations
+## Datasets and Evaluation
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-28-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-20-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-16-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-5-FF0000)
 
