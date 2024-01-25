@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level_and_physics-based-vision.md">
+    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level-and-physics-based-vision.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/">
