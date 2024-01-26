@@ -87,9 +87,9 @@
   </tr>
 </table>
 
-<!-- 561/846 -->
+<!-- 581/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/66?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/69?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -497,16 +497,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md">Generative Models for Image, Video, 3D, etc</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/23-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/15-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
