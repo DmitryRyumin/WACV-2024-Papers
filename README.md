@@ -523,7 +523,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/19-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
