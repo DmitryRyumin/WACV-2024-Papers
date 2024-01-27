@@ -27,4 +27,11 @@
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Computer Vision on the Edge: Individual Cattle Identification in Real-Time with ReadMyCow System |  |  |  |
+| PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction |  |  |  |
+| S3AD: Semi-Supervised Small Apple Detection in Orchard Environments |  |  |  |
+| Towards Accurate Disease Segmentation in Plant Images: A Comprehensive Dataset Creation and Network Evaluation |  |  |  |
+| Automated Monitoring of Ear Biting in Pigs by Tracking Individuals and Events |  |  |  |
+| The Growing Strawberries Dataset: Tracking Multiple Objects with Biological Development Over an Extended Period |  |  |  |
