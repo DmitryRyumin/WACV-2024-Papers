@@ -22,7 +22,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Efficient Semantic Matching with Hypercolumn Correlation",
@@ -47,7 +47,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "ArcGeo: Localizing Limited Field-of-View Images using Cross-View Matching",
@@ -72,7 +72,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Contextual Affinity Distillation for Image Anomaly Detection",
@@ -97,7 +97,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Offline-to-Online Knowledge Distillation for Video Instance Segmentation",
@@ -122,7 +122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Video-kMaX: A Simple Unified Approach for Online and Near-Online Video Panoptic Segmentation",
@@ -147,7 +147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Conditional Velocity Score Estimation for Image Restoration",
@@ -172,7 +172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "ARNIQA: Learning Distortion Manifold for Image Quality Assessment",
@@ -197,7 +197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Hard Sample-Aware Consistency for Low-Resolution Facial Expression Recognition",
@@ -222,7 +222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Open-Set Object Detection by Aligning Known Class Representations",
@@ -247,7 +247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "DeVos: Flow-Guided Deformable Transformer for Video Object Segmentation",
@@ -272,7 +272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   },
   {
     "title": "Disentangled Pre-Training for Image Matting",
@@ -297,6 +297,6 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image/Video Recognition & Understanding; Low-Level & Physics-based Vision"
+    "section": "Image/Video Recognition and Understanding; Low-Level and Physics-based Vision"
   }
 ]

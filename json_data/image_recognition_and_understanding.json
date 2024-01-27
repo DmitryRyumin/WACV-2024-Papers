@@ -22,7 +22,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Training Ensembles with Inliers and Outliers for Semi-Supervised Active Learning",
@@ -47,7 +47,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Multi-View Classification using Hybrid Fusion and Mutual Distillation",
@@ -72,7 +72,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Amodal Intra-Class Instance Segmentation: Synthetic Datasets and Benchmark",
@@ -97,7 +97,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Prompting Classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation",
@@ -122,7 +122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "RSMPNet: Relationship Guided Semantic Map Prediction",
@@ -147,7 +147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "3SD: Self-Supervised Saliency Detection with No Labels",
@@ -172,7 +172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Training-Free Object Counting with Prompts",
@@ -197,7 +197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Unsupervised and Semi-Supervised Co-Salient Object Detection via Segmentation Frequency Statistics",
@@ -222,7 +222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Glance to Count: Learning to Rank with Anchors for Weakly-Supervised Crowd Counting",
@@ -247,7 +247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation",
@@ -272,7 +272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Booster-SHOT: Boosting Stacked Homography Transformations for Multiview Pedestrian Detection with Attention",
@@ -297,7 +297,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "360BEV: Panoramic Semantic Mapping for Indoor Bird's-Eye View",
@@ -322,7 +322,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Learning Saliency from Fixations",
@@ -347,7 +347,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Mitigate Domain Shift by Primary-Auxiliary Objectives Association for Generalizing Person ReID",
@@ -372,7 +372,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder",
@@ -397,7 +397,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Small Objects Matters in Weakly-Supervised Semantic Segmentation",
@@ -422,7 +422,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Gradient-Guided Knowledge Distillation for Object Detectors",
@@ -447,7 +447,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "MetaSeg: MetaFormer-based Global Contexts-Aware Network for Efficient Semantic Segmentation",
@@ -472,7 +472,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "ClipSitu: Effectively Leveraging CLIP for Conditional Predictions in Situation Recognition",
@@ -497,7 +497,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Panelformer: Sewing Pattern Reconstruction from 2D Garment Images",
@@ -522,7 +522,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "From Denoising Training to Test-Time Adaptation: Enhancing Domain Generalization for Medical Image Segmentation",
@@ -547,7 +547,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Guided Distillation for Semi-Supervised Instance Segmentation",
@@ -572,7 +572,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Real-Time User-Guided Adaptive Colorization with Vision Transformer",
@@ -597,7 +597,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Mining and Unifying Heterogeneous Contrastive Relations for Weakly-Supervised Actor-Action Segmentation",
@@ -622,7 +622,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Graph Neural Networks for End-to-End Information Extraction from Handwritten Documents",
@@ -647,7 +647,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "CPSeg: Finer-Grained Image Semantic Segmentation via Chain-of-Thought Language Prompting",
@@ -672,7 +672,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Foundation Model Assisted Weakly Supervised Semantic Segmentation",
@@ -697,7 +697,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "On the Importance of Large Objects in CNN based Object Detection Algorithms",
@@ -722,7 +722,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Deep Metric Learning with Chance Constraints",
@@ -747,7 +747,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "TransFed: A Way to Epitomize Focal Modulation using Transformer-based Federated Learning",
@@ -772,7 +772,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Learning Better Keypoints for Multi-Object 6DoF Pose Estimation",
@@ -797,7 +797,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Object Aware Contrastive Prior for Interactive Image Segmentation",
@@ -822,7 +822,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Beyond Classification: Definition and Density-based Estimation of Calibration in Object Detection",
@@ -847,7 +847,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "FAKD: Feature Augmented Knowledge Distillation for Semantic Segmentation",
@@ -872,7 +872,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Efficient MAE Towards Large-Scale Vision Transformers",
@@ -897,7 +897,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "MS-EVS: Multispectral Event-based Vision for Deep Learning based Face Detection",
@@ -922,7 +922,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Interactive Network Perturbation Between Teacher and Students for Semi-Supervised Semantic Segmentation",
@@ -947,7 +947,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Can Vision-Language Models be a Good Guesser? Exploring VLMs for Times and Location Reasoning",
@@ -972,7 +972,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "USDN: A Unified Sample-Wise Dynamic Network with Mixed-Precision and Early-Exit",
@@ -997,7 +997,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Beyond Fusion: Modality Hallucination-based Multispectral Fusion for Pedestrian Detection",
@@ -1022,7 +1022,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction",
@@ -1047,7 +1047,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Learning to Recognize Occluded and Small Objects with Partial Inputs",
@@ -1072,7 +1072,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Temporally-Consistent Video Semantic Segmentation with Bidirectional Occlusion-Guided Feature Propagation",
@@ -1097,7 +1097,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Towards Domain-Aware Knowledge Distillation for Continual Model Generalization",
@@ -1122,7 +1122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Let's Observe them Over Time: An Improved Pedestrian Attribute Recognition Approach",
@@ -1147,7 +1147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Harnessing the Power of Multi-Lingual Datasets for Pre-Training: Towards Enhancing Text Spotting Performance",
@@ -1172,7 +1172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Patch-based Selection and Refinement for Early Object Detection",
@@ -1197,7 +1197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Boosting Weakly Supervised Object Detection using Fusion and Priors from Hallucinated Depth",
@@ -1222,7 +1222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "C<sup>2</sup>AIR: Consolidated Compact Aerial Image Haze Removal",
@@ -1247,7 +1247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Favoring One Among Equals - Not a Good Idea: Many-to-One Matching for Robust Transformer based Pedestrian Detection",
@@ -1272,7 +1272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Improving Vision-and-Language Reasoning via Spatial Relations Modeling",
@@ -1297,7 +1297,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "LP-OVOD: Open-Vocabulary Object Detection by Linear Probing",
@@ -1322,7 +1322,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Continuous Adaptation for Interactive Segmentation using Teacher-Student Architecture",
@@ -1347,7 +1347,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Interpretable Object Recognition by Semantic Prototype Analysis",
@@ -1372,7 +1372,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "RecycleNet: Latent Feature Recycling Leads to Iterative Decision Refinement",
@@ -1397,7 +1397,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Learning to Detour: Shortcut Mitigating Augmentation for Weakly Supervised Semantic Segmentation",
@@ -1422,7 +1422,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Elusive Images: Beyond Coarse Analysis for Fine-Grained Recognition",
@@ -1447,7 +1447,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Understanding Dark Scenes by Contrasting Multi-Modal Observations",
@@ -1472,7 +1472,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "MaskConver: Revisiting Pure Convolution Model for Panoptic Segmentation",
@@ -1497,7 +1497,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation",
@@ -1522,7 +1522,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Universal Semi-Supervised Model Adaptation via Collaborative Consistency Training",
@@ -1547,7 +1547,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "STEP - Towards Structured Scene-Text Spotting",
@@ -1572,7 +1572,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Efficient Feature Distillation for Zero-Shot Annotation Object Detection",
@@ -1597,7 +1597,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Hierarchical Text Spotter for Joint Text Spotting and Layout Analysis",
@@ -1622,7 +1622,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "iBARLE: imBalance-Aware Room Layout Estimation",
@@ -1647,7 +1647,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding",
@@ -1672,7 +1672,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Implicit Neural Representation for Change Detection",
@@ -1697,7 +1697,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Label-Free Synthetic Pretraining of Object Detectors",
@@ -1722,7 +1722,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Improved Techniques for Quantizing Deep Networks with Adaptive Bit-Widths",
@@ -1747,7 +1747,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "What's Outside the Intersection? Fine-Grained Error Analysis for Semantic Segmentation Beyond IoU",
@@ -1772,7 +1772,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Pixel Matching Network for Cross-Domain Few-Shot Segmentation",
@@ -1797,7 +1797,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "EResFD: Rediscovery of the Effectiveness of Standard Convolution for Lightweight Face Detection",
@@ -1822,7 +1822,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Framework-Agnostic Semantically-Aware Global Reasoning for Segmentation",
@@ -1847,7 +1847,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "High-Fidelity Pseudo-Labels for Boosting Weakly-Supervised Segmentation",
@@ -1872,7 +1872,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Missing Modality Robustness in Semi-Supervised Multi-Modal Semantic Segmentation",
@@ -1897,7 +1897,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Unsupervised Graphic Layout Grouping with Transformers",
@@ -1922,7 +1922,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Contrastive Viewpoint-Aware Shape Learning for Long-Term Person Re-Identification",
@@ -1947,7 +1947,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "PolyMaX: General Dense Prediction with Mask Transformer",
@@ -1972,7 +1972,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "BPKD: Boundary Privileged Knowledge Distillation for Semantic Segmentation",
@@ -1997,7 +1997,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Label Shift Estimation for Class-Imbalance Problem: A Bayesian Approach",
@@ -2022,7 +2022,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Query-Guided Attention in Vision Transformers for Localizing Objects using a Single Sketch",
@@ -2047,7 +2047,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "PromptAD: Zero-Shot Anomaly Detection using Text Prompts",
@@ -2072,7 +2072,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Learning Quality Labels for Robust Image Classification",
@@ -2097,7 +2097,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Learning Transferable Representations for Image Anomaly Localization using Dense Pretraining",
@@ -2122,7 +2122,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "SBCFormer: Lightweight Network Capable of Full-Size ImageNet Classification at 1 FPS on Single Board Computers",
@@ -2147,7 +2147,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "High-Fidelity Zero-Shot Texture Anomaly Localization using Feature Correspondence Analysis",
@@ -2172,7 +2172,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Grafting Vision Transformers",
@@ -2197,7 +2197,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Rethinking Knowledge Distillation with Raw Features for Semantic Segmentation",
@@ -2222,7 +2222,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Efficient Expansion and Gradient based Task Inference for Replay Free Incremental Learning",
@@ -2247,7 +2247,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "CLRerNet: Improving Confidence of Lane Detection with LaneIoU",
@@ -2272,7 +2272,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Multi-Modal Gaze Following in Conversational Scenarios",
@@ -2297,7 +2297,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Enhancing Multi-View Pedestrian Detection through Generalized 3D Feature Pulling",
@@ -2322,7 +2322,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction",
@@ -2347,7 +2347,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "The Background also Matters: Background-Aware Motion-Guided Objects Discovery",
@@ -2372,7 +2372,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Semi-Supervised Scene Change Detection by Distillation from Feature-Metric Alignment",
@@ -2397,7 +2397,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "OmniVec: Learning Robust Representations with Cross Modal Sharing",
@@ -2422,7 +2422,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Cross-Attention between Satellite and Ground Views for Enhanced Fine-Grained Robot Geo-Localization",
@@ -2447,7 +2447,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Data Augmentation for Object Detection via Controllable Diffusion Models",
@@ -2472,7 +2472,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Physical-Space Multi-Body Mesh Detection Achieved by Local Alignment and Global Dense Learning",
@@ -2497,7 +2497,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Multi-Source Domain Adaptation for Object Detection with Prototype-based Mean Teacher",
@@ -2522,7 +2522,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation",
@@ -2547,7 +2547,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings",
@@ -2572,7 +2572,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "ProcSim: Proxy-based Confidence for Robust Similarity Learning",
@@ -2597,7 +2597,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Refine and Redistribute: Multi-Domain Fusion and Dynamic Label Assignment for Unbiased Scene Graph Generation",
@@ -2622,7 +2622,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Joint Depth Prediction and Semantic Segmentation with Multi-View SAM",
@@ -2647,7 +2647,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Self-Supervised Relation Alignment for Scene Graph Generation",
@@ -2672,7 +2672,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Semantic Transfer from Head to Tail: Enlarging Tail Margin for Long-Tailed Visual Recognition",
@@ -2697,7 +2697,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "PatchRefineNet: Improving Binary Segmentation by Incorporating Signals from Optimal Patch-Wise Binarization",
@@ -2722,7 +2722,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Adaptive Deep Neural Network Inference Optimization with EENet",
@@ -2747,7 +2747,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Token Fusion: Bridging the Gap between Token Pruning and Token Merging",
@@ -2772,7 +2772,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Pruning from Scratch via Shared Pruning Module and Nuclear Norm-based Regularization",
@@ -2797,7 +2797,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free",
@@ -2822,7 +2822,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Layer-Wise Auto-Weighting for Non-Stationary Test-Time Adaptation",
@@ -2847,7 +2847,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Uncertainty Estimation in Instance Segmentation with Star-Convex Shapes",
@@ -2872,7 +2872,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "CamoFocus: Enhancing Camouflage Object Detection with Split-Feature Focal Modulation and Context Refinement",
@@ -2897,7 +2897,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "HalluciDet: Hallucinating RGB Modality for Person Detection through Privileged Information",
@@ -2922,7 +2922,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "Spectroformer: Multi-Domain Query Cascaded Transformer Network for Underwater Image Enhancement",
@@ -2947,7 +2947,7 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   },
   {
     "title": "FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval",
@@ -2972,6 +2972,6 @@
     "dropbox": null,
     "onedrive": null,
     "loom": null,
-    "section": "Image Recognition & Understanding"
+    "section": "Image Recognition and Understanding"
   }
 ]
