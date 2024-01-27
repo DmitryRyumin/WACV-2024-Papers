@@ -23,7 +23,7 @@
     </a>
 </div>
 
-## Image Recognition & Understanding
+## Image Recognition and Understanding
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-119-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-74-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-63-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-6-FF0000)
 

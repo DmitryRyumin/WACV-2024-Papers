@@ -270,7 +270,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md">Image/Video Recognition & Understanding; Low-Level & Physics-based Vision</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md">Image/Video Recognition and Understanding; Low-Level and Physics-based Vision</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
@@ -304,7 +304,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md">3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md">3D; Adversarial and Defense; Explainable, Fair, Privacy, and Ethical; Vision + X</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
@@ -341,7 +341,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md">Image Recognition & Understanding</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md">Image Recognition and Understanding</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/119-42BA16" alt="Papers"></a>
@@ -409,7 +409,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md">Adversarial Learning, Adversarial Attack & Defense Methods</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md">Adversarial Learning, Adversarial Attack and Defense Methods</a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/22-42BA16" alt="Papers"></a>
@@ -545,7 +545,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md">Video Recognition & Understanding</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md">Video Recognition and Understanding</a>
             </td>
             <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
         </tr>

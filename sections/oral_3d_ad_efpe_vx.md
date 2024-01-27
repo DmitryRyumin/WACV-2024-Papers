@@ -23,7 +23,7 @@
     </a>
 </div>
 
-## 3D; Adversarial & Defense; Explainable, Fair, Privacy, & Ethical; Vision + X
+## 3D; Adversarial and Defense; Explainable, Fair, Privacy, and Ethical; Vision + X
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-9-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-6-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-3-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-1-FF0000)
 
