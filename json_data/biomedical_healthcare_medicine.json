@@ -10,6 +10,7 @@
     "modelscope": null,
     "gitee": null,
     "zenodo": null,
+    "kaggle": null,
     "demo_page": null,
     "paper_thecvf": "/papers/Wang_GazeGNN_A_Gaze-Guided_Graph_Neural_Network_for_Chest_X-Ray_Classification_WACV_2024_paper.pdf",
     "paper_arxiv_id": "2305.18221",
