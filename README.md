@@ -87,9 +87,9 @@
   </tr>
 </table>
 
-<!-- 622/846 -->
+<!-- 683/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/74?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/81?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -547,12 +547,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md">Video Recognition and Understanding</a>
             </td>
-            <td colspan="4" rowspan="5" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/61-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/35-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/33-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/46-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/agriculture.md">Agriculture</a>
             </td>
+            <td colspan="4" rowspan="4" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
