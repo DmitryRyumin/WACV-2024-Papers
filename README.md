@@ -506,7 +506,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/43-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
