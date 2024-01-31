@@ -455,7 +455,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
