@@ -489,7 +489,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/15-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
