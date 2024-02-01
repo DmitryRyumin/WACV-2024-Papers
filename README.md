@@ -605,7 +605,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/10-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
