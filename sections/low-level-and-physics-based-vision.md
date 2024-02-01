@@ -25,7 +25,7 @@
 
 ## Low-Level and Physics-based Vision
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-21-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-11-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-11-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-3-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-21-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-11-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-11-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-18-FF0000)
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
