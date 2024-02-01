@@ -263,7 +263,7 @@
     "title": "Few-Shot Event Classification in Images using Knowledge Graphs for Prompting",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024",
     "title_page": "/html/Tahmasebzadeh_Few-Shot_Event_Classification_in_Images_Using_Knowledge_Graphs_for_Prompting_WACV_2024_paper.html",
-    "repo": null,
+    "repo": "TIBHannover/PromptImageEvent",
     "web_page": null,
     "github_page": null,
     "colab": null,
