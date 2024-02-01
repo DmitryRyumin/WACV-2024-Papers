@@ -353,7 +353,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/63-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/90-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
