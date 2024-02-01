@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/autonomous_driving.md">
+    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/left.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/">

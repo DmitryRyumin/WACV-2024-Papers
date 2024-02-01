@@ -613,7 +613,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/autonomous_driving.md">Autonomous Driving</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md">Navigation and Autonomous Driving</a>
             </td>
             <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
