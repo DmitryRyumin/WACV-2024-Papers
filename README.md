@@ -87,9 +87,9 @@
   </tr>
 </table>
 
-<!-- 731/846 -->
+<!-- 756/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/86?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/89?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
