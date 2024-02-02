@@ -87,9 +87,9 @@
   </tr>
 </table>
 
-<!-- 756/846 -->
+<!-- 776/846 -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/89?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/92?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
@@ -633,16 +633,16 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md">Biomedical / Healthcare / Medicine</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/26-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/46-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/18-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/31-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/17-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/28-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/16-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
