@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-<!-- 787/846 -->
+<!-- 788/846 -->
 <div style="float:left;">
   <img src="https://geps.dev/progress/93?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -666,12 +666,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md">Education</a>
             </td>
-            <td colspan="4" rowspan="11" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/1-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/embedded_sensing_real-time_techniques.md">Embedded Sensing / Real-Time Techniques</a>
             </td>
+            <td colspan="4" rowspan="10" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
