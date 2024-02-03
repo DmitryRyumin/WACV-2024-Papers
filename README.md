@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-<!-- 793/846 -->
+<!-- 795/846 -->
 <div style="float:left;">
   <img src="https://geps.dev/progress/94?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -717,12 +717,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md">Food Science and Nutrition</a>
             </td>
-            <td colspan="4" rowspan="8" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/psychology_and_cognitive_science.md">Psychology and Cognitive Science</a>
             </td>
+            <td colspan="4" rowspan="7" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
