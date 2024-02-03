@@ -89,7 +89,7 @@
 
 <!-- 846/846 + 4 tutorials -->
 <div style="float:left;">
-  <img src="https://geps.dev/progress/98?successColor=006600" alt="" />
+  <img src="https://geps.dev/progress/100?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
 </div>
 
