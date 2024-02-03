@@ -120,6 +120,10 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 <p>
 
+![Total Papers](https://img.shields.io/badge/Total%20Papers-846-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-404%20(47.75%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000)
+
+> :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
+
 ---
 
 Explore the [*WACV 2024 online conference list*](https://openaccess.thecvf.com/WACV2024?day=all) with a comprehensive collection of accepted papers. Access additional resources such as PDFs, Supplementary Material, arXiv links and BibTeX citations for in-depth exploration of the research presented.
