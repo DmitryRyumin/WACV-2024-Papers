@@ -101,7 +101,7 @@
   <tr>
     <td><strong>Workshops</strong></td>
     <td>
-      <!-- 0/? -->
+      <!-- 0/10 27 14 15 10 1 2 1 1 4 7 1 8 2 9 3 5 = 120 -->
       <div style="float:left;">
         <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
