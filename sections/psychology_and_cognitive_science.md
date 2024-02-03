@@ -18,7 +18,7 @@
     <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
-    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/remote_sensing.md">
+    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
     </a>
 </div>

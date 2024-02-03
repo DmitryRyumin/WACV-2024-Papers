@@ -749,7 +749,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/remote_sensing.md">Remote Sensing</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md">Photogrammetry and Remote Sensing</a>
             </td>
             <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
         </tr>
