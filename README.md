@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-<!-- 839/846 -->
+<!-- 846/846 + 4 tutorials -->
 <div style="float:left;">
   <img src="https://geps.dev/progress/98?successColor=006600" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
@@ -836,7 +836,18 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md">Virtual / Augmented Reality</a>
             </td>
-            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/tutorials.md"><i>Tutorials</i></a></td>
