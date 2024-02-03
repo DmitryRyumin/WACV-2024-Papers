@@ -23,8 +23,19 @@
     </a>
 </div>
 
-## Social Good
+## Computer Vision for Social Good
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Tracking Skiers from the Top to the Bottom |  |  |  |
+| Salient Object Detection for Images Taken by People with Vision Impairments |  |  |  |
+| Rethinking Multimodal Content Moderation from an Asymmetric Angle with Mixed-Modality |  |  |  |
+| Privacy-Enhancing Person Re-Identification Framework - A Dual-Stage Approach |  |  |  |
+| Toward Planet-Wide Traffic Camera Calibration |  |  |  |
+| VideoFACT: Detecting Video Forgeries using Attention, Scene Context, and Forensic Traces |  |  |  |
+| OE-CTST: Outlier-Embedded Cross Temporal Scale Transformer for Weakly-Supervised Video Anomaly Detection |  |  |  |
+| NOMAD: A Natural, Occluded, Multi-Scale Aerial Dataset, for Emergency Response Scenarios |  |  |  |
+| PreciseDebias: An Automatic Prompt Engineering Approach for Generative AI to Mitigate Image Demographic Biases |  |  |  |
+| P-Age: Pexels Dataset for Robust Spatio-Temporal Apparent Age Classification |  |  |  |

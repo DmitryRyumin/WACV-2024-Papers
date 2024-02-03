@@ -800,7 +800,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/social_good.md">Social Good</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/cv_for_social_good.md">Computer Vision for Social Good</a>
             </td>
             <td colspan="4" rowspan="3" align="center"><i>Will soon be added</i></td>
         </tr>
