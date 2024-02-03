@@ -819,12 +819,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md">Structural Engineering / Civil Engineering</a>
             </td>
-            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md">Virtual / Augmented Reality</a>
             </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/tutorials.md"><i>Tutorials</i></a></td>
