@@ -538,7 +538,6 @@ def process_markdown_file(
     error_count,
     file_updates,
 ):
-    base_filename = markdown_file.stem
     common_ancestor = Path(
         *Path(markdown_file)
         .resolve()
