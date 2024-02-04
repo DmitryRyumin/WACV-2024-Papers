@@ -549,8 +549,6 @@ def process_markdown_file(
     )
     json_filename = output_directory.joinpath(relative_path.with_suffix(".json"))
 
-    print(json_filename)
-
     try:
         with open(markdown_file, "r", encoding="utf-8") as file:
             markdown_content = file.read()
@@ -593,9 +591,7 @@ def process_markdown_file(
             )
 
             json_content = json.dumps(papers, ensure_ascii=False, indent=2)
-            file_updates.append(
-                FileUpdate(path=f"json_data/{base_filename}.json", content=json_content)
-            )
+            file_updates.append(FileUpdate(path=json_filename, content=json_content))
 
             success_count[0] += 1
     except Exception as e:
