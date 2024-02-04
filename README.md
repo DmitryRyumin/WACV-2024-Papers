@@ -274,87 +274,87 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_ml_afa.md">Machine Learning: Architectures, Formulations, Algorithms</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md">Machine Learning: Architectures, Formulations, Algorithms</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_ml_afa.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_ml_afa.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_ml_afa.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_ml_afa.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md">Image/Video Recognition and Understanding; Low-Level and Physics-based Vision</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_gm_b_ec_v.md">Generative Models; Biometrics; Edge Computing; Visualization</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_iv_ru_ll_pv.md">Image/Video Recognition and Understanding; Low-Level and Physics-based Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md">3D; Adversarial and Defense; Explainable, Fair, Privacy, and Ethical; Vision + X</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/8-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_iv_ru_ll_pv.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_p_a_m_e_r.md">People; Automotive; Medical; Environmental; Robotics</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_gm_b_ec_v.md">Generative Models; Biometrics; Edge Computing; Visualization</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/8-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_gm_b_ec_v.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_3d_ad_efpe_vx.md">3D; Adversarial and Defense; Explainable, Fair, Privacy, and Ethical; Vision + X</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/9-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_3d_ad_efpe_vx.md"><img src="https://img.shields.io/badge/8-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_p_a_m_e_r.md">People; Automotive; Medical; Environmental; Robotics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/12-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_p_a_m_e_r.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
@@ -362,616 +362,616 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md">Image Recognition and Understanding</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/image_recognition_and_understanding.md">Image Recognition and Understanding</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/119-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/119-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/74-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/74-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/63-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/63-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/90-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level-and-physics-based-vision.md">Low-Level and Physics-based Vision</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/21-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/11-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/18-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/image_recognition_and_understanding.md"><img src="https://img.shields.io/badge/90-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md">Machine Learning: Architectures, Formulations, Algorithms</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/low-level-and-physics-based-vision.md">Low-Level and Physics-based Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md"><img src="https://img.shields.io/badge/116-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/21-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md"><img src="https://img.shields.io/badge/72-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/11-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md"><img src="https://img.shields.io/badge/60-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/11-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/ml_afa.md"><img src="https://img.shields.io/badge/108-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/3d_cv.md">3D Computer Vision</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/3d_cv.md"><img src="https://img.shields.io/badge/73-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/3d_cv.md"><img src="https://img.shields.io/badge/46-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/3d_cv.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/3d_cv.md"><img src="https://img.shields.io/badge/68-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/low-level-and-physics-based-vision.md"><img src="https://img.shields.io/badge/18-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md">Adversarial Learning, Adversarial Attack and Defense Methods</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/ml_afa.md">Machine Learning: Architectures, Formulations, Algorithms</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/22-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/ml_afa.md"><img src="https://img.shields.io/badge/116-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/15-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/ml_afa.md"><img src="https://img.shields.io/badge/72-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/10-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/ml_afa.md"><img src="https://img.shields.io/badge/60-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/20-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md">Biometrics, Face, Gesture, Body Pose</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/24-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/15-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/32-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/ml_afa.md"><img src="https://img.shields.io/badge/108-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md">Computational Photography, Image and Video Synthesis</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/3d_cv.md">3D Computer Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/32-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/3d_cv.md"><img src="https://img.shields.io/badge/73-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/20-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/3d_cv.md"><img src="https://img.shields.io/badge/46-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/3d_cv.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md">Datasets and Evaluation</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/28-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/20-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/3d_cv.md"><img src="https://img.shields.io/badge/68-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md">Explainable, Fair, Accountable, Privacy-Preserving, Ethical Computer Vision</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/adversarial_learning_adversarial_attack_defense_methods.md">Adversarial Learning, Adversarial Attack and Defense Methods</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/26-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/22-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/21-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/15-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/15-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/10-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md">Generative Models for Image, Video, 3D, etc</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/43-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/adversarial_learning_adversarial_attack_defense_methods.md"><img src="https://img.shields.io/badge/20-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md">Vision + Language and/or Other Modalities</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biometrics_face_gesture_body_pose.md">Biometrics, Face, Gesture, Body Pose</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/36-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/23-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/24-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/19-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/15-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/29-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/visualization.md">Visualization</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/visualization.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/visualization.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/visualization.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/visualization.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biometrics_face_gesture_body_pose.md"><img src="https://img.shields.io/badge/32-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md">Video Recognition and Understanding</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/computational_photography_image_and_video_synthesis.md">Computational Photography, Image and Video Synthesis</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/61-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/32-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/35-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/20-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/33-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/46-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/agriculture.md">Agriculture</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/agriculture.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/agriculture.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/agriculture.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/agriculture.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/computational_photography_image_and_video_synthesis.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/animals_insects.md">Animals / Insects</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/datasets_and_evaluation.md">Datasets and Evaluation</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/animals_insects.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/28-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/animals_insects.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/20-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/animals_insects.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/16-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/animals_insects.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md">Arts / Games / Social Media</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/15-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/10-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/arts_games_social_media.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/datasets_and_evaluation.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md">Navigation and Autonomous Driving</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/explainable_fair_accountable-privacy-preserving.md">Explainable, Fair, Accountable, Privacy-Preserving, Ethical Computer Vision</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/21-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/26-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/12-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/21-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/15-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/15-FF0000" alt="Videos"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md">Biomedical / Healthcare / Medicine</a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/46-42BA16" alt="Papers"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/31-b31b1b" alt="Preprints"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/28-1D7FBF" alt="Open Code"></a>
-            </td>
-            <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/explainable_fair_accountable-privacy-preserving.md"><img src="https://img.shields.io/badge/22-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/commercial_retail.md">Commercial / Retail</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/generative_models_for_image_video_3d.md">Generative Models for Image, Video, 3D, etc</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/commercial_retail.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/54-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/commercial_retail.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/36-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/commercial_retail.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/25-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/commercial_retail.md"><img src="https://img.shields.io/badge/8-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/generative_models_for_image_video_3d.md"><img src="https://img.shields.io/badge/43-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md">Education</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/vision_language_and_other_modalities.md">Vision + Language and/or Other Modalities</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/1-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/34-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/23-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/19-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/education.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/vision_language_and_other_modalities.md"><img src="https://img.shields.io/badge/29-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/embedded_sensing_real-time_techniques.md">Embedded Sensing / Real-Time Techniques</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/visualization.md">Visualization</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/visualization.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/visualization.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/visualization.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/visualization.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/environmental_monitoring_climate_change_ecology.md">Environmental Monitoring / Climate Change / Ecology</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/video_recognition_and_understanding.md">Video Recognition and Understanding</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/1-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/61-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/35-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/33-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/video_recognition_and_understanding.md"><img src="https://img.shields.io/badge/46-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md">Food Science and Nutrition</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/agriculture.md">Agriculture</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/agriculture.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/agriculture.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/agriculture.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/agriculture.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/psychology_and_cognitive_science.md">Psychology and Cognitive Science</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/animals_insects.md">Animals / Insects</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/3-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/animals_insects.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/animals_insects.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/animals_insects.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/animals_insects.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md">Photogrammetry and Remote Sensing</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/arts_games_social_media.md">Arts / Games / Social Media</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/arts_games_social_media.md"><img src="https://img.shields.io/badge/15-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/arts_games_social_media.md"><img src="https://img.shields.io/badge/10-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/arts_games_social_media.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/arts_games_social_media.md"><img src="https://img.shields.io/badge/12-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/robotics.md">Robotics</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/navigation_and_autonomous_driving.md">Navigation and Autonomous Driving</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/21-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/12-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/9-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/robotics.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/navigation_and_autonomous_driving.md"><img src="https://img.shields.io/badge/15-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/smartphones_end_user_devices.md">Smartphones / End User Devices</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biomedical_healthcare_medicine.md">Biomedical / Healthcare / Medicine</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/46-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/31-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/28-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/biomedical_healthcare_medicine.md"><img src="https://img.shields.io/badge/30-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/cv_for_social_good.md">Computer Vision for Social Good</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/commercial_retail.md">Commercial / Retail</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/cv_for_social_good.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/commercial_retail.md"><img src="https://img.shields.io/badge/11-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/cv_for_social_good.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/commercial_retail.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/cv_for_social_good.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/commercial_retail.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/cv_for_social_good.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/commercial_retail.md"><img src="https://img.shields.io/badge/8-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md">Structural Engineering / Civil Engineering</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/education.md">Education</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/education.md"><img src="https://img.shields.io/badge/1-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/education.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/education.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/education.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md">Virtual / Augmented Reality</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/embedded_sensing_real-time_techniques.md">Embedded Sensing / Real-Time Techniques</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/embedded_sensing_real-time_techniques.md"><img src="https://img.shields.io/badge/4-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
-            <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/tutorials.md"><i>Tutorials</i></a></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/environmental_monitoring_climate_change_ecology.md">Environmental Monitoring / Climate Change / Ecology</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/1-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/0-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/environmental_monitoring_climate_change_ecology.md"><img src="https://img.shields.io/badge/1-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/food_science_and_nutrition.md">Food Science and Nutrition</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/food_science_and_nutrition.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/psychology_and_cognitive_science.md">Psychology and Cognitive Science</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/3-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/3-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/psychology_and_cognitive_science.md"><img src="https://img.shields.io/badge/3-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/photogrammetry_and_remote_sensing.md">Photogrammetry and Remote Sensing</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/14-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/photogrammetry_and_remote_sensing.md"><img src="https://img.shields.io/badge/10-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/robotics.md">Robotics</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/robotics.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/robotics.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/robotics.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/robotics.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/smartphones_end_user_devices.md">Smartphones / End User Devices</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/6-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/smartphones_end_user_devices.md"><img src="https://img.shields.io/badge/5-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/cv_for_social_good.md">Computer Vision for Social Good</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/cv_for_social_good.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/cv_for_social_good.md"><img src="https://img.shields.io/badge/7-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/cv_for_social_good.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/cv_for_social_good.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md">Structural Engineering / Civil Engineering</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/virtual_augmented_reality.md">Virtual / Augmented Reality</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/5-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/virtual_augmented_reality.md"><img src="https://img.shields.io/badge/7-FF0000" alt="Videos"></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/tutorials.md"><i>Tutorials</i></a></td>
         </tr>
         <tr>
             <td colspan="5" align="center"><i>Workshops</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md">Computer Vision with Small Data: A Focus on Infants and Endangered Animals</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_sd.md">Computer Vision with Small Data: A Focus on Infants and Endangered Animals</a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_sd.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_sd.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_sd.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_sd.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_rw_s.md">Real-World Surveillance: Applications and Challenges</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_rw_s.md">Real-World Surveillance: Applications and Challenges</a>
             </td>
             <td colspan="4" rowspan="16" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_iva_q_cv_gai.md">Image / Video / Audio Quality in Computer Vision and Generative AI</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_iva_q_cv_gai.md">Image / Video / Audio Quality in Computer Vision and Generative AI</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_pretraining.md">Pretraining</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_pretraining.md">Pretraining</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_smart_computing_and_internet_of_things_design.md">Smart Computing and Internet of Things Design</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_smart_computing_and_internet_of_things_design.md">Smart Computing and Internet of Things Design</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_vision-based_structural_inspections_in_civil_engineering.md">Vision-based Structural Inspections in Civil Engineering</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_structural_inspections_in_civil_engineering.md">Vision-based Structural Inspections in Civil Engineering</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_physical_retail_ai.md">Physical Retail AI</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_physical_retail_ai.md">Physical Retail AI</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_complex-valued_dl.md">Complex-Valued Deep Learning and SARFish Challenge</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_complex-valued_dl.md">Complex-Valued Deep Learning and SARFish Challenge</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_3d_geometry_generation_for_scientific_computing.md">3D Geometry Generation for Scientific Computing</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_3d_geometry_generation_for_scientific_computing.md">3D Geometry Generation for Scientific Computing</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_for_earth_observation_apps.md">Computer Vision for Earth Observation Applications</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_for_earth_observation_apps.md">Computer Vision for Earth Observation Applications</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_maritime_cv.md">Maritime Computer Vision</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_maritime_cv.md">Maritime Computer Vision</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_face_recognition_challenge_in_the_era_of_synthetic_data.md">Face Recognition Challenge in the Era of Synthetic Data</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_face_recognition_challenge_in_the_era_of_synthetic_data.md">Face Recognition Challenge in the Era of Synthetic Data</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_ll_and_v_models_for_autonomous_driving.md">Large Language and Vision Models for Autonomous Driving</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_ll_and_v_models_for_autonomous_driving.md">Large Language and Vision Models for Autonomous Driving</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_automated_spatial_and_temporal_anomaly_detection.md">Automated Spatial and Temporal Anomaly Detection</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_automated_spatial_and_temporal_anomaly_detection.md">Automated Spatial and Temporal Anomaly Detection</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_manipulation_adversarial_and_presentation_attacks_in_biometrics.md">Manipulation, Adversarial and Presentation Attacks in Biometrics</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_manipulation_adversarial_and_presentation_attacks_in_biometrics.md">Manipulation, Adversarial and Presentation Attacks in Biometrics</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_vision-based_understanding_for_low-resource_languages.md">Vision-based Understanding for Low-Resource Languages</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_understanding_for_low-resource_languages.md">Vision-based Understanding for Low-Resource Languages</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_demographic_variations_in_performance_of_biometric_algorithms.md">Demographic Variations in Performance of Biometric Algorithms</a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_demographic_variations_in_performance_of_biometric_algorithms.md">Demographic Variations in Performance of Biometric Algorithms</a>
             </td>
         </tr>
     </tbody>
