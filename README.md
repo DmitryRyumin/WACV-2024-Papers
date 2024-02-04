@@ -970,7 +970,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ## Key Terms
 
 <p align="center">
-    <img width="500" src="https://raw.githubusercontent.com/DmitryRyumin/WACV-2024-Papers/main/images/Keywords.png" alt="Key Terms">
+    <img width="500" src="https://cdn.jsdelivr.net/gh/DmitryRyumin/WACV-2024-Papers@main/images/Keywords.png" alt="Key Terms">
 <p>
 
 ---
