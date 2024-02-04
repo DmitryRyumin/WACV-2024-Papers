@@ -590,7 +590,12 @@ def process_markdown_file(
             )
 
             json_content = json.dumps(papers, ensure_ascii=False, indent=2)
-            file_updates.append(FileUpdate(path=json_filename, content=json_content))
+            file_updates.append(
+                FileUpdate(
+                    path=f"json_data/{relative_path.with_suffix('.json')}",
+                    content=json_content,
+                )
+            )
 
             success_count[0] += 1
     except Exception as e:
