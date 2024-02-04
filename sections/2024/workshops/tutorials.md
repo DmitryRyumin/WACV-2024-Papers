@@ -1,4 +1,4 @@
-# WACV-2024-Papers
+# WACV-2024-Tutorials
 
 <table>
     <tr>
