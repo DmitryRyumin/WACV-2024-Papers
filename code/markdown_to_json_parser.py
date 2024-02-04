@@ -549,6 +549,8 @@ def process_markdown_file(
     )
     json_filename = output_directory.joinpath(relative_path.with_suffix(".json"))
 
+    print(json_filename)
+
     try:
         with open(markdown_file, "r", encoding="utf-8") as file:
             markdown_content = file.read()
