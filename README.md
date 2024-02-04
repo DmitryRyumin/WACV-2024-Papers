@@ -101,9 +101,9 @@
   <tr>
     <td><strong>Workshops</strong></td>
     <td>
-      <!-- 0/120 -->
+      <!-- 10/120 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/0?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/8?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -880,12 +880,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md">Computer Vision with Small Data: A Focus on Infants and Endangered Animals</a>
             </td>
-            <td colspan="4" rowspan="17" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/10-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/6-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_cv_sd.md"><img src="https://img.shields.io/badge/6-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/w_rw_s.md">Real-World Surveillance: Applications and Challenges</a>
             </td>
+            <td colspan="4" rowspan="16" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
