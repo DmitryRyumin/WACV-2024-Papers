@@ -21,10 +21,7 @@ if [ -d "$TARGET_DIR" ]; then
     year="2024"
 
     # Remove "sections" and the year from the relative path
-    target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
-
-    # Remove "sections" and the year from the relative path
-    target_file="$TARGET_DIR/${relative_path/sections\//}"
+    target_file="$TARGET_DIR/${relative_path/sections/$year\//}"
 
     echo -e "${target_file} ${year}"
 
