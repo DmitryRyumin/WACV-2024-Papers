@@ -23,6 +23,9 @@ if [ -d "$TARGET_DIR" ]; then
     # Remove "sections" and the year from the relative path
     target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
 
+    # Remove "sections" and the year from the relative path
+    target_file="$TARGET_DIR/${relative_path/sections\//}"
+
     echo -e "${target_file} ${year}"
 
     if [ -e "$target_file" ]; then
