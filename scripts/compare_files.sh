@@ -18,6 +18,8 @@ if [ -d "$TARGET_DIR" ]; then
     # Extract the year and the rest of the path
     year=$(echo "$relative_path" | awk -F'/' '{print $2}')
 
+    echo -e "${year}"
+
     # Remove "sections" and the year from the relative path
     target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
 
