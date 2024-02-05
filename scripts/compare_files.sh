@@ -18,13 +18,10 @@ if [ -d "$TARGET_DIR" ]; then
     # Extract the year and the rest of the path
     year=$(echo "$relative_path" | awk -F'/' '{print $1}')
 
-    echo -e "${year}"
-
     # Remove "sections" and the year from the relative path
     target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
 
-    # Remove "sections" and the year from the TARGET_DIR
-    target_file="${target_file//sections\/$year\//}"
+    echo -e "${target_file} ${year}"
 
     if [ -e "$target_file" ]; then
       # Check if files differ
