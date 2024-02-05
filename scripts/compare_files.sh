@@ -17,12 +17,10 @@ if [ -d "$TARGET_DIR" ]; then
     target_file="$TARGET_DIR/${relative_path//sections\//}"
 
     # Extract the year from the path
-    year=$(echo "$relative_path" | awk -F'/' '{print $1}')
+    year=$(echo "$relative_path" | awk -F'/' '{print $2}')
 
-    # Add the year to the beginning of the target path if it's not already there
-    if [[ "$target_file" != *"$year"* ]]; then
-      target_file="$TARGET_DIR/$year/$target_file"
-    fi
+    # Remove "sections" and the year from the relative path
+    target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
 
     if [ -e "$target_file" ]; then
       # Check if files differ
