@@ -14,7 +14,7 @@ files_to_update=()
 if [ -d "$TARGET_DIR" ]; then
   find "$SOURCE_DIR" -type f -name '*.json' -print0 | while IFS= read -r -d '' file; do
     relative_path="${file#$SOURCE_DIR/}"
-    target_file="$TARGET_DIR/$relative_path"
+    target_file="$TARGET_DIR/${relative_path//sections\//2024\/WACV\/}"
 
     if [ -e "$target_file" ]; then
       # Check if files differ
