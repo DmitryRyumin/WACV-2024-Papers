@@ -16,7 +16,7 @@ if [ -d "$TARGET_DIR" ]; then
     relative_path="${file#$SOURCE_DIR/}"
 
     # Extract the year and the rest of the path
-    year=$(echo "$relative_path" | awk -F'/' '{print $2}')
+    year=$(echo "$relative_path" | awk -F'/' '{print $1}')
 
     echo -e "${year}"
 
