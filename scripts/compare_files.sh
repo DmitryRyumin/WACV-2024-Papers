@@ -20,9 +20,9 @@ if [ -d "$TARGET_DIR" ]; then
 
     # Remove "sections" and the year from the relative path
     target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
-    
-    # Remove "sections" from the TARGET_DIR
-    target_file="${target_file//sections\//}"
+
+    # Remove "sections" and the year from the TARGET_DIR
+    target_file="${target_file//sections\/$year\//}"
 
     if [ -e "$target_file" ]; then
       # Check if files differ
