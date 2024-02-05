@@ -14,13 +14,15 @@ files_to_update=()
 if [ -d "$TARGET_DIR" ]; then
   find "$SOURCE_DIR" -type f -name '*.json' -print0 | while IFS= read -r -d '' file; do
     relative_path="${file#$SOURCE_DIR/}"
-    target_file="$TARGET_DIR/${relative_path//sections\//}"
 
-    # Extract the year from the path
+    # Extract the year and the rest of the path
     year=$(echo "$relative_path" | awk -F'/' '{print $2}')
 
     # Remove "sections" and the year from the relative path
     target_file="$TARGET_DIR/${relative_path/sections\/$year\//}"
+    
+    # Remove "sections" from the TARGET_DIR
+    target_file="${target_file//sections\//}"
 
     if [ -e "$target_file" ]; then
       # Check if files differ
