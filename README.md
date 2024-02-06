@@ -101,9 +101,9 @@
   <tr>
     <td><strong>Workshops</strong></td>
     <td>
-      <!-- 85/120 -->
+      <!-- 92/120 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/71?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/77?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1050,12 +1050,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_maritime_cv.md">Maritime Computer Vision</a>
             </td>
-            <td colspan="4" rowspan="7" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_maritime_cv.md"><img src="https://img.shields.io/badge/7-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_maritime_cv.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_maritime_cv.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_maritime_cv.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_face_recognition_challenge_in_the_era_of_synthetic_data.md">Face Recognition Challenge in the Era of Synthetic Data</a>
             </td>
+            <td colspan="4" rowspan="6" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
