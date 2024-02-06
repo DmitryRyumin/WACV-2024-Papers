@@ -27,4 +27,7 @@
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| [K-NNN: Nearest Neighbors of Neighbors for Anomaly Detection](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/html/Nizan_K-NNN_Nearest_Neighbors_of_Neighbors_for_Anomaly_Detection_WACVW_2024_paper.html) | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/papers/Nizan_K-NNN_Nearest_Neighbors_of_Neighbors_for_Anomaly_Detection_WACVW_2024_paper.pdf) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2305.17695-b31b1b.svg)](http://arxiv.org/abs/2305.17695) | :heavy_minus_sign: |
+| [An Exploratory Study on Human-Centric Video Anomaly Detection through Variational Autoencoders and Trajectory Prediction](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/html/Noghre_An_Exploratory_Study_on_Human-Centric_Video_Anomaly_Detection_Through_Variational_WACVW_2024_paper.html) | [![GitHub](https://img.shields.io/github/stars/TeCSAR-UNCC/TSGAD?style=flat)](https://github.com/TeCSAR-UNCC/TSGAD) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024W/ASTAD/papers/Noghre_An_Exploratory_Study_on_Human-Centric_Video_Anomaly_Detection_Through_Variational_WACVW_2024_paper.pdf) | :heavy_minus_sign: |
