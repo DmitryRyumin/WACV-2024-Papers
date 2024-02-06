@@ -120,7 +120,33 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-846-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-405%20(47.87%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000)
+<table>
+  <tr>
+    <td colspan="2" align="center"><strong>Conference Statistics</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td
+      <div style="float:left;">
+        <img src="https://img.shields.io/badge/Total%20Papers-846-42BA16" alt="Total Papers" />
+        <img src="https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b" alt="Preprint Papers" />
+        <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-405%20(47.87%25)%20*-1D7FBF" alt="Papers with Open Code" />
+        <img src="https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000" alt="Papers with Video" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Workshops</strong></td>
+    <td>
+      <div style="float:left;">
+        <img src="https://img.shields.io/badge/Total%20Papers-120-42BA16" alt="Total Papers" />
+        <img src="https://img.shields.io/badge/Preprint%20Papers-50%20(41.67%25)-b31b1b" alt="Preprint Papers" />
+        <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-41%20(34.17%25)%20*-1D7FBF" alt="Papers with Open Code" />
+        <img src="https://img.shields.io/badge/Papers%20with%20Video-7%20(5.83%25)%20*-FF0000" alt="Papers with Video" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
