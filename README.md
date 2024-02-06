@@ -120,8 +120,6 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 <p>
 
-
-
 <div style="float:left;">
     <strong>Main</strong>
     <br />
