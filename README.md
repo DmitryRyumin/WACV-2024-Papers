@@ -120,9 +120,7 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 <p>
 
-### Conference Statistics
-
-#### Main
+##### Main
 
 <div style="float:left;">
     <img src="https://img.shields.io/badge/Total%20Papers-846-42BA16" alt="Total Papers" />
@@ -131,7 +129,7 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     <img src="https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000" alt="Papers with Video" />
 </div>
 
-#### Workshops
+##### Workshops
 
 <div style="float:left;">
     <img src="https://img.shields.io/badge/Total%20Papers-120-42BA16" alt="Total Papers" />
