@@ -25,6 +25,8 @@
 
 ## Vision-based Structural Inspections in Civil Engineering
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-1-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| [Dacl-Challenge: Semantic Segmentation During Visual Bridge Inspections](https://openaccess.thecvf.com/content/WACV2024W/DACL/html/Flotzinger_Dacl-Challenge_Semantic_Segmentation_During_Visual_Bridge_Inspections_WACVW_2024_paper.html) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://dacl.ai/workshop.html) | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024W/DACL/papers/Flotzinger_Dacl-Challenge_Semantic_Segmentation_During_Visual_Bridge_Inspections_WACVW_2024_paper.pdf) | :heavy_minus_sign: |
