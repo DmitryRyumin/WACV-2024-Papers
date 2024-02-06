@@ -27,4 +27,15 @@
 
 ![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| MLP Kernel-based to Predict the Optimal Conditions of Transglutaminase on Protein Polymerization |  |  |  |
+| The Optimizated CIELAB Colour Model for All-Analog Photoelectronic High Speed Vision-Task Chip (ACCEL) by Creative Computing Approach |  |  |  |
+| Security and Privacy Concerns in Information Usability |  |  |  |
+| Consumer Evaluation using Machine Learning for the Predictive Analysis of Consumer Purchase Indicators |  |  |  |
+| Towards On-Device Learning on the Edge: Ways to Select Neurons to Update Under a Budget Constraint |  |  |  |
+| Image Detection of Rare Orthopedic Diseases based on Explainable AI |  |  |  |
+| Semi-Supervised SPO Tree Classifier based on the DPC Framework |  |  |  |
+| Designing a Secure and Scalable Service Model using Blockchain and MQTT for IoT Devices |  |  |  |
+| Colour Creation Muse (CCM): Focusing on Primary Colours for an Imagination based Creativity Generation |  |  |  |
+| An Effective Deep Neural Network in Edge Computing Enabled Internet of Things for Plant Diseases Monitoring |  |  |  |
