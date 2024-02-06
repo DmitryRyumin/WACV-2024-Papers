@@ -10,7 +10,7 @@
       <a href="https://wacv2024.thecvf.com">
         <img src="http://img.shields.io/badge/WACV-2024-7395C5.svg" alt="Conference">
       </a>
-      <img src="https://img.shields.io/badge/version-v0.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/version-v1.0.0-rc0" alt="Version">
       <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
       </a>
