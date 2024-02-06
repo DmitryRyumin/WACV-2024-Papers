@@ -101,9 +101,9 @@
   <tr>
     <td><strong>Workshops</strong></td>
     <td>
-      <!-- 112/120 -->
+      <!-- 115/120 -->
       <div style="float:left;">
-        <img src="https://geps.dev/progress/93?successColor=006600" alt="" />
+        <img src="https://geps.dev/progress/96?successColor=006600" alt="" />
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/completed_checkmark_done.svg" width="25" alt="" />
       </div>
     </td>
@@ -1135,12 +1135,24 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_understanding_for_low-resource_languages.md">Vision-based Understanding for Low-Resource Languages</a>
             </td>
-            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_understanding_for_low-resource_languages.md"><img src="https://img.shields.io/badge/3-42BA16" alt="Papers"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_understanding_for_low-resource_languages.md"><img src="https://img.shields.io/badge/1-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_understanding_for_low-resource_languages.md"><img src="https://img.shields.io/badge/1-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_vision-based_understanding_for_low-resource_languages.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_demographic_variations_in_performance_of_biometric_algorithms.md">Demographic Variations in Performance of Biometric Algorithms</a>
             </td>
+            <td colspan="4" rowspan="1" align="center"><i>Will soon be added</i></td>
         </tr>
     </tbody>
 </table>
