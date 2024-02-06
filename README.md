@@ -120,18 +120,18 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 <p>
 
-##### Main
+
 
 <div style="float:left;">
+    <strong>Main</strong>
+    <br />
     <img src="https://img.shields.io/badge/Total%20Papers-846-42BA16" alt="Total Papers" />
     <img src="https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b" alt="Preprint Papers" />
     <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-405%20(47.87%25)%20*-1D7FBF" alt="Papers with Open Code" />
     <img src="https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000" alt="Papers with Video" />
-</div>
-
-##### Workshops
-
-<div style="float:left;">
+    <br />
+    <strong>Workshops</strong>
+    <br />
     <img src="https://img.shields.io/badge/Total%20Papers-120-42BA16" alt="Total Papers" />
     <img src="https://img.shields.io/badge/Preprint%20Papers-50%20(41.67%25)-b31b1b" alt="Preprint Papers" />
     <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-41%20(34.17%25)%20*-1D7FBF" alt="Papers with Open Code" />
