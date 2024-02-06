@@ -25,6 +25,9 @@
 
 ## Physical Retail AI
 
-![Section Papers](https://img.shields.io/badge/Section%20Papers-soon-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-soon-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-soon-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-soon-FF0000)
+![Section Papers](https://img.shields.io/badge/Section%20Papers-2-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-0-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-0-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-0-FF0000)
 
-> Will soon be added
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| [Self-Supervised Human-Object Interaction of Complex Scenes with Context-Aware Mixing: Towards In-Store Consumer Behavior Analysis](https://openaccess.thecvf.com/content/WACV2024W/PRAW/html/Kikuchi_Self-Supervised_Human-Object_Interaction_of_Complex_Scenes_With_Context-Aware_Mixing_Towards_WACVW_2024_paper.html) | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024W/PRAW/papers/Kikuchi_Self-Supervised_Human-Object_Interaction_of_Complex_Scenes_With_Context-Aware_Mixing_Towards_WACVW_2024_paper.pdf) | :heavy_minus_sign: |
+| [PMTL: A Progressive Multi-Level Training Framework for Retail Taxonomy Classification](https://openaccess.thecvf.com/content/WACV2024W/PRAW/html/Bhattacharya_PMTL_A_Progressive_Multi-Level_Training_Framework_for_Retail_Taxonomy_Classification_WACVW_2024_paper.html) | :heavy_minus_sign: | [![thecvf](https://img.shields.io/badge/pdf-thecvf-7395C5.svg)](https://openaccess.thecvf.com/content/WACV2024W/PRAW/papers/Bhattacharya_PMTL_A_Progressive_Multi-Level_Training_Framework_for_Retail_Taxonomy_Classification_WACVW_2024_paper.pdf) | :heavy_minus_sign: |
