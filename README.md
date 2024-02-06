@@ -120,7 +120,7 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     </a>
 <p>
 
-![Total Papers](https://img.shields.io/badge/Total%20Papers-846-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-404%20(47.75%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000)
+![Total Papers](https://img.shields.io/badge/Total%20Papers-846-42BA16) ![Preprint Papers](https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b) ![Papers with Open Code](https://img.shields.io/badge/Papers%20with%20Open%20Code-405%20(47.87%25)%20*-1D7FBF) ![Papers with Video](https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000)
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
 
@@ -847,7 +847,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/structural_engineering_civil_engineering.md"><img src="https://img.shields.io/badge/2-FF0000" alt="Videos"></a>
