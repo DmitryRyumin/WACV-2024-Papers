@@ -1,0 +1,29 @@
+[
+  {
+    "title": "The SARFish Dataset and Challenge",
+    "base_url": "https://openaccess.thecvf.com/content/WACV2024W/CDL",
+    "title_page": "/html/Luckett_The_SARFish_Dataset_and_Challenge_WACVW_2024_paper.html",
+    "github": "DIUx-xView/SARFish",
+    "web_page": null,
+    "github_page": null,
+    "colab": null,
+    "modelscope": null,
+    "gitee": null,
+    "gitlab": null,
+    "zenodo": null,
+    "kaggle": null,
+    "demo_page": null,
+    "paper_thecvf": "/papers/Luckett_The_SARFish_Dataset_and_Challenge_WACVW_2024_paper.pdf",
+    "paper_arxiv_id": null,
+    "paper_pdf": null,
+    "paper_hal_science": null,
+    "paper_researchgate": null,
+    "paper_amazon": null,
+    "youtube_id": null,
+    "drive_google": null,
+    "dropbox": null,
+    "onedrive": null,
+    "loom": null,
+    "section": "Complex-Valued Deep Learning and SARFish Challenge"
+  }
+]
