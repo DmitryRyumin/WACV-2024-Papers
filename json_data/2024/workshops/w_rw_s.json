@@ -27,7 +27,7 @@
     "section": "Real-World Surveillance: Applications and Challenges"
   },
   {
-    "title": "C2T-Net: Channel-Aware Cross-Fused Transformer-Style Networks for Pedestrian Attribute Recognition",
+    "title": "C<sup>2</sup>T-Net: Channel-Aware Cross-Fused Transformer-Style Networks for Pedestrian Attribute Recognition",
     "base_url": "https://openaccess.thecvf.com/content/WACV2024W/RWS",
     "title_page": "/html/Bui_C2T-Net_Channel-Aware_Cross-Fused_Transformer-Style_Networks_for_Pedestrian_Attribute_Recognition_WACVW_2024_paper.html",
     "github": "caodoanh2001/upar_challenge",
