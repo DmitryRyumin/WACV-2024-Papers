@@ -885,9 +885,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             </td>
         </tr>
         <tr>
-            <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/tutorials.md"><i>Tutorials</i></a></td>
-        </tr>
-        <tr>
             <td colspan="5" align="center"><i>Workshops</i></td>
         </tr>
         <tr>
@@ -1178,6 +1175,9 @@ Contributions to improve the completeness of this list are greatly appreciated. 
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_demographic_variations_in_performance_of_biometric_algorithms.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
             </td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/tutorials.md"><i>Tutorials</i></a></td>
         </tr>
     </tbody>
 </table>

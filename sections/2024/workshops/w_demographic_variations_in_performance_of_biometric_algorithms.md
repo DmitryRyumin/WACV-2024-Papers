@@ -18,6 +18,9 @@
     <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
+    <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/tutorials.md">
+        <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/right.svg" width="40" alt="" />
+    </a>
 </div>
 
 ## Demographic Variations in Performance of Biometric Algorithms
