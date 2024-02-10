@@ -130,10 +130,10 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     <br />
     <strong>Workshops</strong>
     <br />
-    <img src="https://img.shields.io/badge/Total%20Papers-120-42BA16" alt="Total Papers" />
-    <img src="https://img.shields.io/badge/Preprint%20Papers-50%20(41.67%25)-b31b1b" alt="Preprint Papers" />
-    <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-41%20(34.17%25)%20*-1D7FBF" alt="Papers with Open Code" />
-    <img src="https://img.shields.io/badge/Papers%20with%20Video-7%20(5.83%25)%20*-FF0000" alt="Papers with Video" />
+    <img src="https://img.shields.io/badge/Total%20Papers-124-42BA16" alt="Total Papers" />
+    <img src="https://img.shields.io/badge/Preprint%20Papers-50%20(40.32%25)-b31b1b" alt="Preprint Papers" />
+    <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-42%20(33.87%25)%20*-1D7FBF" alt="Papers with Open Code" />
+    <img src="https://img.shields.io/badge/Papers%20with%20Video-7%20(5.65%25)%20*-FF0000" alt="Papers with Video" />
 </div>
 
 > :point_right: `*` This count includes repositories on GitHub, GitLab, Hugging Face, and distributions on PyPI, while excluding Web Page or GitHub Page links.
