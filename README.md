@@ -1051,7 +1051,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_for_earth_observation_apps.md"><img src="https://img.shields.io/badge/0-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_for_earth_observation_apps.md"><img src="https://img.shields.io/badge/2-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_for_earth_observation_apps.md"><img src="https://img.shields.io/badge/3-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/workshops/w_cv_for_earth_observation_apps.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
