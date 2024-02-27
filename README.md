@@ -1,4 +1,4 @@
-# WACV-2024-Papers
+# ![WACV-2024-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=WACV-2024-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
 
 <table>
   <tr>
@@ -140,11 +140,13 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 ---
 
-Explore the [*WACV 2024 online conference list*](https://openaccess.thecvf.com/WACV2024?day=all) with a comprehensive collection of accepted papers. Access additional resources such as PDFs, Supplementary Material, arXiv links and BibTeX citations for in-depth exploration of the research presented.
+> [!TIP]
+> Explore the [*WACV 2024 online conference list*](https://openaccess.thecvf.com/WACV2024?day=all) with a comprehensive collection of accepted papers. Access additional resources such as PDFs, Supplementary Material, arXiv links and BibTeX citations for in-depth exploration of the research presented.
 
 ---
 
-[*The PDF version of the WACV 2024 Conference Programme*](https://drive.google.com/file/d/14e5ssb2yhODK127IkcUtaO9EKd63rKak/view), comprises a list of all accepted papers, their presentation order, as well as the designated presentation times.
+> [!TIP]
+> [*The PDF version of the WACV 2024 Conference Programme*](https://drive.google.com/file/d/14e5ssb2yhODK127IkcUtaO9EKd63rKak/view), comprises a list of all accepted papers, their presentation order, as well as the designated presentation times.
 
 ---
 
@@ -163,7 +165,8 @@ Explore the [*WACV 2024 online conference list*](https://openaccess.thecvf.com/W
 <br />
 <br />
 
-> :exclamation: Conference table will be up to date all the time.
+> [!important]
+> Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -259,7 +262,8 @@ Explore the [*WACV 2024 online conference list*](https://openaccess.thecvf.com/W
 <br />
 <br />
 
-Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/WACV-2024-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/WACV-2024-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+> [!NOTE]
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/WACV-2024-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/WACV-2024-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 
