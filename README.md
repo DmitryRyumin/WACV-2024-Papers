@@ -125,7 +125,7 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
     <br />
     <img src="https://img.shields.io/badge/Total%20Papers-846-42BA16" alt="Total Papers" />
     <img src="https://img.shields.io/badge/Preprint%20Papers-538%20(63.59%25)-b31b1b" alt="Preprint Papers" />
-    <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-405%20(47.87%25)%20*-1D7FBF" alt="Papers with Open Code" />
+    <img src="https://img.shields.io/badge/Papers%20with%20Open%20Code-406%20(47.99%25)%20*-1D7FBF" alt="Papers with Open Code" />
     <img src="https://img.shields.io/badge/Papers%20with%20Video-698%20(82.51%25)%20*-FF0000" alt="Papers with Video" />
     <br />
     <strong>Workshops</strong>
@@ -300,7 +300,7 @@ WACV 2024 Papers: Explore a comprehensive collection of cutting-edge research pa
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/9-b31b1b" alt="Preprints"></a>
             </td>
             <td>
-                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/5-1D7FBF" alt="Open Code"></a>
+                <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/6-1D7FBF" alt="Open Code"></a>
             </td>
             <td>
                 <a href="https://github.com/DmitryRyumin/WACV-2024-Papers/blob/main/sections/2024/main/oral_ml_afa.md"><img src="https://img.shields.io/badge/9-FF0000" alt="Videos"></a>
